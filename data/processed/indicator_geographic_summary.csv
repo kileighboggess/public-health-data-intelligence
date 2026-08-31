@@ -1,0 +1,41 @@
+measureid,measure,category,observations,mean_prevalence,median_prevalence,std_prevalence,min_prevalence,max_prevalence,range
+ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,2956,11.67,10.4,4.75,4.0,43.7,39.7
+ARTHRITIS,Arthritis among adults,Health Outcomes,2956,24.6,24.4,2.72,15.5,35.1,19.6
+BINGE,Binge drinking among adults,Health Risk Behaviors,2956,17.78,17.6,2.59,8.2,26.3,18.1
+BPHIGH,High blood pressure among adults,Health Outcomes,2956,33.54,32.8,4.65,21.0,53.1,32.1
+BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,2956,58.13,58.4,3.64,48.0,69.9,21.9
+CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,2956,6.97,7.2,0.63,4.2,8.0,3.8
+CASTHMA,Current asthma among adults,Health Outcomes,2956,10.72,10.7,0.91,7.8,15.1,7.3
+CHD,Coronary heart disease among adults,Health Outcomes,2956,5.97,5.9,0.83,3.8,11.4,7.6
+CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,2956,74.85,75.4,3.52,60.2,84.0,23.8
+CHOLSCREEN,Cholesterol screening among adults,Prevention,2956,82.92,82.9,2.38,67.4,90.4,23.0
+COGNITION,Cognitive disability among adults,Disability,2956,16.59,16.3,2.77,9.5,27.1,17.6
+COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,3143,57.5,57.7,4.37,39.4,71.1,31.7
+COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,2956,6.99,6.8,1.55,3.2,15.0,11.8
+CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,2956,16.34,16.1,3.54,6.5,40.3,33.8
+DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,3143,57.32,59.1,10.71,4.9,78.3,73.4
+DEPRESSION,Depression among adults,Health Outcomes,2956,24.06,23.9,3.46,12.3,36.2,23.9
+DIABETES,Diagnosed diabetes among adults,Health Outcomes,2956,11.17,10.7,2.33,6.0,23.8,17.8
+DISABILITY,Any disability among adults,Disability,2956,32.36,31.8,5.2,18.9,52.3,33.4
+EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,2299,24.29,23.8,3.36,16.7,37.8,21.1
+FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,2299,17.3,15.8,6.1,5.9,46.8,40.9
+FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,2299,14.05,12.8,5.93,3.6,46.6,43.0
+GHLTH,Fair or poor self-rated health status among adults,Health Status,2956,20.69,19.9,4.65,10.4,41.9,31.5
+HEARING,Hearing disability among adults,Disability,2956,6.98,6.9,1.06,4.1,14.5,10.4
+HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,2956,32.0,32.2,2.3,25.0,37.9,12.9
+HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,2299,13.97,12.9,4.26,5.9,33.6,27.7
+INDEPLIVE,Independent living disability among adults,Disability,2956,9.04,8.7,1.93,4.4,20.8,16.4
+LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,2299,9.45,8.7,2.86,4.1,26.8,22.7
+LONELINESS,Loneliness among adults,Health-Related Social Needs,2299,34.19,34.0,2.8,25.7,43.8,18.1
+LPA,No leisure-time physical activity among adults,Health Risk Behaviors,2956,27.02,26.5,5.39,12.2,48.9,36.7
+MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,3143,73.34,73.6,4.3,48.5,86.6,38.1
+MHLTH,Frequent mental distress among adults,Health Status,2956,18.61,18.6,2.0,12.7,26.6,13.9
+MOBILITY,Mobility disability among adults,Disability,2956,13.7,13.2,3.02,7.0,28.8,21.8
+OBESITY,Obesity among adults,Health Outcomes,2956,37.63,38.2,4.74,17.1,54.0,36.9
+PHLTH,Frequent physical distress among adults,Health Status,2956,13.83,13.7,1.96,8.7,23.6,14.9
+SELFCARE,Self-care disability among adults,Disability,2956,3.95,3.7,1.09,1.7,10.8,9.1
+SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,2299,9.67,8.9,3.35,3.7,27.8,24.1
+SLEEP,Short sleep duration among adults,Health Risk Behaviors,3143,37.31,37.6,4.06,24.7,51.0,26.3
+STROKE,Stroke among adults,Health Outcomes,2956,3.27,3.15,0.62,1.9,7.4,5.5
+TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,3143,16.15,15.4,5.9,3.8,44.6,40.8
+VISION,Vision disability among adults,Disability,2956,5.41,5.0,1.65,2.5,17.5,15.0

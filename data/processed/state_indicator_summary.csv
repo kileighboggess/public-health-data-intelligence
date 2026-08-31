@@ -1,0 +1,1908 @@
+stateabbr,statedesc,measureid,measure,category,county_count,mean_prevalence,median_prevalence,min_prevalence,max_prevalence
+AK,Alaska,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,30,11.5,10.75,8.3,18.1
+AK,Alaska,ARTHRITIS,Arthritis among adults,Health Outcomes,30,22.35,21.95,17.7,28.4
+AK,Alaska,BINGE,Binge drinking among adults,Health Risk Behaviors,30,18.41,18.7,15.0,21.3
+AK,Alaska,BPHIGH,High blood pressure among adults,Health Outcomes,30,32.8,31.95,29.5,41.5
+AK,Alaska,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,30,51.16,51.0,49.1,54.2
+AK,Alaska,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,30,6.4,6.65,4.7,7.4
+AK,Alaska,CASTHMA,Current asthma among adults,Health Outcomes,30,10.92,10.5,7.8,14.6
+AK,Alaska,CHD,Coronary heart disease among adults,Health Outcomes,30,6.24,5.95,5.0,9.6
+AK,Alaska,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,30,65.96,66.05,62.4,70.7
+AK,Alaska,CHOLSCREEN,Cholesterol screening among adults,Prevention,30,77.24,77.5,70.4,80.6
+AK,Alaska,COGNITION,Cognitive disability among adults,Disability,30,15.7,14.9,12.2,25.1
+AK,Alaska,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,30,51.58,52.25,40.1,57.6
+AK,Alaska,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,30,6.69,6.05,4.8,12.4
+AK,Alaska,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,30,19.34,16.85,13.8,36.9
+AK,Alaska,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,30,53.56,55.5,32.2,64.2
+AK,Alaska,DEPRESSION,Depression among adults,Health Outcomes,30,19.68,20.15,12.3,22.7
+AK,Alaska,DIABETES,Diagnosed diabetes among adults,Health Outcomes,30,10.35,9.1,7.7,18.0
+AK,Alaska,DISABILITY,Any disability among adults,Disability,30,32.11,30.15,26.1,49.9
+AK,Alaska,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,30,27.96,26.55,22.2,36.1
+AK,Alaska,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,30,19.05,15.2,11.2,45.8
+AK,Alaska,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,30,13.51,10.05,7.6,38.9
+AK,Alaska,GHLTH,Fair or poor self-rated health status among adults,Health Status,30,21.24,18.8,15.5,39.0
+AK,Alaska,HEARING,Hearing disability among adults,Disability,30,8.69,8.15,6.9,13.8
+AK,Alaska,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,30,30.26,30.0,28.5,32.5
+AK,Alaska,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,30,15.14,12.75,10.1,31.6
+AK,Alaska,INDEPLIVE,Independent living disability among adults,Disability,30,8.99,7.85,6.4,17.6
+AK,Alaska,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,30,11.66,9.7,7.5,26.8
+AK,Alaska,LONELINESS,Loneliness among adults,Health-Related Social Needs,30,34.34,34.0,30.2,39.3
+AK,Alaska,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,30,24.2,22.65,17.0,38.5
+AK,Alaska,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,30,64.38,64.4,48.5,71.4
+AK,Alaska,MHLTH,Frequent mental distress among adults,Health Status,30,17.01,16.45,13.0,23.5
+AK,Alaska,MOBILITY,Mobility disability among adults,Disability,30,13.29,11.85,10.0,25.1
+AK,Alaska,OBESITY,Obesity among adults,Health Outcomes,30,35.34,35.0,29.7,47.0
+AK,Alaska,PHLTH,Frequent physical distress among adults,Health Status,30,14.34,13.2,11.6,23.2
+AK,Alaska,SELFCARE,Self-care disability among adults,Disability,30,3.9,3.4,2.8,8.1
+AK,Alaska,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,30,10.53,8.6,6.7,24.9
+AK,Alaska,SLEEP,Short sleep duration among adults,Health Risk Behaviors,30,37.32,37.25,30.2,45.6
+AK,Alaska,STROKE,Stroke among adults,Health Outcomes,30,3.52,3.2,2.7,6.2
+AK,Alaska,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,30,17.94,15.0,9.8,44.6
+AK,Alaska,VISION,Vision disability among adults,Disability,30,5.96,5.0,3.9,13.8
+AL,Alabama,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,67,11.73,11.7,7.4,18.2
+AL,Alabama,ARTHRITIS,Arthritis among adults,Health Outcomes,67,27.93,28.0,23.9,31.6
+AL,Alabama,BINGE,Binge drinking among adults,Health Risk Behaviors,67,14.77,15.3,10.7,17.7
+AL,Alabama,BPHIGH,High blood pressure among adults,Health Outcomes,67,41.65,40.5,35.9,52.4
+AL,Alabama,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,67,62.17,61.5,58.7,67.9
+AL,Alabama,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,67,6.7,6.9,5.0,7.6
+AL,Alabama,CASTHMA,Current asthma among adults,Health Outcomes,67,10.58,10.5,9.4,12.3
+AL,Alabama,CHD,Coronary heart disease among adults,Health Outcomes,67,6.62,6.6,4.8,8.8
+AL,Alabama,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,67,78.66,78.2,76.0,82.3
+AL,Alabama,CHOLSCREEN,Cholesterol screening among adults,Prevention,67,83.02,82.9,80.2,86.7
+AL,Alabama,COGNITION,Cognitive disability among adults,Disability,67,18.53,18.7,12.9,23.2
+AL,Alabama,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,67,59.49,59.4,53.6,67.2
+AL,Alabama,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,67,8.07,8.0,4.8,11.2
+AL,Alabama,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,67,18.01,18.1,10.6,24.9
+AL,Alabama,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,67,52.49,52.2,39.0,67.1
+AL,Alabama,DEPRESSION,Depression among adults,Health Outcomes,67,24.7,24.9,21.4,28.2
+AL,Alabama,DIABETES,Diagnosed diabetes among adults,Health Outcomes,67,13.91,13.1,9.6,21.3
+AL,Alabama,DISABILITY,Any disability among adults,Disability,67,38.04,38.2,26.9,47.9
+AL,Alabama,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,67,26.97,26.0,21.2,34.4
+AL,Alabama,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,67,24.01,21.5,11.6,44.4
+AL,Alabama,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,67,18.93,16.5,7.0,42.2
+AL,Alabama,GHLTH,Fair or poor self-rated health status among adults,Health Status,67,25.09,24.7,15.3,37.8
+AL,Alabama,HEARING,Hearing disability among adults,Disability,67,7.64,7.6,6.1,9.0
+AL,Alabama,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,67,35.99,35.9,34.0,37.7
+AL,Alabama,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,67,17.61,15.9,9.5,31.8
+AL,Alabama,INDEPLIVE,Independent living disability among adults,Disability,67,11.08,10.8,6.7,16.4
+AL,Alabama,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,67,12.13,11.0,6.5,22.1
+AL,Alabama,LONELINESS,Loneliness among adults,Health-Related Social Needs,67,37.18,37.1,31.5,41.3
+AL,Alabama,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,67,30.79,30.5,19.9,42.7
+AL,Alabama,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,67,75.19,74.8,69.2,84.2
+AL,Alabama,MHLTH,Frequent mental distress among adults,Health Status,67,19.4,19.6,15.4,21.7
+AL,Alabama,MOBILITY,Mobility disability among adults,Disability,67,16.89,16.5,10.6,25.1
+AL,Alabama,OBESITY,Obesity among adults,Health Outcomes,67,41.93,40.8,31.6,54.0
+AL,Alabama,PHLTH,Frequent physical distress among adults,Health Status,67,14.78,14.9,10.6,18.5
+AL,Alabama,SELFCARE,Self-care disability among adults,Disability,67,4.97,4.7,2.7,9.0
+AL,Alabama,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,67,12.48,10.8,6.5,25.5
+AL,Alabama,SLEEP,Short sleep duration among adults,Health Risk Behaviors,67,41.78,41.5,34.1,51.0
+AL,Alabama,STROKE,Stroke among adults,Health Outcomes,67,3.94,3.8,2.5,6.2
+AL,Alabama,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,67,19.44,18.1,10.9,35.1
+AL,Alabama,VISION,Vision disability among adults,Disability,67,6.61,6.1,3.6,11.9
+AR,Arkansas,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,75,12.56,12.2,9.3,21.2
+AR,Arkansas,ARTHRITIS,Arthritis among adults,Health Outcomes,75,26.36,26.5,21.6,29.3
+AR,Arkansas,BINGE,Binge drinking among adults,Health Risk Behaviors,75,15.56,15.9,12.3,17.4
+AR,Arkansas,BPHIGH,High blood pressure among adults,Health Outcomes,75,39.58,38.5,31.7,49.0
+AR,Arkansas,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,75,60.51,59.8,56.4,66.3
+AR,Arkansas,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,75,6.82,7.0,5.5,7.5
+AR,Arkansas,CASTHMA,Current asthma among adults,Health Outcomes,75,10.7,10.6,9.2,12.4
+AR,Arkansas,CHD,Coronary heart disease among adults,Health Outcomes,75,6.92,6.9,5.3,8.2
+AR,Arkansas,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,75,76.95,76.6,74.9,80.6
+AR,Arkansas,CHOLSCREEN,Cholesterol screening among adults,Prevention,75,82.05,81.9,79.9,85.4
+AR,Arkansas,COGNITION,Cognitive disability among adults,Disability,75,20.44,20.5,15.1,24.1
+AR,Arkansas,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,75,55.04,55.1,50.4,60.0
+AR,Arkansas,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,75,8.48,8.4,5.6,10.7
+AR,Arkansas,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,75,18.68,18.7,11.6,23.1
+AR,Arkansas,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,75,49.63,49.4,39.1,62.8
+AR,Arkansas,DEPRESSION,Depression among adults,Health Outcomes,75,25.95,26.1,21.9,28.8
+AR,Arkansas,DIABETES,Diagnosed diabetes among adults,Health Outcomes,75,12.41,12.0,9.5,17.2
+AR,Arkansas,DISABILITY,Any disability among adults,Disability,75,39.31,39.5,29.7,45.5
+AR,Arkansas,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,75,28.76,27.8,24.8,35.4
+AR,Arkansas,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,75,22.13,21.1,13.2,36.6
+AR,Arkansas,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,75,14.85,13.9,6.6,29.6
+AR,Arkansas,GHLTH,Fair or poor self-rated health status among adults,Health Status,75,25.88,25.5,18.8,34.8
+AR,Arkansas,HEARING,Hearing disability among adults,Disability,75,7.9,8.0,6.3,9.1
+AR,Arkansas,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,75,33.76,33.9,30.3,35.3
+AR,Arkansas,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,75,17.2,15.7,11.3,27.6
+AR,Arkansas,INDEPLIVE,Independent living disability among adults,Disability,75,10.95,10.8,7.3,15.0
+AR,Arkansas,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,75,11.45,10.9,7.3,18.4
+AR,Arkansas,LONELINESS,Loneliness among adults,Health-Related Social Needs,75,36.14,35.8,31.4,40.0
+AR,Arkansas,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,75,34.26,34.4,25.4,44.3
+AR,Arkansas,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,75,70.06,70.2,64.0,75.5
+AR,Arkansas,MHLTH,Frequent mental distress among adults,Health Status,75,20.67,20.7,16.7,22.7
+AR,Arkansas,MOBILITY,Mobility disability among adults,Disability,75,16.99,16.7,11.9,22.8
+AR,Arkansas,OBESITY,Obesity among adults,Health Outcomes,75,41.1,40.6,34.4,48.6
+AR,Arkansas,PHLTH,Frequent physical distress among adults,Health Status,75,16.0,16.1,12.3,18.9
+AR,Arkansas,SELFCARE,Self-care disability among adults,Disability,75,4.79,4.6,3.0,7.5
+AR,Arkansas,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,75,12.78,11.8,7.5,22.8
+AR,Arkansas,SLEEP,Short sleep duration among adults,Health Risk Behaviors,75,41.12,41.1,34.0,50.5
+AR,Arkansas,STROKE,Stroke among adults,Health Outcomes,75,3.78,3.7,2.7,5.2
+AR,Arkansas,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,75,22.15,21.6,12.1,35.8
+AR,Arkansas,VISION,Vision disability among adults,Disability,75,6.57,6.4,4.3,10.3
+AZ,Arizona,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,15,15.58,14.3,10.4,26.5
+AZ,Arizona,ARTHRITIS,Arthritis among adults,Health Outcomes,15,22.81,22.6,19.9,25.4
+AZ,Arizona,BINGE,Binge drinking among adults,Health Risk Behaviors,15,16.5,16.7,13.2,19.1
+AZ,Arizona,BPHIGH,High blood pressure among adults,Health Outcomes,15,30.65,31.0,27.0,35.3
+AZ,Arizona,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,15,53.77,54.0,51.3,56.7
+AZ,Arizona,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,15,6.87,7.1,5.4,7.7
+AZ,Arizona,CASTHMA,Current asthma among adults,Health Outcomes,15,11.21,11.0,9.5,14.4
+AZ,Arizona,CHD,Coronary heart disease among adults,Health Outcomes,15,5.86,5.9,5.0,7.8
+AZ,Arizona,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,15,70.41,70.2,67.7,73.3
+AZ,Arizona,CHOLSCREEN,Cholesterol screening among adults,Prevention,15,81.28,81.4,76.8,84.5
+AZ,Arizona,COGNITION,Cognitive disability among adults,Disability,15,16.94,16.9,13.8,21.9
+AZ,Arizona,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,15,49.88,49.9,45.1,56.4
+AZ,Arizona,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,15,6.81,6.4,5.1,10.4
+AZ,Arizona,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,15,14.67,13.4,11.0,23.1
+AZ,Arizona,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,15,54.03,54.5,43.6,61.9
+AZ,Arizona,DEPRESSION,Depression among adults,Health Outcomes,15,20.86,21.2,16.6,23.6
+AZ,Arizona,DIABETES,Diagnosed diabetes among adults,Health Outcomes,15,10.99,10.6,8.0,15.3
+AZ,Arizona,DISABILITY,Any disability among adults,Disability,15,33.62,33.3,28.1,42.6
+AZ,Arizona,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,15,28.65,28.0,25.7,36.3
+AZ,Arizona,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,15,20.99,18.5,13.8,35.0
+AZ,Arizona,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,15,15.59,14.1,10.1,29.5
+AZ,Arizona,GHLTH,Fair or poor self-rated health status among adults,Health Status,15,22.22,21.2,17.5,30.9
+AZ,Arizona,HEARING,Hearing disability among adults,Disability,15,7.85,7.7,6.5,11.1
+AZ,Arizona,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,15,31.44,31.1,28.6,34.5
+AZ,Arizona,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,15,16.4,15.2,11.8,25.3
+AZ,Arizona,INDEPLIVE,Independent living disability among adults,Disability,15,8.99,9.0,6.9,14.1
+AZ,Arizona,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,15,11.37,10.1,8.0,20.4
+AZ,Arizona,LONELINESS,Loneliness among adults,Health-Related Social Needs,15,32.93,32.5,30.3,35.5
+AZ,Arizona,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,15,24.39,24.7,16.8,30.3
+AZ,Arizona,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,15,66.47,65.4,58.0,75.0
+AZ,Arizona,MHLTH,Frequent mental distress among adults,Health Status,15,17.74,17.4,15.3,22.3
+AZ,Arizona,MOBILITY,Mobility disability among adults,Disability,15,13.91,13.9,11.5,19.5
+AZ,Arizona,OBESITY,Obesity among adults,Health Outcomes,15,33.65,33.3,25.3,39.0
+AZ,Arizona,PHLTH,Frequent physical distress among adults,Health Status,15,14.43,14.2,11.4,19.4
+AZ,Arizona,SELFCARE,Self-care disability among adults,Disability,15,4.25,4.1,3.2,6.7
+AZ,Arizona,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,15,10.74,9.9,6.9,19.9
+AZ,Arizona,SLEEP,Short sleep duration among adults,Health Risk Behaviors,15,37.51,37.6,32.9,42.7
+AZ,Arizona,STROKE,Stroke among adults,Health Outcomes,15,3.36,3.3,2.7,5.2
+AZ,Arizona,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,15,17.38,16.9,10.3,29.6
+AZ,Arizona,VISION,Vision disability among adults,Disability,15,6.68,6.0,4.6,11.3
+CA,California,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,58,10.62,9.25,5.9,22.2
+CA,California,ARTHRITIS,Arthritis among adults,Health Outcomes,58,20.53,20.65,15.5,24.1
+CA,California,BINGE,Binge drinking among adults,Health Risk Behaviors,58,17.57,17.8,13.3,20.4
+CA,California,BPHIGH,High blood pressure among adults,Health Outcomes,58,29.26,29.4,25.1,32.5
+CA,California,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,58,51.74,51.8,49.5,54.8
+CA,California,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,58,6.34,6.35,4.7,7.4
+CA,California,CASTHMA,Current asthma among adults,Health Outcomes,58,9.98,10.0,7.9,11.3
+CA,California,CHD,Coronary heart disease among adults,Health Outcomes,58,5.41,5.45,4.1,6.6
+CA,California,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,58,69.96,70.0,68.0,71.9
+CA,California,CHOLSCREEN,Cholesterol screening among adults,Prevention,58,83.68,83.75,81.1,86.6
+CA,California,COGNITION,Cognitive disability among adults,Disability,58,15.9,16.1,10.8,19.7
+CA,California,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,58,54.79,55.15,45.2,59.9
+CA,California,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,58,5.42,5.25,3.3,7.8
+CA,California,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,58,12.58,12.55,8.0,17.7
+CA,California,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,58,61.25,61.95,49.5,75.0
+CA,California,DEPRESSION,Depression among adults,Health Outcomes,58,22.7,22.65,17.9,27.7
+CA,California,DIABETES,Diagnosed diabetes among adults,Health Outcomes,58,10.31,10.1,7.5,14.6
+CA,California,DISABILITY,Any disability among adults,Disability,58,30.94,31.1,22.9,38.5
+CA,California,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,58,27.07,26.8,22.8,31.6
+CA,California,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,58,18.04,17.15,9.8,31.3
+CA,California,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,58,16.62,16.3,8.5,28.7
+CA,California,GHLTH,Fair or poor self-rated health status among adults,Health Status,58,21.9,21.55,15.0,32.4
+CA,California,HEARING,Hearing disability among adults,Disability,58,5.97,6.0,4.6,7.3
+CA,California,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,58,31.05,31.0,28.8,33.5
+CA,California,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,58,15.39,14.65,9.5,25.5
+CA,California,INDEPLIVE,Independent living disability among adults,Disability,58,8.61,8.7,5.4,11.3
+CA,California,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,58,9.8,9.75,6.2,15.5
+CA,California,LONELINESS,Loneliness among adults,Health-Related Social Needs,58,36.19,36.2,31.6,41.1
+CA,California,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,58,24.06,23.5,16.6,35.1
+CA,California,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,58,74.35,73.9,67.8,79.4
+CA,California,MHLTH,Frequent mental distress among adults,Health Status,58,18.27,18.4,13.9,21.9
+CA,California,MOBILITY,Mobility disability among adults,Disability,58,13.28,13.25,9.3,18.6
+CA,California,OBESITY,Obesity among adults,Health Outcomes,58,29.98,30.35,17.1,37.9
+CA,California,PHLTH,Frequent physical distress among adults,Health Status,58,13.62,13.75,9.8,17.0
+CA,California,SELFCARE,Self-care disability among adults,Disability,58,3.85,3.8,2.4,6.1
+CA,California,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,58,8.22,8.0,4.7,13.3
+CA,California,SLEEP,Short sleep duration among adults,Health Risk Behaviors,58,35.3,35.2,28.7,41.5
+CA,California,STROKE,Stroke among adults,Health Outcomes,58,2.99,3.0,2.3,3.6
+CA,California,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,58,11.79,11.65,4.4,22.4
+CA,California,VISION,Vision disability among adults,Disability,58,5.52,5.35,3.4,9.9
+CO,Colorado,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,64,12.35,11.7,6.6,22.3
+CO,Colorado,ARTHRITIS,Arthritis among adults,Health Outcomes,64,22.44,22.5,19.7,25.7
+CO,Colorado,BINGE,Binge drinking among adults,Health Risk Behaviors,64,19.13,19.1,16.6,24.4
+CO,Colorado,BPHIGH,High blood pressure among adults,Health Outcomes,64,26.69,26.75,21.0,33.9
+CO,Colorado,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,64,50.74,50.8,48.0,53.2
+CO,Colorado,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,64,7.25,7.35,5.9,7.9
+CO,Colorado,CASTHMA,Current asthma among adults,Health Outcomes,64,11.0,11.0,10.1,12.2
+CO,Colorado,CHD,Coronary heart disease among adults,Health Outcomes,64,5.25,5.2,3.9,7.7
+CO,Colorado,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,64,69.38,69.25,66.9,73.6
+CO,Colorado,CHOLSCREEN,Cholesterol screening among adults,Prevention,64,83.26,83.05,77.3,87.0
+CO,Colorado,COGNITION,Cognitive disability among adults,Disability,64,15.34,15.65,11.0,20.8
+CO,Colorado,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,64,56.45,56.25,47.7,63.8
+CO,Colorado,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,64,5.64,5.6,3.6,8.9
+CO,Colorado,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,64,12.78,13.0,7.6,20.5
+CO,Colorado,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,64,61.44,62.05,48.6,74.8
+CO,Colorado,DEPRESSION,Depression among adults,Health Outcomes,64,23.21,23.1,20.3,26.3
+CO,Colorado,DIABETES,Diagnosed diabetes among adults,Health Outcomes,64,8.57,8.25,6.0,13.1
+CO,Colorado,DISABILITY,Any disability among adults,Disability,64,28.47,29.05,20.8,39.1
+CO,Colorado,GHLTH,Fair or poor self-rated health status among adults,Health Status,64,16.98,16.75,10.7,27.8
+CO,Colorado,HEARING,Hearing disability among adults,Disability,64,6.6,6.55,5.1,9.1
+CO,Colorado,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,64,28.78,28.7,26.6,31.1
+CO,Colorado,INDEPLIVE,Independent living disability among adults,Disability,64,7.47,7.5,4.9,11.3
+CO,Colorado,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,64,18.98,18.95,12.2,28.9
+CO,Colorado,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,64,69.39,69.05,62.3,77.2
+CO,Colorado,MHLTH,Frequent mental distress among adults,Health Status,64,17.28,17.5,14.6,20.2
+CO,Colorado,MOBILITY,Mobility disability among adults,Disability,64,10.85,10.8,7.1,17.0
+CO,Colorado,OBESITY,Obesity among adults,Health Outcomes,64,27.07,27.15,17.4,35.1
+CO,Colorado,PHLTH,Frequent physical distress among adults,Health Status,64,12.6,12.6,9.1,17.0
+CO,Colorado,SELFCARE,Self-care disability among adults,Disability,64,3.26,3.2,1.9,6.0
+CO,Colorado,SLEEP,Short sleep duration among adults,Health Risk Behaviors,64,31.72,31.8,24.7,37.7
+CO,Colorado,STROKE,Stroke among adults,Health Outcomes,64,2.8,2.8,2.0,4.2
+CO,Colorado,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,64,12.06,12.1,5.0,24.9
+CO,Colorado,VISION,Vision disability among adults,Disability,64,4.67,4.45,2.7,8.8
+CT,Connecticut,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,9,10.06,10.1,7.1,15.0
+CT,Connecticut,ARTHRITIS,Arthritis among adults,Health Outcomes,9,21.5,21.7,19.5,22.9
+CT,Connecticut,BINGE,Binge drinking among adults,Health Risk Behaviors,9,17.14,17.2,15.6,18.7
+CT,Connecticut,BPHIGH,High blood pressure among adults,Health Outcomes,9,28.41,28.4,24.9,30.8
+CT,Connecticut,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,9,56.89,56.7,55.3,59.9
+CT,Connecticut,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,9,7.13,7.1,6.5,7.6
+CT,Connecticut,CASTHMA,Current asthma among adults,Health Outcomes,9,11.11,11.2,10.0,11.7
+CT,Connecticut,CHD,Coronary heart disease among adults,Health Outcomes,9,4.78,4.8,4.2,5.1
+CT,Connecticut,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,9,78.3,78.5,76.6,79.7
+CT,Connecticut,CHOLSCREEN,Cholesterol screening among adults,Prevention,9,87.96,88.0,87.0,89.0
+CT,Connecticut,COGNITION,Cognitive disability among adults,Disability,9,13.02,13.0,10.8,14.3
+CT,Connecticut,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,9,66.32,66.1,65.6,67.4
+CT,Connecticut,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,9,4.94,4.9,4.0,5.7
+CT,Connecticut,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,9,11.07,11.3,8.7,12.5
+CT,Connecticut,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,9,69.92,69.1,67.6,74.6
+CT,Connecticut,DEPRESSION,Depression among adults,Health Outcomes,9,22.0,21.8,18.2,24.8
+CT,Connecticut,DIABETES,Diagnosed diabetes among adults,Health Outcomes,9,8.42,8.8,7.3,9.2
+CT,Connecticut,DISABILITY,Any disability among adults,Disability,9,24.19,24.4,20.8,27.1
+CT,Connecticut,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,9,25.31,25.2,22.7,28.3
+CT,Connecticut,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,9,14.88,15.3,10.4,20.9
+CT,Connecticut,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,9,11.78,12.4,8.5,16.5
+CT,Connecticut,GHLTH,Fair or poor self-rated health status among adults,Health Status,9,15.48,15.9,13.2,17.7
+CT,Connecticut,HEARING,Hearing disability among adults,Disability,9,5.17,5.0,4.7,5.7
+CT,Connecticut,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,9,33.07,33.5,31.6,34.1
+CT,Connecticut,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,9,13.0,13.1,9.9,17.6
+CT,Connecticut,INDEPLIVE,Independent living disability among adults,Disability,9,6.93,7.1,5.8,7.7
+CT,Connecticut,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,9,8.48,8.9,6.8,10.9
+CT,Connecticut,LONELINESS,Loneliness among adults,Health-Related Social Needs,9,33.71,33.5,31.0,36.3
+CT,Connecticut,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,9,23.92,23.5,20.5,27.3
+CT,Connecticut,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,9,78.56,78.7,77.0,80.6
+CT,Connecticut,MHLTH,Frequent mental distress among adults,Health Status,9,16.98,17.2,14.9,18.5
+CT,Connecticut,MOBILITY,Mobility disability among adults,Disability,9,9.71,10.0,8.2,10.5
+CT,Connecticut,OBESITY,Obesity among adults,Health Outcomes,9,30.61,30.7,25.6,33.9
+CT,Connecticut,PHLTH,Frequent physical distress among adults,Health Status,9,11.83,12.0,10.5,12.7
+CT,Connecticut,SELFCARE,Self-care disability among adults,Disability,9,3.1,3.2,2.6,3.9
+CT,Connecticut,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,9,8.71,8.9,6.7,11.6
+CT,Connecticut,SLEEP,Short sleep duration among adults,Health Risk Behaviors,9,36.56,37.4,33.4,38.5
+CT,Connecticut,STROKE,Stroke among adults,Health Outcomes,9,2.69,2.8,2.4,3.0
+CT,Connecticut,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,9,10.09,10.7,8.0,11.4
+CT,Connecticut,VISION,Vision disability among adults,Disability,9,4.41,4.6,3.5,5.7
+DC,District of Columbia,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,1,6.2,6.2,6.2,6.2
+DC,District of Columbia,ARTHRITIS,Arthritis among adults,Health Outcomes,1,18.7,18.7,18.7,18.7
+DC,District of Columbia,BINGE,Binge drinking among adults,Health Risk Behaviors,1,22.5,22.5,22.5,22.5
+DC,District of Columbia,BPHIGH,High blood pressure among adults,Health Outcomes,1,30.3,30.3,30.3,30.3
+DC,District of Columbia,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,1,57.2,57.2,57.2,57.2
+DC,District of Columbia,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,1,6.0,6.0,6.0,6.0
+DC,District of Columbia,CASTHMA,Current asthma among adults,Health Outcomes,1,10.2,10.2,10.2,10.2
+DC,District of Columbia,CHD,Coronary heart disease among adults,Health Outcomes,1,4.1,4.1,4.1,4.1
+DC,District of Columbia,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,1,77.0,77.0,77.0,77.0
+DC,District of Columbia,CHOLSCREEN,Cholesterol screening among adults,Prevention,1,90.2,90.2,90.2,90.2
+DC,District of Columbia,COGNITION,Cognitive disability among adults,Disability,1,11.6,11.6,11.6,11.6
+DC,District of Columbia,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,1,66.0,66.0,66.0,66.0
+DC,District of Columbia,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,1,4.2,4.2,4.2,4.2
+DC,District of Columbia,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,1,9.5,9.5,9.5,9.5
+DC,District of Columbia,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,1,69.3,69.3,69.3,69.3
+DC,District of Columbia,DEPRESSION,Depression among adults,Health Outcomes,1,21.0,21.0,21.0,21.0
+DC,District of Columbia,DIABETES,Diagnosed diabetes among adults,Health Outcomes,1,8.5,8.5,8.5,8.5
+DC,District of Columbia,DISABILITY,Any disability among adults,Disability,1,22.0,22.0,22.0,22.0
+DC,District of Columbia,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,1,22.7,22.7,22.7,22.7
+DC,District of Columbia,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,1,13.8,13.8,13.8,13.8
+DC,District of Columbia,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,1,12.8,12.8,12.8,12.8
+DC,District of Columbia,GHLTH,Fair or poor self-rated health status among adults,Health Status,1,13.5,13.5,13.5,13.5
+DC,District of Columbia,HEARING,Hearing disability among adults,Disability,1,4.1,4.1,4.1,4.1
+DC,District of Columbia,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,1,33.3,33.3,33.3,33.3
+DC,District of Columbia,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,1,12.0,12.0,12.0,12.0
+DC,District of Columbia,INDEPLIVE,Independent living disability among adults,Disability,1,6.5,6.5,6.5,6.5
+DC,District of Columbia,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,1,7.8,7.8,7.8,7.8
+DC,District of Columbia,LONELINESS,Loneliness among adults,Health-Related Social Needs,1,36.2,36.2,36.2,36.2
+DC,District of Columbia,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,1,15.3,15.3,15.3,15.3
+DC,District of Columbia,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,1,77.0,77.0,77.0,77.0
+DC,District of Columbia,MHLTH,Frequent mental distress among adults,Health Status,1,13.7,13.7,13.7,13.7
+DC,District of Columbia,MOBILITY,Mobility disability among adults,Disability,1,9.9,9.9,9.9,9.9
+DC,District of Columbia,OBESITY,Obesity among adults,Health Outcomes,1,25.1,25.1,25.1,25.1
+DC,District of Columbia,PHLTH,Frequent physical distress among adults,Health Status,1,9.6,9.6,9.6,9.6
+DC,District of Columbia,SELFCARE,Self-care disability among adults,Disability,1,3.2,3.2,3.2,3.2
+DC,District of Columbia,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,1,7.8,7.8,7.8,7.8
+DC,District of Columbia,SLEEP,Short sleep duration among adults,Health Risk Behaviors,1,32.8,32.8,32.8,32.8
+DC,District of Columbia,STROKE,Stroke among adults,Health Outcomes,1,3.0,3.0,3.0,3.0
+DC,District of Columbia,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,1,7.3,7.3,7.3,7.3
+DC,District of Columbia,VISION,Vision disability among adults,Disability,1,4.3,4.3,4.3,4.3
+DE,Delaware,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,3,9.73,9.8,8.9,10.5
+DE,Delaware,ARTHRITIS,Arthritis among adults,Health Outcomes,3,23.87,23.7,22.4,25.5
+DE,Delaware,BINGE,Binge drinking among adults,Health Risk Behaviors,3,15.77,16.3,14.1,16.9
+DE,Delaware,BPHIGH,High blood pressure among adults,Health Outcomes,3,33.63,32.8,32.1,36.0
+DE,Delaware,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,3,59.3,60.1,57.3,60.5
+DE,Delaware,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,3,7.03,6.9,6.9,7.3
+DE,Delaware,CASTHMA,Current asthma among adults,Health Outcomes,3,11.23,10.7,10.4,12.6
+DE,Delaware,CHD,Coronary heart disease among adults,Health Outcomes,3,5.37,5.5,5.0,5.6
+DE,Delaware,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,3,79.0,78.6,77.6,80.8
+DE,Delaware,CHOLSCREEN,Cholesterol screening among adults,Prevention,3,85.57,85.3,85.2,86.2
+DE,Delaware,COGNITION,Cognitive disability among adults,Disability,3,14.1,13.8,13.4,15.1
+DE,Delaware,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,3,59.57,60.7,57.1,60.9
+DE,Delaware,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,3,6.07,6.3,5.3,6.6
+DE,Delaware,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,3,13.47,14.0,11.8,14.6
+DE,Delaware,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,3,61.6,61.9,60.6,62.3
+DE,Delaware,DEPRESSION,Depression among adults,Health Outcomes,3,22.4,22.4,21.5,23.3
+DE,Delaware,DIABETES,Diagnosed diabetes among adults,Health Outcomes,3,10.97,10.7,9.8,12.4
+DE,Delaware,DISABILITY,Any disability among adults,Disability,3,29.47,27.8,27.5,33.1
+DE,Delaware,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,3,22.53,22.9,21.1,23.6
+DE,Delaware,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,3,15.23,14.6,14.5,16.6
+DE,Delaware,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,3,12.93,11.9,11.8,15.1
+DE,Delaware,GHLTH,Fair or poor self-rated health status among adults,Health Status,3,18.23,17.7,16.8,20.2
+DE,Delaware,HEARING,Hearing disability among adults,Disability,3,5.6,5.8,5.0,6.0
+DE,Delaware,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,3,35.27,34.4,34.0,37.4
+DE,Delaware,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,3,13.3,12.9,11.9,15.1
+DE,Delaware,INDEPLIVE,Independent living disability among adults,Disability,3,7.93,7.8,7.3,8.7
+DE,Delaware,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,3,8.4,8.3,7.8,9.1
+DE,Delaware,LONELINESS,Loneliness among adults,Health-Related Social Needs,3,33.53,32.8,32.0,35.8
+DE,Delaware,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,3,26.9,25.2,24.8,30.7
+DE,Delaware,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,3,77.17,78.1,73.0,80.4
+DE,Delaware,MHLTH,Frequent mental distress among adults,Health Status,3,17.17,16.5,16.3,18.7
+DE,Delaware,MOBILITY,Mobility disability among adults,Disability,3,12.6,11.8,11.6,14.4
+DE,Delaware,OBESITY,Obesity among adults,Health Outcomes,3,37.17,34.2,33.4,43.9
+DE,Delaware,PHLTH,Frequent physical distress among adults,Health Status,3,12.67,12.7,11.6,13.7
+DE,Delaware,SELFCARE,Self-care disability among adults,Disability,3,3.4,3.3,3.2,3.7
+DE,Delaware,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,3,8.47,8.2,7.8,9.4
+DE,Delaware,SLEEP,Short sleep duration among adults,Health Risk Behaviors,3,37.57,36.5,35.3,40.9
+DE,Delaware,STROKE,Stroke among adults,Health Outcomes,3,3.03,2.9,2.9,3.3
+DE,Delaware,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,3,13.63,13.1,13.1,14.7
+DE,Delaware,VISION,Vision disability among adults,Disability,3,4.67,4.5,4.4,5.1
+FL,Florida,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,67,16.17,15.6,9.6,31.9
+FL,Florida,ARTHRITIS,Arthritis among adults,Health Outcomes,67,23.42,23.4,18.0,26.8
+FL,Florida,BINGE,Binge drinking among adults,Health Risk Behaviors,67,17.0,17.0,13.2,20.1
+FL,Florida,BPHIGH,High blood pressure among adults,Health Outcomes,67,33.22,32.9,26.7,39.6
+FL,Florida,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,67,58.54,58.3,56.4,64.3
+FL,Florida,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,67,7.22,7.4,5.1,8.0
+FL,Florida,CASTHMA,Current asthma among adults,Health Outcomes,67,9.93,10.0,8.6,11.2
+FL,Florida,CHD,Coronary heart disease among adults,Health Outcomes,67,6.21,5.9,4.8,7.9
+FL,Florida,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,67,75.06,74.9,72.7,77.9
+FL,Florida,CHOLSCREEN,Cholesterol screening among adults,Prevention,67,83.04,83.6,79.4,86.2
+FL,Florida,COGNITION,Cognitive disability among adults,Disability,67,16.05,15.7,11.9,20.6
+FL,Florida,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,67,58.76,58.8,51.5,67.2
+FL,Florida,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,67,7.13,6.7,4.7,10.1
+FL,Florida,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,67,15.52,14.8,10.1,21.7
+FL,Florida,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,67,53.52,54.6,42.4,67.0
+FL,Florida,DEPRESSION,Depression among adults,Health Outcomes,67,19.34,19.7,14.0,21.8
+FL,Florida,DIABETES,Diagnosed diabetes among adults,Health Outcomes,67,11.43,11.2,8.2,16.1
+FL,Florida,DISABILITY,Any disability among adults,Disability,67,31.73,31.4,22.9,40.5
+FL,Florida,GHLTH,Fair or poor self-rated health status among adults,Health Status,67,20.75,19.6,13.3,30.9
+FL,Florida,HEARING,Hearing disability among adults,Disability,67,6.6,6.4,5.3,8.3
+FL,Florida,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,67,33.54,33.5,30.7,37.4
+FL,Florida,INDEPLIVE,Independent living disability among adults,Disability,67,8.81,8.4,6.0,12.4
+FL,Florida,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,67,26.22,25.5,17.1,37.9
+FL,Florida,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,67,73.06,73.7,63.2,78.2
+FL,Florida,MHLTH,Frequent mental distress among adults,Health Status,67,18.76,18.7,15.2,21.7
+FL,Florida,MOBILITY,Mobility disability among adults,Disability,67,13.66,13.1,9.3,19.0
+FL,Florida,OBESITY,Obesity among adults,Health Outcomes,67,34.82,34.5,25.5,44.5
+FL,Florida,PHLTH,Frequent physical distress among adults,Health Status,67,14.29,13.9,11.1,18.2
+FL,Florida,SELFCARE,Self-care disability among adults,Disability,67,4.02,3.7,2.4,6.4
+FL,Florida,SLEEP,Short sleep duration among adults,Health Risk Behaviors,67,39.39,39.5,31.3,45.2
+FL,Florida,STROKE,Stroke among adults,Health Outcomes,67,3.31,3.2,2.4,4.7
+FL,Florida,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,67,15.25,14.2,7.3,26.0
+FL,Florida,VISION,Vision disability among adults,Disability,67,5.86,5.5,3.5,9.9
+GA,Georgia,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,159,15.26,15.0,8.1,26.7
+GA,Georgia,ARTHRITIS,Arthritis among adults,Health Outcomes,159,24.85,25.1,18.5,28.7
+GA,Georgia,BINGE,Binge drinking among adults,Health Risk Behaviors,159,15.26,15.2,11.8,18.5
+GA,Georgia,BPHIGH,High blood pressure among adults,Health Outcomes,159,37.68,37.9,27.9,46.7
+GA,Georgia,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,159,62.15,62.4,57.5,66.9
+GA,Georgia,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,159,6.54,6.6,4.8,7.7
+GA,Georgia,CASTHMA,Current asthma among adults,Health Outcomes,159,10.62,10.7,8.4,12.3
+GA,Georgia,CHD,Coronary heart disease among adults,Health Outcomes,159,6.28,6.3,4.2,8.1
+GA,Georgia,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,159,76.83,76.8,73.9,80.8
+GA,Georgia,CHOLSCREEN,Cholesterol screening among adults,Prevention,159,83.98,83.7,80.3,88.2
+GA,Georgia,COGNITION,Cognitive disability among adults,Disability,159,17.14,17.6,10.4,21.6
+GA,Georgia,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,159,57.77,57.7,50.5,65.7
+GA,Georgia,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,159,7.49,7.7,3.8,10.5
+GA,Georgia,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,159,17.38,17.8,8.8,23.3
+GA,Georgia,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,159,53.79,53.2,38.0,69.7
+GA,Georgia,DEPRESSION,Depression among adults,Health Outcomes,159,21.14,21.2,15.7,25.0
+GA,Georgia,DIABETES,Diagnosed diabetes among adults,Health Outcomes,159,13.32,13.4,8.3,18.9
+GA,Georgia,DISABILITY,Any disability among adults,Disability,159,33.22,33.7,20.7,41.2
+GA,Georgia,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,159,25.91,26.0,19.9,33.2
+GA,Georgia,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,159,21.87,21.9,7.9,37.3
+GA,Georgia,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,159,18.88,19.1,5.1,38.1
+GA,Georgia,GHLTH,Fair or poor self-rated health status among adults,Health Status,159,23.28,23.5,12.4,32.4
+GA,Georgia,HEARING,Hearing disability among adults,Disability,159,6.63,6.7,4.7,8.5
+GA,Georgia,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,159,33.89,33.9,31.6,35.5
+GA,Georgia,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,159,17.86,18.0,7.7,28.9
+GA,Georgia,INDEPLIVE,Independent living disability among adults,Disability,159,10.4,10.6,5.3,15.2
+GA,Georgia,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,159,11.54,11.6,5.1,19.3
+GA,Georgia,LONELINESS,Loneliness among adults,Health-Related Social Needs,159,38.64,38.8,33.8,43.4
+GA,Georgia,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,159,30.1,30.5,17.3,40.2
+GA,Georgia,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,159,73.57,73.4,66.8,80.7
+GA,Georgia,MHLTH,Frequent mental distress among adults,Health Status,159,19.35,19.6,13.7,22.1
+GA,Georgia,MOBILITY,Mobility disability among adults,Disability,159,15.22,15.3,8.3,22.0
+GA,Georgia,OBESITY,Obesity among adults,Health Outcomes,159,38.62,39.1,26.8,46.5
+GA,Georgia,PHLTH,Frequent physical distress among adults,Health Status,159,14.98,15.2,9.8,18.9
+GA,Georgia,SELFCARE,Self-care disability among adults,Disability,159,4.81,4.8,2.2,8.1
+GA,Georgia,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,159,11.89,12.0,4.4,22.2
+GA,Georgia,SLEEP,Short sleep duration among adults,Health Risk Behaviors,159,39.72,39.7,29.3,48.1
+GA,Georgia,STROKE,Stroke among adults,Health Outcomes,159,3.78,3.8,2.2,5.5
+GA,Georgia,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,159,19.2,18.9,4.3,37.2
+GA,Georgia,VISION,Vision disability among adults,Disability,159,6.45,6.4,3.0,10.5
+HI,Hawaii,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,5,7.5,6.7,5.3,11.8
+HI,Hawaii,ARTHRITIS,Arthritis among adults,Health Outcomes,5,20.2,20.3,18.8,21.4
+HI,Hawaii,BINGE,Binge drinking among adults,Health Risk Behaviors,5,19.44,19.9,16.0,21.3
+HI,Hawaii,BPHIGH,High blood pressure among adults,Health Outcomes,5,26.82,27.0,24.8,29.0
+HI,Hawaii,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,5,52.44,51.9,49.5,56.9
+HI,Hawaii,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,5,5.44,5.6,4.8,5.9
+HI,Hawaii,CASTHMA,Current asthma among adults,Health Outcomes,5,10.12,10.4,8.6,11.4
+HI,Hawaii,CHD,Coronary heart disease among adults,Health Outcomes,5,5.32,5.0,4.6,6.6
+HI,Hawaii,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,5,69.84,71.2,60.2,76.2
+HI,Hawaii,CHOLSCREEN,Cholesterol screening among adults,Prevention,5,76.94,78.9,67.4,80.7
+HI,Hawaii,COGNITION,Cognitive disability among adults,Disability,5,13.86,13.6,12.7,16.0
+HI,Hawaii,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,5,54.98,53.3,52.6,58.0
+HI,Hawaii,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,5,5.0,4.8,4.1,5.7
+HI,Hawaii,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,5,13.04,13.4,10.3,15.0
+HI,Hawaii,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,5,63.0,64.5,51.1,69.1
+HI,Hawaii,DEPRESSION,Depression among adults,Health Outcomes,5,17.32,16.9,14.2,21.7
+HI,Hawaii,DIABETES,Diagnosed diabetes among adults,Health Outcomes,5,10.38,9.6,9.3,12.9
+HI,Hawaii,DISABILITY,Any disability among adults,Disability,5,27.16,26.6,25.0,30.1
+HI,Hawaii,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,5,28.72,29.7,23.6,31.2
+HI,Hawaii,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,5,19.64,18.3,17.7,22.6
+HI,Hawaii,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,5,15.72,14.2,11.6,20.7
+HI,Hawaii,GHLTH,Fair or poor self-rated health status among adults,Health Status,5,18.22,17.2,16.6,21.4
+HI,Hawaii,HEARING,Hearing disability among adults,Disability,5,6.1,5.9,5.6,6.8
+HI,Hawaii,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,5,28.62,28.5,26.8,31.0
+HI,Hawaii,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,5,13.72,12.5,11.6,17.6
+HI,Hawaii,INDEPLIVE,Independent living disability among adults,Disability,5,7.56,7.3,6.6,8.6
+HI,Hawaii,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,5,9.2,8.8,7.4,10.8
+HI,Hawaii,LONELINESS,Loneliness among adults,Health-Related Social Needs,5,31.56,33.0,25.7,34.1
+HI,Hawaii,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,5,20.84,20.7,19.1,22.5
+HI,Hawaii,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,5,75.6,76.6,69.8,79.5
+HI,Hawaii,MHLTH,Frequent mental distress among adults,Health Status,5,15.96,16.5,13.7,17.7
+HI,Hawaii,MOBILITY,Mobility disability among adults,Disability,5,11.68,11.5,10.3,13.9
+HI,Hawaii,OBESITY,Obesity among adults,Health Outcomes,5,27.36,26.2,24.1,33.0
+HI,Hawaii,PHLTH,Frequent physical distress among adults,Health Status,5,12.28,12.0,11.0,13.5
+HI,Hawaii,SELFCARE,Self-care disability among adults,Disability,5,3.54,3.2,2.8,4.8
+HI,Hawaii,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,5,7.9,7.3,5.9,10.8
+HI,Hawaii,SLEEP,Short sleep duration among adults,Health Risk Behaviors,5,43.54,42.6,39.9,49.5
+HI,Hawaii,STROKE,Stroke among adults,Health Outcomes,5,3.22,3.0,2.9,3.9
+HI,Hawaii,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,5,9.32,9.7,7.9,10.3
+HI,Hawaii,VISION,Vision disability among adults,Disability,5,5.3,4.8,4.7,6.6
+IA,Iowa,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,99,7.99,7.7,5.6,14.3
+IA,Iowa,ARTHRITIS,Arthritis among adults,Health Outcomes,99,23.57,23.6,21.1,25.8
+IA,Iowa,BINGE,Binge drinking among adults,Health Risk Behaviors,99,22.48,22.5,18.8,26.3
+IA,Iowa,BPHIGH,High blood pressure among adults,Health Outcomes,99,31.08,31.0,27.4,35.2
+IA,Iowa,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,99,58.49,58.4,56.7,60.9
+IA,Iowa,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,99,7.31,7.4,6.4,7.8
+IA,Iowa,CASTHMA,Current asthma among adults,Health Outcomes,99,10.08,10.1,9.2,10.9
+IA,Iowa,CHD,Coronary heart disease among adults,Health Outcomes,99,5.56,5.6,4.4,6.6
+IA,Iowa,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,99,75.12,75.1,73.4,77.8
+IA,Iowa,CHOLSCREEN,Cholesterol screening among adults,Prevention,99,81.89,81.8,79.5,85.2
+IA,Iowa,COGNITION,Cognitive disability among adults,Disability,99,14.65,14.8,11.1,17.3
+IA,Iowa,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,99,60.01,60.2,53.6,66.4
+IA,Iowa,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,99,6.33,6.3,4.3,8.3
+IA,Iowa,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,99,16.25,16.4,10.7,20.4
+IA,Iowa,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,99,65.57,65.5,58.3,75.3
+IA,Iowa,DEPRESSION,Depression among adults,Health Outcomes,99,21.52,21.6,18.3,23.8
+IA,Iowa,DIABETES,Diagnosed diabetes among adults,Health Outcomes,99,9.76,9.7,8.4,12.2
+IA,Iowa,DISABILITY,Any disability among adults,Disability,99,27.39,27.5,22.4,32.4
+IA,Iowa,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,99,24.23,24.1,21.2,28.2
+IA,Iowa,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,99,13.01,12.8,8.3,19.8
+IA,Iowa,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,99,11.03,11.0,6.2,16.7
+IA,Iowa,GHLTH,Fair or poor self-rated health status among adults,Health Status,99,17.6,17.6,12.9,22.7
+IA,Iowa,HEARING,Hearing disability among adults,Disability,99,6.63,6.6,5.3,7.7
+IA,Iowa,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,99,30.46,30.4,28.4,33.3
+IA,Iowa,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,99,10.49,10.3,7.7,14.9
+IA,Iowa,INDEPLIVE,Independent living disability among adults,Disability,99,7.56,7.6,5.4,9.7
+IA,Iowa,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,99,7.35,7.2,5.3,9.9
+IA,Iowa,LONELINESS,Loneliness among adults,Health-Related Social Needs,99,33.1,33.1,28.9,35.9
+IA,Iowa,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,99,25.07,25.2,19.2,31.5
+IA,Iowa,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,99,77.42,77.5,71.9,83.3
+IA,Iowa,MHLTH,Frequent mental distress among adults,Health Status,99,17.75,17.8,14.6,19.6
+IA,Iowa,MOBILITY,Mobility disability among adults,Disability,99,11.37,11.4,8.4,14.1
+IA,Iowa,OBESITY,Obesity among adults,Health Outcomes,99,39.52,39.7,32.4,44.4
+IA,Iowa,PHLTH,Frequent physical distress among adults,Health Status,99,12.42,12.4,9.8,14.5
+IA,Iowa,SELFCARE,Self-care disability among adults,Disability,99,3.22,3.2,2.2,4.2
+IA,Iowa,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,99,7.19,7.1,5.0,9.7
+IA,Iowa,SLEEP,Short sleep duration among adults,Health Risk Behaviors,99,33.71,33.9,27.6,38.9
+IA,Iowa,STROKE,Stroke among adults,Health Outcomes,99,2.88,2.9,2.3,3.5
+IA,Iowa,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,99,12.45,11.9,5.6,22.2
+IA,Iowa,VISION,Vision disability among adults,Disability,99,4.16,4.1,2.9,5.8
+ID,Idaho,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,44,12.37,11.35,8.4,20.9
+ID,Idaho,ARTHRITIS,Arthritis among adults,Health Outcomes,44,24.14,23.9,20.5,27.0
+ID,Idaho,BINGE,Binge drinking among adults,Health Risk Behaviors,44,16.17,15.95,12.9,18.5
+ID,Idaho,BPHIGH,High blood pressure among adults,Health Outcomes,44,29.39,29.65,24.7,32.2
+ID,Idaho,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,44,51.39,51.5,49.4,53.1
+ID,Idaho,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,44,7.07,7.1,6.3,7.6
+ID,Idaho,CASTHMA,Current asthma among adults,Health Outcomes,44,10.89,10.8,9.9,11.8
+ID,Idaho,CHD,Coronary heart disease among adults,Health Outcomes,44,5.75,5.7,4.7,7.1
+ID,Idaho,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,44,71.36,71.1,69.8,75.1
+ID,Idaho,CHOLSCREEN,Cholesterol screening among adults,Prevention,44,78.3,78.15,75.3,81.8
+ID,Idaho,COGNITION,Cognitive disability among adults,Disability,44,17.43,17.25,13.9,21.1
+ID,Idaho,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,44,54.04,53.85,49.4,60.9
+ID,Idaho,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,44,6.53,6.4,4.7,9.0
+ID,Idaho,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,44,13.86,13.8,9.8,18.1
+ID,Idaho,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,44,62.97,63.2,54.6,71.7
+ID,Idaho,DEPRESSION,Depression among adults,Health Outcomes,44,23.36,23.3,20.1,26.1
+ID,Idaho,DIABETES,Diagnosed diabetes among adults,Health Outcomes,44,9.49,9.2,7.7,11.7
+ID,Idaho,DISABILITY,Any disability among adults,Disability,44,34.85,34.7,28.3,40.9
+ID,Idaho,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,44,21.06,21.0,18.3,24.4
+ID,Idaho,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,44,15.23,14.6,10.2,22.4
+ID,Idaho,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,44,10.89,10.2,6.6,17.1
+ID,Idaho,GHLTH,Fair or poor self-rated health status among adults,Health Status,44,18.82,18.3,14.4,24.4
+ID,Idaho,HEARING,Hearing disability among adults,Disability,44,8.83,8.9,7.4,10.4
+ID,Idaho,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,44,28.81,28.75,25.9,30.8
+ID,Idaho,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,44,12.37,11.65,9.1,17.6
+ID,Idaho,INDEPLIVE,Independent living disability among adults,Disability,44,8.81,8.65,6.5,11.6
+ID,Idaho,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,44,8.63,8.3,6.3,11.4
+ID,Idaho,LONELINESS,Loneliness among adults,Health-Related Social Needs,44,30.28,30.35,27.4,32.4
+ID,Idaho,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,44,23.89,23.45,17.9,29.9
+ID,Idaho,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,44,66.82,66.1,60.5,75.4
+ID,Idaho,MHLTH,Frequent mental distress among adults,Health Status,44,17.4,17.3,14.7,19.9
+ID,Idaho,MOBILITY,Mobility disability among adults,Disability,44,14.04,13.95,10.6,17.4
+ID,Idaho,OBESITY,Obesity among adults,Health Outcomes,44,33.53,33.5,23.1,39.2
+ID,Idaho,PHLTH,Frequent physical distress among adults,Health Status,44,13.85,13.8,11.2,16.4
+ID,Idaho,SELFCARE,Self-care disability among adults,Disability,44,3.71,3.55,2.7,5.1
+ID,Idaho,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,44,8.09,7.95,5.7,10.8
+ID,Idaho,SLEEP,Short sleep duration among adults,Health Risk Behaviors,44,33.8,34.0,27.9,37.6
+ID,Idaho,STROKE,Stroke among adults,Health Outcomes,44,3.09,3.05,2.5,3.8
+ID,Idaho,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,44,16.17,16.1,6.8,23.5
+ID,Idaho,VISION,Vision disability among adults,Disability,44,5.19,4.85,3.7,7.2
+IL,Illinois,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,102,8.95,8.8,6.0,13.3
+IL,Illinois,ARTHRITIS,Arthritis among adults,Health Outcomes,102,23.9,24.0,19.0,26.7
+IL,Illinois,BINGE,Binge drinking among adults,Health Risk Behaviors,102,20.09,20.2,17.0,21.9
+IL,Illinois,BPHIGH,High blood pressure among adults,Health Outcomes,102,31.98,31.8,27.1,38.7
+IL,Illinois,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,102,56.97,56.8,55.0,60.9
+IL,Illinois,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,102,7.2,7.3,5.7,7.6
+IL,Illinois,CASTHMA,Current asthma among adults,Health Outcomes,102,10.51,10.5,8.9,11.9
+IL,Illinois,CHD,Coronary heart disease among adults,Health Outcomes,102,5.62,5.6,4.3,7.0
+IL,Illinois,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,102,75.55,75.4,74.4,78.3
+IL,Illinois,CHOLSCREEN,Cholesterol screening among adults,Prevention,102,84.17,84.0,82.1,87.3
+IL,Illinois,COGNITION,Cognitive disability among adults,Disability,102,14.79,15.0,10.5,18.4
+IL,Illinois,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,102,56.11,56.1,51.6,62.3
+IL,Illinois,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,102,6.89,6.9,4.3,9.3
+IL,Illinois,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,102,15.5,15.7,9.5,20.7
+IL,Illinois,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,102,60.52,59.75,49.8,70.4
+IL,Illinois,DEPRESSION,Depression among adults,Health Outcomes,102,23.33,23.5,17.9,25.5
+IL,Illinois,DIABETES,Diagnosed diabetes among adults,Health Outcomes,102,10.17,10.15,7.8,14.5
+IL,Illinois,DISABILITY,Any disability among adults,Disability,102,29.31,29.55,21.2,36.5
+IL,Illinois,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,102,25.43,25.25,22.3,30.0
+IL,Illinois,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,102,15.5,15.5,8.9,27.3
+IL,Illinois,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,102,15.03,14.8,7.8,30.2
+IL,Illinois,GHLTH,Fair or poor self-rated health status among adults,Health Status,102,18.84,18.9,13.4,26.7
+IL,Illinois,HEARING,Hearing disability among adults,Disability,102,6.34,6.4,4.8,7.2
+IL,Illinois,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,102,31.72,31.7,30.3,33.4
+IL,Illinois,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,102,12.91,12.9,8.5,21.1
+IL,Illinois,INDEPLIVE,Independent living disability among adults,Disability,102,8.44,8.4,5.7,12.0
+IL,Illinois,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,102,8.3,8.3,5.4,13.8
+IL,Illinois,LONELINESS,Loneliness among adults,Health-Related Social Needs,102,34.52,34.6,31.5,37.3
+IL,Illinois,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,102,23.41,23.6,17.2,30.9
+IL,Illinois,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,102,70.62,70.5,63.1,76.3
+IL,Illinois,MHLTH,Frequent mental distress among adults,Health Status,102,18.56,18.7,14.2,21.0
+IL,Illinois,MOBILITY,Mobility disability among adults,Disability,102,12.35,12.35,9.1,17.5
+IL,Illinois,OBESITY,Obesity among adults,Health Outcomes,102,38.65,38.95,29.1,45.7
+IL,Illinois,PHLTH,Frequent physical distress among adults,Health Status,102,13.02,13.1,9.6,16.0
+IL,Illinois,SELFCARE,Self-care disability among adults,Disability,102,3.49,3.5,2.3,5.7
+IL,Illinois,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,102,8.32,8.25,5.2,15.2
+IL,Illinois,SLEEP,Short sleep duration among adults,Health Risk Behaviors,102,37.19,37.2,31.0,42.7
+IL,Illinois,STROKE,Stroke among adults,Health Outcomes,102,3.03,3.0,2.3,4.4
+IL,Illinois,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,102,13.83,13.65,5.3,24.7
+IL,Illinois,VISION,Vision disability among adults,Disability,102,4.62,4.6,3.0,7.5
+IN,Indiana,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,92,9.08,8.95,5.4,13.0
+IN,Indiana,ARTHRITIS,Arthritis among adults,Health Outcomes,92,26.19,26.2,21.7,28.9
+IN,Indiana,BINGE,Binge drinking among adults,Health Risk Behaviors,92,17.92,17.9,16.2,19.5
+IN,Indiana,BPHIGH,High blood pressure among adults,Health Outcomes,92,34.69,34.85,29.6,38.0
+IN,Indiana,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,92,59.51,59.5,57.4,62.3
+IN,Indiana,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,92,7.32,7.4,6.4,7.6
+IN,Indiana,CASTHMA,Current asthma among adults,Health Outcomes,92,11.33,11.3,10.2,12.4
+IN,Indiana,CHD,Coronary heart disease among adults,Health Outcomes,92,6.02,6.0,4.4,7.6
+IN,Indiana,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,92,77.57,77.55,74.8,80.5
+IN,Indiana,CHOLSCREEN,Cholesterol screening among adults,Prevention,92,83.65,83.6,80.5,88.3
+IN,Indiana,COGNITION,Cognitive disability among adults,Disability,92,16.32,16.3,10.7,20.1
+IN,Indiana,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,92,60.43,60.4,54.7,67.0
+IN,Indiana,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,92,7.74,7.7,4.3,10.9
+IN,Indiana,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,92,17.62,17.8,9.3,23.7
+IN,Indiana,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,92,59.47,59.3,50.4,74.6
+IN,Indiana,DEPRESSION,Depression among adults,Health Outcomes,92,26.72,26.9,21.0,29.6
+IN,Indiana,DIABETES,Diagnosed diabetes among adults,Health Outcomes,92,11.27,11.2,8.6,13.5
+IN,Indiana,DISABILITY,Any disability among adults,Disability,92,31.15,31.15,22.0,37.3
+IN,Indiana,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,92,23.58,23.6,18.4,27.0
+IN,Indiana,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,92,14.92,15.1,7.6,21.3
+IN,Indiana,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,92,8.87,9.0,3.6,15.2
+IN,Indiana,GHLTH,Fair or poor self-rated health status among adults,Health Status,92,20.43,20.7,12.3,26.4
+IN,Indiana,HEARING,Hearing disability among adults,Disability,92,6.68,6.7,5.0,8.2
+IN,Indiana,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,92,33.8,33.9,30.3,35.9
+IN,Indiana,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,92,11.73,11.85,6.9,15.3
+IN,Indiana,INDEPLIVE,Independent living disability among adults,Disability,92,8.36,8.45,4.9,11.3
+IN,Indiana,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,92,7.91,8.0,4.8,10.8
+IN,Indiana,LONELINESS,Loneliness among adults,Health-Related Social Needs,92,33.56,33.7,29.0,37.8
+IN,Indiana,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,92,25.22,25.6,15.7,30.9
+IN,Indiana,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,92,74.21,74.2,67.6,80.5
+IN,Indiana,MHLTH,Frequent mental distress among adults,Health Status,92,19.2,19.3,14.2,21.8
+IN,Indiana,MOBILITY,Mobility disability among adults,Disability,92,13.03,13.1,8.1,16.9
+IN,Indiana,OBESITY,Obesity among adults,Health Outcomes,92,39.76,39.65,30.8,47.3
+IN,Indiana,PHLTH,Frequent physical distress among adults,Health Status,92,13.75,13.9,9.1,16.7
+IN,Indiana,SELFCARE,Self-care disability among adults,Disability,92,3.5,3.5,2.0,5.0
+IN,Indiana,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,92,8.61,8.55,4.9,11.9
+IN,Indiana,SLEEP,Short sleep duration among adults,Health Risk Behaviors,92,37.63,37.75,31.1,43.4
+IN,Indiana,STROKE,Stroke among adults,Health Outcomes,92,3.07,3.1,2.1,3.9
+IN,Indiana,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,92,17.12,17.0,5.1,25.2
+IN,Indiana,VISION,Vision disability among adults,Disability,92,4.69,4.8,2.8,6.6
+KS,Kansas,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,105,10.88,9.9,6.8,25.1
+KS,Kansas,ARTHRITIS,Arthritis among adults,Health Outcomes,105,23.84,23.9,20.1,26.1
+KS,Kansas,BINGE,Binge drinking among adults,Health Risk Behaviors,105,17.7,17.8,15.1,19.7
+KS,Kansas,BPHIGH,High blood pressure among adults,Health Outcomes,105,31.78,31.6,28.8,35.9
+KS,Kansas,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,105,59.47,59.4,57.6,61.5
+KS,Kansas,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,105,7.03,7.2,5.5,7.4
+KS,Kansas,CASTHMA,Current asthma among adults,Health Outcomes,105,10.16,10.2,9.0,11.0
+KS,Kansas,CHD,Coronary heart disease among adults,Health Outcomes,105,5.81,5.8,4.4,6.8
+KS,Kansas,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,105,74.13,74.0,72.0,77.8
+KS,Kansas,CHOLSCREEN,Cholesterol screening among adults,Prevention,105,81.76,81.8,79.4,86.7
+KS,Kansas,COGNITION,Cognitive disability among adults,Disability,105,15.95,16.0,11.5,19.0
+KS,Kansas,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,105,55.29,55.3,48.1,65.8
+KS,Kansas,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,105,6.6,6.6,4.1,8.3
+KS,Kansas,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,105,16.3,16.4,9.7,20.1
+KS,Kansas,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,105,61.08,61.1,52.1,74.2
+KS,Kansas,DEPRESSION,Depression among adults,Health Outcomes,105,21.77,22.0,17.6,24.0
+KS,Kansas,DIABETES,Diagnosed diabetes among adults,Health Outcomes,105,10.17,10.0,8.3,13.9
+KS,Kansas,DISABILITY,Any disability among adults,Disability,105,30.99,31.1,23.6,36.3
+KS,Kansas,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,105,22.01,21.7,17.1,27.2
+KS,Kansas,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,105,14.29,13.7,7.7,24.5
+KS,Kansas,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,105,8.42,8.2,3.8,14.3
+KS,Kansas,GHLTH,Fair or poor self-rated health status among adults,Health Status,105,18.62,18.4,11.8,26.0
+KS,Kansas,HEARING,Hearing disability among adults,Disability,105,7.1,7.1,5.5,8.2
+KS,Kansas,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,105,31.61,31.5,30.0,35.3
+KS,Kansas,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,105,12.51,11.9,8.1,21.1
+KS,Kansas,INDEPLIVE,Independent living disability among adults,Disability,105,8.17,8.2,5.4,10.1
+KS,Kansas,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,105,7.84,7.7,4.9,11.9
+KS,Kansas,LONELINESS,Loneliness among adults,Health-Related Social Needs,105,31.65,31.5,28.5,34.9
+KS,Kansas,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,105,27.33,27.1,18.7,38.1
+KS,Kansas,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,105,71.73,71.7,64.9,78.3
+KS,Kansas,MHLTH,Frequent mental distress among adults,Health Status,105,17.71,17.7,13.7,19.7
+KS,Kansas,MOBILITY,Mobility disability among adults,Disability,105,12.83,12.8,8.7,16.2
+KS,Kansas,OBESITY,Obesity among adults,Health Outcomes,105,38.92,39.3,30.9,44.5
+KS,Kansas,PHLTH,Frequent physical distress among adults,Health Status,105,12.69,12.6,9.1,15.2
+KS,Kansas,SELFCARE,Self-care disability among adults,Disability,105,3.49,3.4,2.2,4.9
+KS,Kansas,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,105,9.24,9.0,5.8,14.4
+KS,Kansas,SLEEP,Short sleep duration among adults,Health Risk Behaviors,105,35.58,35.8,30.8,40.8
+KS,Kansas,STROKE,Stroke among adults,Health Outcomes,105,2.97,3.0,2.2,3.7
+KS,Kansas,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,105,14.14,14.1,7.1,23.6
+KS,Kansas,VISION,Vision disability among adults,Disability,105,4.61,4.5,2.9,7.3
+KY,Kentucky,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,120,58.4,58.3,50.1,65.6
+KY,Kentucky,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,120,53.94,54.05,40.0,68.6
+KY,Kentucky,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,120,71.33,71.4,63.2,78.4
+KY,Kentucky,SLEEP,Short sleep duration among adults,Health Risk Behaviors,120,41.72,41.7,35.9,46.1
+KY,Kentucky,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,120,22.87,22.05,7.4,41.1
+LA,Louisiana,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,64,10.2,10.1,7.3,16.0
+LA,Louisiana,ARTHRITIS,Arthritis among adults,Health Outcomes,64,27.62,27.75,23.4,30.9
+LA,Louisiana,BINGE,Binge drinking among adults,Health Risk Behaviors,64,17.89,18.1,14.3,21.0
+LA,Louisiana,BPHIGH,High blood pressure among adults,Health Outcomes,64,41.16,40.9,34.0,52.5
+LA,Louisiana,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,64,63.61,63.45,60.0,67.5
+LA,Louisiana,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,64,6.43,6.5,5.3,7.3
+LA,Louisiana,CASTHMA,Current asthma among adults,Health Outcomes,64,10.62,10.7,9.1,12.2
+LA,Louisiana,CHD,Coronary heart disease among adults,Health Outcomes,64,6.9,6.8,5.6,9.5
+LA,Louisiana,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,64,80.04,80.1,78.0,82.4
+LA,Louisiana,CHOLSCREEN,Cholesterol screening among adults,Prevention,64,83.82,83.65,80.2,87.1
+LA,Louisiana,COGNITION,Cognitive disability among adults,Disability,64,20.58,20.6,16.4,26.4
+LA,Louisiana,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,64,58.69,58.4,51.7,65.8
+LA,Louisiana,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,64,8.57,8.55,6.1,12.7
+LA,Louisiana,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,64,20.1,19.95,14.6,29.1
+LA,Louisiana,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,64,53.1,53.75,38.7,64.5
+LA,Louisiana,DEPRESSION,Depression among adults,Health Outcomes,64,27.71,27.8,22.5,31.4
+LA,Louisiana,DIABETES,Diagnosed diabetes among adults,Health Outcomes,64,14.18,14.3,10.6,21.3
+LA,Louisiana,DISABILITY,Any disability among adults,Disability,64,39.54,39.6,32.1,50.1
+LA,Louisiana,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,64,30.39,30.3,25.4,37.8
+LA,Louisiana,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,64,26.28,26.65,15.9,46.8
+LA,Louisiana,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,64,23.14,22.4,11.9,46.6
+LA,Louisiana,GHLTH,Fair or poor self-rated health status among adults,Health Status,64,26.22,26.0,18.8,39.7
+LA,Louisiana,HEARING,Hearing disability among adults,Disability,64,7.64,7.8,6.1,8.9
+LA,Louisiana,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,64,34.49,34.6,32.0,36.1
+LA,Louisiana,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,64,19.69,19.3,12.7,33.6
+LA,Louisiana,INDEPLIVE,Independent living disability among adults,Disability,64,11.35,11.25,8.0,17.2
+LA,Louisiana,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,64,13.21,13.15,8.5,23.5
+LA,Louisiana,LONELINESS,Loneliness among adults,Health-Related Social Needs,64,37.87,38.0,33.5,41.8
+LA,Louisiana,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,64,32.72,32.35,23.9,44.1
+LA,Louisiana,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,64,77.14,76.9,71.1,82.8
+LA,Louisiana,MHLTH,Frequent mental distress among adults,Health Status,64,21.23,21.3,17.9,23.8
+LA,Louisiana,MOBILITY,Mobility disability among adults,Disability,64,17.49,17.3,12.6,26.3
+LA,Louisiana,OBESITY,Obesity among adults,Health Outcomes,64,42.19,42.35,34.2,51.7
+LA,Louisiana,PHLTH,Frequent physical distress among adults,Health Status,64,15.8,15.85,12.7,20.2
+LA,Louisiana,SELFCARE,Self-care disability among adults,Disability,64,5.34,5.15,3.4,10.0
+LA,Louisiana,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,64,14.76,14.45,8.8,27.8
+LA,Louisiana,SLEEP,Short sleep duration among adults,Health Risk Behaviors,64,41.85,41.75,36.7,48.4
+LA,Louisiana,STROKE,Stroke among adults,Health Outcomes,64,4.11,4.0,3.0,6.5
+LA,Louisiana,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,64,21.57,20.65,11.6,43.5
+LA,Louisiana,VISION,Vision disability among adults,Disability,64,7.18,6.95,4.7,13.1
+MA,Massachusetts,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,14,5.29,4.9,4.0,8.5
+MA,Massachusetts,ARTHRITIS,Arthritis among adults,Health Outcomes,14,22.69,22.35,20.7,25.7
+MA,Massachusetts,BINGE,Binge drinking among adults,Health Risk Behaviors,14,18.72,19.0,17.3,20.1
+MA,Massachusetts,BPHIGH,High blood pressure among adults,Health Outcomes,14,27.91,27.6,25.6,31.2
+MA,Massachusetts,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,14,55.56,55.5,53.7,58.6
+MA,Massachusetts,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,14,7.33,7.35,6.2,7.9
+MA,Massachusetts,CASTHMA,Current asthma among adults,Health Outcomes,14,11.79,11.9,10.8,12.8
+MA,Massachusetts,CHD,Coronary heart disease among adults,Health Outcomes,14,4.94,4.95,4.3,5.8
+MA,Massachusetts,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,14,79.29,79.55,77.9,80.2
+MA,Massachusetts,CHOLSCREEN,Cholesterol screening among adults,Prevention,14,88.52,88.55,86.5,90.0
+MA,Massachusetts,COGNITION,Cognitive disability among adults,Disability,14,14.31,14.3,11.8,17.7
+MA,Massachusetts,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,14,63.63,64.55,59.6,66.7
+MA,Massachusetts,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,14,5.26,5.3,3.9,6.7
+MA,Massachusetts,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,14,11.91,11.55,8.8,16.0
+MA,Massachusetts,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,14,69.56,70.3,60.5,74.9
+MA,Massachusetts,DEPRESSION,Depression among adults,Health Outcomes,14,25.06,25.1,22.5,27.8
+MA,Massachusetts,DIABETES,Diagnosed diabetes among adults,Health Outcomes,14,8.34,8.15,7.1,10.5
+MA,Massachusetts,DISABILITY,Any disability among adults,Disability,14,26.12,26.2,22.2,33.8
+MA,Massachusetts,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,14,23.99,23.65,21.9,29.5
+MA,Massachusetts,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,14,12.57,12.1,9.0,19.7
+MA,Massachusetts,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,14,14.53,14.4,9.4,23.7
+MA,Massachusetts,GHLTH,Fair or poor self-rated health status among adults,Health Status,14,15.5,15.2,12.3,22.0
+MA,Massachusetts,HEARING,Hearing disability among adults,Disability,14,5.35,5.35,4.7,6.2
+MA,Massachusetts,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,14,30.6,30.6,28.1,32.7
+MA,Massachusetts,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,14,11.74,11.3,9.0,17.5
+MA,Massachusetts,INDEPLIVE,Independent living disability among adults,Disability,14,7.13,7.1,5.4,9.5
+MA,Massachusetts,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,14,7.78,7.6,6.0,11.0
+MA,Massachusetts,LONELINESS,Loneliness among adults,Health-Related Social Needs,14,34.79,34.85,32.8,38.0
+MA,Massachusetts,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,14,20.41,19.8,16.4,29.0
+MA,Massachusetts,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,14,82.86,82.25,78.4,86.6
+MA,Massachusetts,MHLTH,Frequent mental distress among adults,Health Status,14,17.44,17.45,15.2,19.9
+MA,Massachusetts,MOBILITY,Mobility disability among adults,Disability,14,10.18,10.05,8.1,14.3
+MA,Massachusetts,OBESITY,Obesity among adults,Health Outcomes,14,28.06,26.85,23.4,35.2
+MA,Massachusetts,PHLTH,Frequent physical distress among adults,Health Status,14,11.83,11.8,9.6,15.1
+MA,Massachusetts,SELFCARE,Self-care disability among adults,Disability,14,2.86,2.85,2.2,4.0
+MA,Massachusetts,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,14,7.66,7.7,5.6,11.3
+MA,Massachusetts,SLEEP,Short sleep duration among adults,Health Risk Behaviors,14,34.78,34.5,31.3,39.5
+MA,Massachusetts,STROKE,Stroke among adults,Health Outcomes,14,2.59,2.55,2.2,3.1
+MA,Massachusetts,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,14,11.57,11.45,5.6,15.6
+MA,Massachusetts,VISION,Vision disability among adults,Disability,14,3.81,3.7,2.9,5.5
+MD,Maryland,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,24,8.74,8.4,6.0,13.0
+MD,Maryland,ARTHRITIS,Arthritis among adults,Health Outcomes,24,24.39,24.15,18.1,27.9
+MD,Maryland,BINGE,Binge drinking among adults,Health Risk Behaviors,24,16.49,16.1,13.0,20.6
+MD,Maryland,BPHIGH,High blood pressure among adults,Health Outcomes,24,34.08,33.6,28.8,41.6
+MD,Maryland,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,24,58.61,58.05,55.3,62.7
+MD,Maryland,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,24,6.99,7.3,5.0,7.8
+MD,Maryland,CASTHMA,Current asthma among adults,Health Outcomes,24,10.72,10.7,9.1,12.7
+MD,Maryland,CHD,Coronary heart disease among adults,Health Outcomes,24,5.23,5.05,4.1,6.7
+MD,Maryland,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,24,77.37,77.5,73.5,80.1
+MD,Maryland,CHOLSCREEN,Cholesterol screening among adults,Prevention,24,87.45,87.7,84.8,90.4
+MD,Maryland,COGNITION,Cognitive disability among adults,Disability,24,13.69,13.1,9.5,17.2
+MD,Maryland,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,24,62.22,63.45,52.8,66.6
+MD,Maryland,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,24,5.91,5.6,3.5,8.3
+MD,Maryland,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,24,12.91,12.3,7.2,18.8
+MD,Maryland,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,24,62.73,63.45,50.6,71.7
+MD,Maryland,DEPRESSION,Depression among adults,Health Outcomes,24,21.8,22.2,15.1,26.6
+MD,Maryland,DIABETES,Diagnosed diabetes among adults,Health Outcomes,24,10.68,10.35,8.5,13.7
+MD,Maryland,DISABILITY,Any disability among adults,Disability,24,26.68,25.55,20.1,33.0
+MD,Maryland,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,24,24.2,23.5,20.4,29.1
+MD,Maryland,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,24,15.29,13.65,9.5,25.4
+MD,Maryland,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,24,12.59,11.7,6.4,24.4
+MD,Maryland,GHLTH,Fair or poor self-rated health status among adults,Health Status,24,17.62,17.05,11.8,23.5
+MD,Maryland,HEARING,Hearing disability among adults,Disability,24,5.5,5.45,4.2,6.9
+MD,Maryland,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,24,33.5,33.35,30.7,36.6
+MD,Maryland,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,24,13.68,12.35,9.2,22.0
+MD,Maryland,INDEPLIVE,Independent living disability among adults,Disability,24,7.34,7.0,4.8,10.0
+MD,Maryland,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,24,8.13,7.5,5.6,12.8
+MD,Maryland,LONELINESS,Loneliness among adults,Health-Related Social Needs,24,34.62,34.0,31.6,40.6
+MD,Maryland,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,24,23.7,22.85,15.8,31.2
+MD,Maryland,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,24,79.01,80.05,72.6,86.0
+MD,Maryland,MHLTH,Frequent mental distress among adults,Health Status,24,16.98,17.0,12.8,20.2
+MD,Maryland,MOBILITY,Mobility disability among adults,Disability,24,11.38,11.0,7.9,15.9
+MD,Maryland,OBESITY,Obesity among adults,Health Outcomes,24,36.39,36.8,25.9,41.9
+MD,Maryland,PHLTH,Frequent physical distress among adults,Health Status,24,12.04,11.85,8.9,14.6
+MD,Maryland,SELFCARE,Self-care disability among adults,Disability,24,3.3,3.2,2.1,4.9
+MD,Maryland,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,24,8.77,7.7,5.6,14.8
+MD,Maryland,SLEEP,Short sleep duration among adults,Health Risk Behaviors,24,38.17,37.55,32.1,45.4
+MD,Maryland,STROKE,Stroke among adults,Health Outcomes,24,3.0,2.95,2.3,4.1
+MD,Maryland,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,24,11.1,11.6,4.5,19.2
+MD,Maryland,VISION,Vision disability among adults,Disability,24,4.35,4.2,3.0,6.5
+ME,Maine,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,16,8.84,8.75,6.7,10.5
+ME,Maine,ARTHRITIS,Arthritis among adults,Health Outcomes,16,26.59,26.9,22.8,30.1
+ME,Maine,BINGE,Binge drinking among adults,Health Risk Behaviors,16,17.59,17.65,14.9,19.7
+ME,Maine,BPHIGH,High blood pressure among adults,Health Outcomes,16,30.1,29.4,27.7,34.4
+ME,Maine,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,16,53.99,54.1,52.4,56.0
+ME,Maine,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,16,7.38,7.4,7.1,7.8
+ME,Maine,CASTHMA,Current asthma among adults,Health Outcomes,16,12.98,13.15,12.0,13.7
+ME,Maine,CHD,Coronary heart disease among adults,Health Outcomes,16,5.84,5.9,4.7,6.7
+ME,Maine,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,16,78.23,78.2,76.2,79.8
+ME,Maine,CHOLSCREEN,Cholesterol screening among adults,Prevention,16,83.62,83.65,81.9,86.0
+ME,Maine,COGNITION,Cognitive disability among adults,Disability,16,17.26,17.55,14.1,19.7
+ME,Maine,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,16,62.42,61.85,59.1,68.5
+ME,Maine,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,16,7.16,7.3,5.1,8.9
+ME,Maine,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,16,16.04,16.05,11.1,20.0
+ME,Maine,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,16,61.48,61.35,56.0,68.9
+ME,Maine,DEPRESSION,Depression among adults,Health Outcomes,16,28.94,29.15,26.7,30.8
+ME,Maine,DIABETES,Diagnosed diabetes among adults,Health Outcomes,16,9.11,9.1,7.4,10.7
+ME,Maine,DISABILITY,Any disability among adults,Disability,16,30.82,31.55,24.5,37.3
+ME,Maine,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,16,24.14,24.1,21.7,26.6
+ME,Maine,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,16,12.55,12.35,8.5,16.2
+ME,Maine,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,16,16.84,16.75,10.7,22.4
+ME,Maine,GHLTH,Fair or poor self-rated health status among adults,Health Status,16,18.19,18.75,13.6,21.7
+ME,Maine,HEARING,Hearing disability among adults,Disability,16,6.88,7.1,5.7,7.8
+ME,Maine,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,16,31.24,31.3,28.5,33.0
+ME,Maine,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,16,11.96,11.95,8.9,14.2
+ME,Maine,INDEPLIVE,Independent living disability among adults,Disability,16,8.36,8.45,6.6,10.0
+ME,Maine,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,16,8.96,9.0,7.1,11.1
+ME,Maine,LONELINESS,Loneliness among adults,Health-Related Social Needs,16,34.21,34.15,31.9,37.4
+ME,Maine,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,16,22.86,23.25,16.1,29.8
+ME,Maine,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,16,78.76,78.6,74.3,82.0
+ME,Maine,MHLTH,Frequent mental distress among adults,Health Status,16,20.04,20.4,17.8,22.1
+ME,Maine,MOBILITY,Mobility disability among adults,Disability,16,11.78,11.85,8.8,14.5
+ME,Maine,OBESITY,Obesity among adults,Health Outcomes,16,33.75,34.2,26.7,40.0
+ME,Maine,PHLTH,Frequent physical distress among adults,Health Status,16,13.63,13.75,11.2,16.1
+ME,Maine,SELFCARE,Self-care disability among adults,Disability,16,3.25,3.25,2.4,3.9
+ME,Maine,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,16,9.0,8.75,6.6,11.4
+ME,Maine,SLEEP,Short sleep duration among adults,Health Risk Behaviors,16,34.77,34.95,30.8,40.1
+ME,Maine,STROKE,Stroke among adults,Health Outcomes,16,2.9,2.9,2.4,3.3
+ME,Maine,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,16,16.28,16.95,8.0,24.3
+ME,Maine,VISION,Vision disability among adults,Disability,16,4.24,4.25,3.1,5.2
+MI,Michigan,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,83,7.49,7.6,5.1,11.9
+MI,Michigan,ARTHRITIS,Arthritis among adults,Health Outcomes,83,26.14,26.5,20.9,28.2
+MI,Michigan,BINGE,Binge drinking among adults,Health Risk Behaviors,83,18.4,18.4,15.2,20.1
+MI,Michigan,BPHIGH,High blood pressure among adults,Health Outcomes,83,32.52,32.7,26.9,37.1
+MI,Michigan,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,83,57.55,57.5,55.8,60.7
+MI,Michigan,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,83,7.62,7.7,6.5,8.0
+MI,Michigan,CASTHMA,Current asthma among adults,Health Outcomes,83,11.65,11.7,10.6,12.4
+MI,Michigan,CHD,Coronary heart disease among adults,Health Outcomes,83,6.01,6.1,4.7,7.4
+MI,Michigan,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,83,77.42,77.4,75.8,79.7
+MI,Michigan,CHOLSCREEN,Cholesterol screening among adults,Prevention,83,84.6,84.4,81.9,88.5
+MI,Michigan,COGNITION,Cognitive disability among adults,Disability,83,16.03,16.5,11.6,19.3
+MI,Michigan,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,83,62.35,62.3,55.2,67.6
+MI,Michigan,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,83,7.6,7.8,5.0,9.9
+MI,Michigan,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,83,16.55,17.1,10.8,21.3
+MI,Michigan,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,83,66.18,65.3,55.9,76.2
+MI,Michigan,DEPRESSION,Depression among adults,Health Outcomes,83,28.38,28.5,21.5,31.0
+MI,Michigan,DIABETES,Diagnosed diabetes among adults,Health Outcomes,83,10.07,10.1,7.6,12.5
+MI,Michigan,DISABILITY,Any disability among adults,Disability,83,31.22,32.0,21.9,36.8
+MI,Michigan,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,83,23.37,23.5,19.4,27.3
+MI,Michigan,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,83,15.74,15.8,9.3,24.2
+MI,Michigan,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,83,15.1,15.4,7.7,24.6
+MI,Michigan,GHLTH,Fair or poor self-rated health status among adults,Health Status,83,18.95,19.3,13.3,25.4
+MI,Michigan,HEARING,Hearing disability among adults,Disability,83,6.83,6.9,5.1,8.0
+MI,Michigan,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,83,30.57,30.7,27.6,32.5
+MI,Michigan,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,83,12.41,12.5,7.9,19.3
+MI,Michigan,INDEPLIVE,Independent living disability among adults,Disability,83,8.89,9.2,6.2,11.4
+MI,Michigan,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,83,8.65,8.7,5.7,12.4
+MI,Michigan,LONELINESS,Loneliness among adults,Health-Related Social Needs,83,33.42,33.5,30.3,37.4
+MI,Michigan,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,83,24.54,25.0,16.5,31.5
+MI,Michigan,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,83,75.03,75.3,68.2,79.5
+MI,Michigan,MHLTH,Frequent mental distress among adults,Health Status,83,19.55,20.0,15.8,21.8
+MI,Michigan,MOBILITY,Mobility disability among adults,Disability,83,12.52,12.9,8.7,16.2
+MI,Michigan,OBESITY,Obesity among adults,Health Outcomes,83,37.97,38.3,29.0,44.2
+MI,Michigan,PHLTH,Frequent physical distress among adults,Health Status,83,13.85,14.1,10.4,16.6
+MI,Michigan,SELFCARE,Self-care disability among adults,Disability,83,3.55,3.6,2.4,5.1
+MI,Michigan,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,83,9.17,9.2,5.8,14.6
+MI,Michigan,SLEEP,Short sleep duration among adults,Health Risk Behaviors,83,34.81,35.0,28.7,42.2
+MI,Michigan,STROKE,Stroke among adults,Health Outcomes,83,3.11,3.2,2.4,4.0
+MI,Michigan,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,83,12.43,12.2,4.7,21.9
+MI,Michigan,VISION,Vision disability among adults,Disability,83,4.69,4.7,3.1,6.9
+MN,Minnesota,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,87,8.63,8.3,6.1,17.3
+MN,Minnesota,ARTHRITIS,Arthritis among adults,Health Outcomes,87,20.67,20.7,17.1,24.2
+MN,Minnesota,BINGE,Binge drinking among adults,Health Risk Behaviors,87,20.3,20.5,16.3,22.9
+MN,Minnesota,BPHIGH,High blood pressure among adults,Health Outcomes,87,28.56,28.6,23.9,33.2
+MN,Minnesota,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,87,56.77,56.7,54.5,58.7
+MN,Minnesota,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,87,7.24,7.3,6.4,7.5
+MN,Minnesota,CASTHMA,Current asthma among adults,Health Outcomes,87,10.21,10.2,9.3,12.8
+MN,Minnesota,CHD,Coronary heart disease among adults,Health Outcomes,87,5.39,5.4,4.3,7.5
+MN,Minnesota,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,87,71.98,71.9,69.9,74.0
+MN,Minnesota,CHOLSCREEN,Cholesterol screening among adults,Prevention,87,82.22,82.2,78.4,85.7
+MN,Minnesota,COGNITION,Cognitive disability among adults,Disability,87,14.44,14.5,11.1,20.8
+MN,Minnesota,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,87,62.08,62.3,55.9,67.2
+MN,Minnesota,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,87,5.39,5.4,3.8,8.5
+MN,Minnesota,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,87,15.7,15.9,10.9,25.7
+MN,Minnesota,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,87,64.71,64.4,50.4,74.9
+MN,Minnesota,DEPRESSION,Depression among adults,Health Outcomes,87,25.3,25.4,22.1,27.9
+MN,Minnesota,DIABETES,Diagnosed diabetes among adults,Health Outcomes,87,9.34,9.3,7.3,14.0
+MN,Minnesota,DISABILITY,Any disability among adults,Disability,87,28.03,27.8,22.3,40.1
+MN,Minnesota,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,87,22.01,21.9,19.1,27.6
+MN,Minnesota,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,87,13.03,12.6,8.3,28.0
+MN,Minnesota,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,87,9.5,9.3,5.2,22.8
+MN,Minnesota,GHLTH,Fair or poor self-rated health status among adults,Health Status,87,16.58,16.4,11.9,27.2
+MN,Minnesota,HEARING,Hearing disability among adults,Disability,87,6.54,6.5,5.2,9.2
+MN,Minnesota,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,87,28.69,28.7,26.3,30.7
+MN,Minnesota,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,87,10.68,10.4,7.3,20.2
+MN,Minnesota,INDEPLIVE,Independent living disability among adults,Disability,87,7.57,7.5,5.4,12.5
+MN,Minnesota,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,87,8.0,7.9,5.6,16.6
+MN,Minnesota,LONELINESS,Loneliness among adults,Health-Related Social Needs,87,31.27,31.1,28.2,37.5
+MN,Minnesota,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,87,24.09,24.0,18.2,33.2
+MN,Minnesota,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,87,77.06,77.2,69.8,83.0
+MN,Minnesota,MHLTH,Frequent mental distress among adults,Health Status,87,16.96,17.1,14.1,21.5
+MN,Minnesota,MOBILITY,Mobility disability among adults,Disability,87,10.9,10.9,8.0,17.6
+MN,Minnesota,OBESITY,Obesity among adults,Health Outcomes,87,37.02,37.1,27.1,44.4
+MN,Minnesota,PHLTH,Frequent physical distress among adults,Health Status,87,11.73,11.7,9.2,16.9
+MN,Minnesota,SELFCARE,Self-care disability among adults,Disability,87,3.17,3.1,2.2,5.5
+MN,Minnesota,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,87,6.76,6.7,4.5,14.1
+MN,Minnesota,SLEEP,Short sleep duration among adults,Health Risk Behaviors,87,31.48,31.2,25.7,37.9
+MN,Minnesota,STROKE,Stroke among adults,Health Outcomes,87,2.85,2.8,2.2,4.3
+MN,Minnesota,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,87,10.69,10.7,5.0,23.3
+MN,Minnesota,VISION,Vision disability among adults,Disability,87,4.14,4.1,2.9,8.0
+MO,Missouri,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,115,10.23,10.3,6.7,14.7
+MO,Missouri,ARTHRITIS,Arthritis among adults,Health Outcomes,115,26.64,26.5,22.8,30.3
+MO,Missouri,BINGE,Binge drinking among adults,Health Risk Behaviors,115,17.54,17.5,14.4,20.2
+MO,Missouri,BPHIGH,High blood pressure among adults,Health Outcomes,115,34.05,33.9,28.4,40.1
+MO,Missouri,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,115,58.55,58.4,56.9,62.9
+MO,Missouri,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,115,7.34,7.4,6.2,7.6
+MO,Missouri,CASTHMA,Current asthma among adults,Health Outcomes,115,10.88,10.8,9.9,12.3
+MO,Missouri,CHD,Coronary heart disease among adults,Health Outcomes,115,6.31,6.3,4.6,7.7
+MO,Missouri,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,115,75.79,75.7,73.8,80.3
+MO,Missouri,CHOLSCREEN,Cholesterol screening among adults,Prevention,115,80.71,80.6,77.7,85.1
+MO,Missouri,COGNITION,Cognitive disability among adults,Disability,115,19.93,20.0,14.6,24.5
+MO,Missouri,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,115,55.63,55.4,48.5,63.9
+MO,Missouri,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,115,8.35,8.3,5.1,11.3
+MO,Missouri,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,115,19.41,19.5,12.1,25.3
+MO,Missouri,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,115,55.4,55.6,43.9,65.6
+MO,Missouri,DEPRESSION,Depression among adults,Health Outcomes,115,26.44,26.7,23.4,28.7
+MO,Missouri,DIABETES,Diagnosed diabetes among adults,Health Outcomes,115,10.98,11.0,8.8,14.9
+MO,Missouri,DISABILITY,Any disability among adults,Disability,115,37.59,37.5,28.7,45.5
+MO,Missouri,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,115,20.68,20.7,17.3,24.9
+MO,Missouri,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,115,16.13,16.1,8.8,27.9
+MO,Missouri,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,115,13.43,13.3,5.8,27.1
+MO,Missouri,GHLTH,Fair or poor self-rated health status among adults,Health Status,115,22.17,22.2,14.4,30.8
+MO,Missouri,HEARING,Hearing disability among adults,Disability,115,8.09,8.1,6.0,9.6
+MO,Missouri,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,115,32.71,32.8,30.9,34.9
+MO,Missouri,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,115,13.78,13.7,9.0,21.6
+MO,Missouri,INDEPLIVE,Independent living disability among adults,Disability,115,10.25,10.3,6.6,14.4
+MO,Missouri,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,115,9.62,9.6,6.0,15.2
+MO,Missouri,LONELINESS,Loneliness among adults,Health-Related Social Needs,115,32.59,32.6,28.9,36.5
+MO,Missouri,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,115,31.03,31.3,22.1,40.6
+MO,Missouri,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,115,71.93,72.1,63.6,79.6
+MO,Missouri,MHLTH,Frequent mental distress among adults,Health Status,115,19.79,19.8,16.1,22.1
+MO,Missouri,MOBILITY,Mobility disability among adults,Disability,115,15.35,15.4,10.1,21.1
+MO,Missouri,OBESITY,Obesity among adults,Health Outcomes,115,38.95,38.9,31.5,47.7
+MO,Missouri,PHLTH,Frequent physical distress among adults,Health Status,115,14.98,14.9,11.1,18.3
+MO,Missouri,SELFCARE,Self-care disability among adults,Disability,115,4.07,4.0,2.5,6.4
+MO,Missouri,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,115,10.29,10.1,6.3,17.7
+MO,Missouri,SLEEP,Short sleep duration among adults,Health Risk Behaviors,115,39.44,39.4,33.9,44.6
+MO,Missouri,STROKE,Stroke among adults,Health Outcomes,115,3.37,3.4,2.4,4.6
+MO,Missouri,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,115,19.69,20.0,9.2,33.8
+MO,Missouri,VISION,Vision disability among adults,Disability,115,5.4,5.4,3.3,8.5
+MS,Mississippi,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,82,13.22,13.15,8.4,20.0
+MS,Mississippi,ARTHRITIS,Arthritis among adults,Health Outcomes,82,27.55,27.6,23.0,31.1
+MS,Mississippi,BINGE,Binge drinking among adults,Health Risk Behaviors,82,14.06,14.25,10.6,17.1
+MS,Mississippi,BPHIGH,High blood pressure among adults,Health Outcomes,82,43.45,42.95,35.9,53.1
+MS,Mississippi,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,82,65.52,65.5,61.1,69.9
+MS,Mississippi,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,82,6.27,6.3,4.9,7.4
+MS,Mississippi,CASTHMA,Current asthma among adults,Health Outcomes,82,10.33,10.35,9.2,11.8
+MS,Mississippi,CHD,Coronary heart disease among adults,Health Outcomes,82,6.78,6.75,4.9,8.3
+MS,Mississippi,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,82,80.02,79.8,77.0,83.4
+MS,Mississippi,CHOLSCREEN,Cholesterol screening among adults,Prevention,82,84.01,83.9,81.1,87.8
+MS,Mississippi,COGNITION,Cognitive disability among adults,Disability,82,19.53,19.65,13.9,23.3
+MS,Mississippi,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,82,54.87,55.0,49.6,62.7
+MS,Mississippi,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,82,8.43,8.5,5.1,11.1
+MS,Mississippi,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,82,19.41,19.7,11.9,24.1
+MS,Mississippi,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,82,7.93,7.75,4.9,12.9
+MS,Mississippi,DEPRESSION,Depression among adults,Health Outcomes,82,20.1,20.1,17.1,23.5
+MS,Mississippi,DIABETES,Diagnosed diabetes among adults,Health Outcomes,82,14.76,14.4,10.7,21.0
+MS,Mississippi,DISABILITY,Any disability among adults,Disability,82,39.0,39.2,29.4,46.3
+MS,Mississippi,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,82,30.89,30.8,25.3,37.8
+MS,Mississippi,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,82,27.0,26.65,14.6,43.6
+MS,Mississippi,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,82,17.72,17.05,7.3,34.8
+MS,Mississippi,GHLTH,Fair or poor self-rated health status among adults,Health Status,82,26.14,26.0,16.9,36.0
+MS,Mississippi,HEARING,Hearing disability among adults,Disability,82,7.41,7.5,5.7,8.5
+MS,Mississippi,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,82,34.29,34.3,31.5,36.5
+MS,Mississippi,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,82,20.59,20.15,12.0,32.5
+MS,Mississippi,INDEPLIVE,Independent living disability among adults,Disability,82,11.42,11.35,7.2,16.1
+MS,Mississippi,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,82,14.28,14.0,8.3,23.0
+MS,Mississippi,LONELINESS,Loneliness among adults,Health-Related Social Needs,82,37.91,37.95,33.7,43.8
+MS,Mississippi,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,82,35.84,35.65,25.6,46.2
+MS,Mississippi,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,82,72.6,72.5,67.0,77.4
+MS,Mississippi,MHLTH,Frequent mental distress among adults,Health Status,82,18.94,19.1,15.4,20.8
+MS,Mississippi,MOBILITY,Mobility disability among adults,Disability,82,18.51,18.2,12.1,25.4
+MS,Mississippi,OBESITY,Obesity among adults,Health Outcomes,82,42.84,42.6,36.0,53.0
+MS,Mississippi,PHLTH,Frequent physical distress among adults,Health Status,82,15.12,15.25,10.8,18.1
+MS,Mississippi,SELFCARE,Self-care disability among adults,Disability,82,5.7,5.6,3.3,9.3
+MS,Mississippi,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,82,14.21,13.55,7.6,24.8
+MS,Mississippi,SLEEP,Short sleep duration among adults,Health Risk Behaviors,82,40.01,39.9,32.2,47.0
+MS,Mississippi,STROKE,Stroke among adults,Health Outcomes,82,4.36,4.3,2.9,6.2
+MS,Mississippi,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,82,22.59,22.7,8.4,39.0
+MS,Mississippi,VISION,Vision disability among adults,Disability,82,7.67,7.5,4.4,12.3
+MT,Montana,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,56,10.54,10.1,8.2,14.6
+MT,Montana,ARTHRITIS,Arthritis among adults,Health Outcomes,56,24.7,24.35,21.7,27.8
+MT,Montana,BINGE,Binge drinking among adults,Health Risk Behaviors,56,22.2,22.5,18.3,24.1
+MT,Montana,BPHIGH,High blood pressure among adults,Health Outcomes,56,29.45,29.2,25.2,35.4
+MT,Montana,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,56,52.41,52.4,50.2,55.3
+MT,Montana,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,56,7.37,7.4,6.4,7.7
+MT,Montana,CASTHMA,Current asthma among adults,Health Outcomes,56,11.54,11.3,10.4,14.6
+MT,Montana,CHD,Coronary heart disease among adults,Health Outcomes,56,5.64,5.5,4.6,7.9
+MT,Montana,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,56,68.42,68.3,65.5,72.8
+MT,Montana,CHOLSCREEN,Cholesterol screening among adults,Prevention,56,79.05,79.3,75.6,81.9
+MT,Montana,COGNITION,Cognitive disability among adults,Disability,56,16.15,15.9,12.5,22.2
+MT,Montana,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,56,54.88,54.95,47.9,60.9
+MT,Montana,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,56,6.64,6.4,4.8,10.1
+MT,Montana,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,56,15.96,15.1,10.4,26.9
+MT,Montana,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,56,60.13,61.2,42.2,70.8
+MT,Montana,DEPRESSION,Depression among adults,Health Outcomes,56,25.51,25.5,22.4,28.2
+MT,Montana,DIABETES,Diagnosed diabetes among adults,Health Outcomes,56,8.98,8.5,7.2,14.5
+MT,Montana,DISABILITY,Any disability among adults,Disability,56,30.77,30.0,24.2,42.2
+MT,Montana,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,56,22.85,22.4,18.9,28.3
+MT,Montana,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,56,14.44,12.9,8.6,32.4
+MT,Montana,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,56,10.66,9.5,5.8,26.8
+MT,Montana,GHLTH,Fair or poor self-rated health status among adults,Health Status,56,18.96,17.95,13.5,30.8
+MT,Montana,HEARING,Hearing disability among adults,Disability,56,7.69,7.4,6.4,11.1
+MT,Montana,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,56,27.67,27.5,26.0,29.5
+MT,Montana,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,56,11.47,10.5,7.5,22.7
+MT,Montana,INDEPLIVE,Independent living disability among adults,Disability,56,8.66,8.25,6.3,14.3
+MT,Montana,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,56,9.08,8.1,6.2,20.0
+MT,Montana,LONELINESS,Loneliness among adults,Health-Related Social Needs,56,31.99,31.55,29.0,37.8
+MT,Montana,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,56,22.14,21.9,14.5,32.0
+MT,Montana,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,56,71.92,72.3,65.7,78.9
+MT,Montana,MHLTH,Frequent mental distress among adults,Health Status,56,19.25,19.05,16.3,23.7
+MT,Montana,MOBILITY,Mobility disability among adults,Disability,56,12.06,11.5,8.5,20.4
+MT,Montana,OBESITY,Obesity among adults,Health Outcomes,56,33.48,32.95,24.0,41.6
+MT,Montana,PHLTH,Frequent physical distress among adults,Health Status,56,14.01,13.5,11.2,20.2
+MT,Montana,SELFCARE,Self-care disability among adults,Disability,56,3.58,3.4,2.6,6.4
+MT,Montana,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,56,8.34,7.55,5.5,18.1
+MT,Montana,SLEEP,Short sleep duration among adults,Health Risk Behaviors,56,33.38,33.1,27.9,42.5
+MT,Montana,STROKE,Stroke among adults,Health Outcomes,56,3.12,3.0,2.5,5.0
+MT,Montana,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,56,14.77,12.7,7.3,27.5
+MT,Montana,VISION,Vision disability among adults,Disability,56,4.83,4.4,3.4,10.0
+NC,North Carolina,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,100,11.74,11.7,7.9,17.2
+NC,North Carolina,ARTHRITIS,Arthritis among adults,Health Outcomes,100,25.04,25.15,20.6,29.4
+NC,North Carolina,BINGE,Binge drinking among adults,Health Risk Behaviors,100,15.93,16.05,12.2,19.1
+NC,North Carolina,BPHIGH,High blood pressure among adults,Health Outcomes,100,35.27,34.2,29.7,42.9
+NC,North Carolina,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,100,59.26,58.85,56.5,63.4
+NC,North Carolina,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,100,6.77,6.8,5.6,7.6
+NC,North Carolina,CASTHMA,Current asthma among adults,Health Outcomes,100,11.19,11.05,10.0,13.3
+NC,North Carolina,CHD,Coronary heart disease among adults,Health Outcomes,100,6.03,6.1,4.5,8.1
+NC,North Carolina,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,100,78.1,78.05,76.4,80.5
+NC,North Carolina,CHOLSCREEN,Cholesterol screening among adults,Prevention,100,85.15,85.0,82.5,88.7
+NC,North Carolina,COGNITION,Cognitive disability among adults,Disability,100,16.9,17.05,12.0,21.8
+NC,North Carolina,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,100,59.8,59.7,54.4,66.1
+NC,North Carolina,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,100,7.13,7.3,4.4,10.3
+NC,North Carolina,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,100,16.0,16.2,9.5,23.1
+NC,North Carolina,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,100,59.74,60.3,48.8,71.3
+NC,North Carolina,DEPRESSION,Depression among adults,Health Outcomes,100,25.76,25.8,22.4,28.5
+NC,North Carolina,DIABETES,Diagnosed diabetes among adults,Health Outcomes,100,11.23,10.75,8.1,16.4
+NC,North Carolina,DISABILITY,Any disability among adults,Disability,100,33.35,33.25,23.9,41.2
+NC,North Carolina,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,100,23.83,23.5,19.4,29.9
+NC,North Carolina,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,100,18.15,17.1,9.6,31.2
+NC,North Carolina,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,100,15.52,14.1,7.0,30.9
+NC,North Carolina,GHLTH,Fair or poor self-rated health status among adults,Health Status,100,20.36,19.65,13.5,30.6
+NC,North Carolina,HEARING,Hearing disability among adults,Disability,100,6.95,6.95,5.4,9.5
+NC,North Carolina,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,100,31.75,31.8,29.9,33.8
+NC,North Carolina,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,100,14.58,13.9,8.5,23.5
+NC,North Carolina,INDEPLIVE,Independent living disability among adults,Disability,100,9.18,9.05,5.8,13.9
+NC,North Carolina,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,100,9.9,9.3,5.9,17.6
+NC,North Carolina,LONELINESS,Loneliness among adults,Health-Related Social Needs,100,33.99,34.05,30.1,37.7
+NC,North Carolina,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,100,25.33,24.9,17.9,34.9
+NC,North Carolina,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,100,77.33,77.4,72.7,82.6
+NC,North Carolina,MHLTH,Frequent mental distress among adults,Health Status,100,18.51,18.8,14.9,20.9
+NC,North Carolina,MOBILITY,Mobility disability among adults,Disability,100,14.01,13.7,9.4,20.7
+NC,North Carolina,OBESITY,Obesity among adults,Health Outcomes,100,37.5,37.15,28.9,48.1
+NC,North Carolina,PHLTH,Frequent physical distress among adults,Health Status,100,13.14,13.2,9.2,17.3
+NC,North Carolina,SELFCARE,Self-care disability among adults,Disability,100,4.2,3.95,2.6,6.9
+NC,North Carolina,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,100,9.98,9.2,5.5,17.4
+NC,North Carolina,SLEEP,Short sleep duration among adults,Health Risk Behaviors,100,35.61,35.45,27.7,43.8
+NC,North Carolina,STROKE,Stroke among adults,Health Outcomes,100,3.47,3.35,2.5,5.2
+NC,North Carolina,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,100,17.67,17.55,7.2,33.2
+NC,North Carolina,VISION,Vision disability among adults,Disability,100,5.71,5.35,3.5,10.5
+ND,North Dakota,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,53,8.2,8.0,6.2,13.9
+ND,North Dakota,ARTHRITIS,Arthritis among adults,Health Outcomes,53,23.87,23.7,22.4,30.1
+ND,North Dakota,BINGE,Binge drinking among adults,Health Risk Behaviors,53,22.45,22.7,17.3,24.2
+ND,North Dakota,BPHIGH,High blood pressure among adults,Health Outcomes,53,30.89,30.3,27.6,41.8
+ND,North Dakota,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,53,58.36,58.1,57.1,62.7
+ND,North Dakota,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,53,7.23,7.3,6.1,7.5
+ND,North Dakota,CASTHMA,Current asthma among adults,Health Outcomes,53,10.43,10.2,9.6,14.5
+ND,North Dakota,CHD,Coronary heart disease among adults,Health Outcomes,53,5.73,5.6,4.9,10.1
+ND,North Dakota,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,53,72.42,72.4,70.9,75.2
+ND,North Dakota,CHOLSCREEN,Cholesterol screening among adults,Prevention,53,81.09,81.3,74.8,83.7
+ND,North Dakota,COGNITION,Cognitive disability among adults,Disability,53,13.91,13.5,11.6,23.3
+ND,North Dakota,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,53,57.81,58.3,45.4,63.4
+ND,North Dakota,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,53,6.04,5.8,4.7,12.1
+ND,North Dakota,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,53,15.7,15.0,12.0,33.6
+ND,North Dakota,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,53,61.57,62.6,36.8,69.6
+ND,North Dakota,DEPRESSION,Depression among adults,Health Outcomes,53,21.51,21.5,19.8,23.7
+ND,North Dakota,DIABETES,Diagnosed diabetes among adults,Health Outcomes,53,9.56,9.0,8.1,20.1
+ND,North Dakota,DISABILITY,Any disability among adults,Disability,53,28.58,27.8,23.1,47.7
+ND,North Dakota,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,53,22.16,21.7,19.4,30.1
+ND,North Dakota,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,53,12.99,11.7,8.9,42.6
+ND,North Dakota,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,53,8.51,7.3,5.5,35.2
+ND,North Dakota,GHLTH,Fair or poor self-rated health status among adults,Health Status,53,17.43,16.6,13.7,37.0
+ND,North Dakota,HEARING,Hearing disability among adults,Disability,53,7.51,7.2,6.4,13.5
+ND,North Dakota,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,53,30.3,30.3,28.8,31.9
+ND,North Dakota,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,53,10.73,9.8,8.0,29.2
+ND,North Dakota,INDEPLIVE,Independent living disability among adults,Disability,53,7.72,7.3,6.1,17.0
+ND,North Dakota,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,53,7.6,6.8,5.7,24.0
+ND,North Dakota,LONELINESS,Loneliness among adults,Health-Related Social Needs,53,30.17,30.0,27.9,34.5
+ND,North Dakota,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,53,23.85,23.1,17.7,39.7
+ND,North Dakota,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,53,75.4,75.6,62.6,81.8
+ND,North Dakota,MHLTH,Frequent mental distress among adults,Health Status,53,15.63,15.4,13.5,22.0
+ND,North Dakota,MOBILITY,Mobility disability among adults,Disability,53,11.31,10.8,9.0,24.4
+ND,North Dakota,OBESITY,Obesity among adults,Health Outcomes,53,39.03,38.5,34.6,50.2
+ND,North Dakota,PHLTH,Frequent physical distress among adults,Health Status,53,12.09,11.7,10.0,21.4
+ND,North Dakota,SELFCARE,Self-care disability among adults,Disability,53,3.36,3.2,2.6,8.4
+ND,North Dakota,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,53,7.1,6.4,5.3,23.2
+ND,North Dakota,SLEEP,Short sleep duration among adults,Health Risk Behaviors,53,34.21,33.6,30.9,45.3
+ND,North Dakota,STROKE,Stroke among adults,Health Outcomes,53,2.97,2.9,2.5,6.1
+ND,North Dakota,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,53,12.38,11.7,6.5,29.3
+ND,North Dakota,VISION,Vision disability among adults,Disability,53,4.5,4.1,3.5,13.5
+NE,Nebraska,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,93,10.01,9.5,7.4,20.7
+NE,Nebraska,ARTHRITIS,Arthritis among adults,Health Outcomes,93,21.98,22.0,19.6,24.1
+NE,Nebraska,BINGE,Binge drinking among adults,Health Risk Behaviors,93,22.07,22.2,18.7,24.3
+NE,Nebraska,BPHIGH,High blood pressure among adults,Health Outcomes,93,30.32,30.2,27.6,35.5
+NE,Nebraska,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,93,58.94,58.9,57.7,61.4
+NE,Nebraska,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,93,7.23,7.3,6.0,7.6
+NE,Nebraska,CASTHMA,Current asthma among adults,Health Outcomes,93,9.35,9.3,8.4,11.3
+NE,Nebraska,CHD,Coronary heart disease among adults,Health Outcomes,93,5.48,5.5,4.5,6.6
+NE,Nebraska,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,93,72.92,72.9,70.6,76.1
+NE,Nebraska,CHOLSCREEN,Cholesterol screening among adults,Prevention,93,81.22,81.1,79.2,84.3
+NE,Nebraska,COGNITION,Cognitive disability among adults,Disability,93,13.08,13.1,10.7,16.1
+NE,Nebraska,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,93,55.22,55.4,49.9,60.4
+NE,Nebraska,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,93,5.91,5.9,4.4,7.6
+NE,Nebraska,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,93,14.92,14.9,11.0,21.9
+NE,Nebraska,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,93,61.97,61.8,51.8,69.6
+NE,Nebraska,DEPRESSION,Depression among adults,Health Outcomes,93,18.37,18.4,14.3,20.6
+NE,Nebraska,DIABETES,Diagnosed diabetes among adults,Health Outcomes,93,9.61,9.6,8.3,13.1
+NE,Nebraska,DISABILITY,Any disability among adults,Disability,93,27.38,27.6,23.3,35.6
+NE,Nebraska,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,93,21.15,20.9,18.2,27.0
+NE,Nebraska,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,93,13.15,12.8,9.5,23.8
+NE,Nebraska,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,93,9.47,9.4,6.0,17.7
+NE,Nebraska,GHLTH,Fair or poor self-rated health status among adults,Health Status,93,16.08,16.0,13.0,22.7
+NE,Nebraska,HEARING,Hearing disability among adults,Disability,93,6.96,7.0,5.8,9.1
+NE,Nebraska,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,93,28.7,28.7,26.9,30.6
+NE,Nebraska,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,93,10.3,10.1,7.8,16.9
+NE,Nebraska,INDEPLIVE,Independent living disability among adults,Disability,93,7.24,7.2,5.7,10.1
+NE,Nebraska,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,93,7.18,7.1,5.5,13.0
+NE,Nebraska,LONELINESS,Loneliness among adults,Health-Related Social Needs,93,30.54,30.5,28.4,33.5
+NE,Nebraska,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,93,26.31,26.3,20.5,32.7
+NE,Nebraska,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,93,73.04,73.0,67.2,78.8
+NE,Nebraska,MHLTH,Frequent mental distress among adults,Health Status,93,15.32,15.3,13.6,17.8
+NE,Nebraska,MOBILITY,Mobility disability among adults,Disability,93,11.18,11.3,9.1,15.1
+NE,Nebraska,OBESITY,Obesity among adults,Health Outcomes,93,39.78,39.8,33.4,46.3
+NE,Nebraska,PHLTH,Frequent physical distress among adults,Health Status,93,11.72,11.7,9.8,14.6
+NE,Nebraska,SELFCARE,Self-care disability among adults,Disability,93,3.14,3.1,2.4,4.3
+NE,Nebraska,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,93,7.11,7.0,5.4,12.9
+NE,Nebraska,SLEEP,Short sleep duration among adults,Health Risk Behaviors,93,32.27,32.3,27.6,37.2
+NE,Nebraska,STROKE,Stroke among adults,Health Outcomes,93,2.85,2.8,2.4,3.8
+NE,Nebraska,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,93,12.15,11.9,4.7,19.3
+NE,Nebraska,VISION,Vision disability among adults,Disability,93,4.29,4.3,3.3,6.9
+NH,New Hampshire,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,10,7.45,7.15,6.3,9.4
+NH,New Hampshire,ARTHRITIS,Arthritis among adults,Health Outcomes,10,23.47,23.55,21.3,25.2
+NH,New Hampshire,BINGE,Binge drinking among adults,Health Risk Behaviors,10,17.89,17.8,16.9,19.1
+NH,New Hampshire,BPHIGH,High blood pressure among adults,Health Outcomes,10,28.09,28.05,25.2,29.9
+NH,New Hampshire,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,10,54.85,54.6,53.3,56.9
+NH,New Hampshire,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,10,7.73,7.7,7.5,8.0
+NH,New Hampshire,CASTHMA,Current asthma among adults,Health Outcomes,10,10.69,10.65,10.1,11.6
+NH,New Hampshire,CHD,Coronary heart disease among adults,Health Outcomes,10,4.87,4.8,4.3,5.7
+NH,New Hampshire,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,10,74.0,73.7,71.2,76.9
+NH,New Hampshire,CHOLSCREEN,Cholesterol screening among adults,Prevention,10,85.45,85.5,83.2,87.3
+NH,New Hampshire,COGNITION,Cognitive disability among adults,Disability,10,13.28,12.9,11.4,16.0
+NH,New Hampshire,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,10,61.49,61.0,58.0,65.6
+NH,New Hampshire,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,10,5.55,5.4,4.6,7.1
+NH,New Hampshire,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,10,11.91,11.35,9.9,15.6
+NH,New Hampshire,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,10,65.73,65.2,59.8,70.0
+NH,New Hampshire,DEPRESSION,Depression among adults,Health Outcomes,10,24.55,24.75,22.1,26.6
+NH,New Hampshire,DIABETES,Diagnosed diabetes among adults,Health Outcomes,10,7.77,7.6,7.0,9.4
+NH,New Hampshire,DISABILITY,Any disability among adults,Disability,10,25.28,25.1,22.0,30.9
+NH,New Hampshire,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,10,22.43,22.4,20.4,24.6
+NH,New Hampshire,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,10,10.68,10.3,8.8,14.4
+NH,New Hampshire,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,10,7.73,7.45,5.5,11.3
+NH,New Hampshire,GHLTH,Fair or poor self-rated health status among adults,Health Status,10,14.14,13.9,11.7,18.1
+NH,New Hampshire,HEARING,Hearing disability among adults,Disability,10,6.19,6.1,5.6,7.2
+NH,New Hampshire,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,10,29.39,29.4,27.3,31.5
+NH,New Hampshire,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,10,9.4,9.25,7.8,11.6
+NH,New Hampshire,INDEPLIVE,Independent living disability among adults,Disability,10,6.77,6.55,5.6,8.5
+NH,New Hampshire,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,10,6.44,6.25,5.3,8.3
+NH,New Hampshire,LONELINESS,Loneliness among adults,Health-Related Social Needs,10,32.02,31.65,29.5,34.4
+NH,New Hampshire,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,10,20.01,19.0,17.4,25.6
+NH,New Hampshire,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,10,77.26,77.45,72.3,80.8
+NH,New Hampshire,MHLTH,Frequent mental distress among adults,Health Status,10,17.04,17.0,15.8,18.5
+NH,New Hampshire,MOBILITY,Mobility disability among adults,Disability,10,9.76,9.6,8.1,12.1
+NH,New Hampshire,OBESITY,Obesity among adults,Health Outcomes,10,31.66,31.75,26.5,36.1
+NH,New Hampshire,PHLTH,Frequent physical distress among adults,Health Status,10,11.2,10.9,10.1,13.0
+NH,New Hampshire,SELFCARE,Self-care disability among adults,Disability,10,2.74,2.65,2.2,3.5
+NH,New Hampshire,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,10,6.33,6.15,5.3,7.9
+NH,New Hampshire,SLEEP,Short sleep duration among adults,Health Risk Behaviors,10,34.03,34.45,32.0,35.5
+NH,New Hampshire,STROKE,Stroke among adults,Health Outcomes,10,2.59,2.5,2.3,3.1
+NH,New Hampshire,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,10,9.86,9.85,7.6,14.3
+NH,New Hampshire,VISION,Vision disability among adults,Disability,10,3.66,3.55,3.0,4.7
+NJ,New Jersey,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,21,11.49,10.4,7.3,18.9
+NJ,New Jersey,ARTHRITIS,Arthritis among adults,Health Outcomes,21,19.6,19.4,16.8,23.0
+NJ,New Jersey,BINGE,Binge drinking among adults,Health Risk Behaviors,21,17.26,17.4,14.7,19.9
+NJ,New Jersey,BPHIGH,High blood pressure among adults,Health Outcomes,21,29.53,29.2,25.6,36.0
+NJ,New Jersey,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,21,57.85,57.8,55.2,62.0
+NJ,New Jersey,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,21,6.38,6.2,5.1,7.3
+NJ,New Jersey,CASTHMA,Current asthma among adults,Health Outcomes,21,9.11,9.3,7.9,10.1
+NJ,New Jersey,CHD,Coronary heart disease among adults,Health Outcomes,21,4.73,4.7,4.0,6.1
+NJ,New Jersey,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,21,75.9,76.0,73.2,77.6
+NJ,New Jersey,CHOLSCREEN,Cholesterol screening among adults,Prevention,21,87.49,87.5,84.7,89.1
+NJ,New Jersey,COGNITION,Cognitive disability among adults,Disability,21,12.29,12.4,9.6,16.2
+NJ,New Jersey,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,21,59.14,59.6,51.7,64.2
+NJ,New Jersey,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,21,4.61,4.5,3.4,6.6
+NJ,New Jersey,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,21,11.48,11.3,8.1,16.6
+NJ,New Jersey,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,21,65.43,65.0,55.9,72.8
+NJ,New Jersey,DEPRESSION,Depression among adults,Health Outcomes,21,16.5,16.3,13.0,19.5
+NJ,New Jersey,DIABETES,Diagnosed diabetes among adults,Health Outcomes,21,9.24,8.9,7.0,12.1
+NJ,New Jersey,DISABILITY,Any disability among adults,Disability,21,23.85,23.6,18.9,30.3
+NJ,New Jersey,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,21,24.27,24.8,19.8,28.1
+NJ,New Jersey,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,21,14.62,13.1,8.4,24.7
+NJ,New Jersey,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,21,8.7,7.3,4.5,17.1
+NJ,New Jersey,GHLTH,Fair or poor self-rated health status among adults,Health Status,21,16.28,15.8,11.8,24.1
+NJ,New Jersey,HEARING,Hearing disability among adults,Disability,21,5.0,5.0,4.3,6.1
+NJ,New Jersey,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,21,34.35,34.6,32.5,35.9
+NJ,New Jersey,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,21,12.98,11.7,8.1,20.6
+NJ,New Jersey,INDEPLIVE,Independent living disability among adults,Disability,21,6.6,6.5,4.9,9.5
+NJ,New Jersey,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,21,7.76,7.3,5.2,12.3
+NJ,New Jersey,LONELINESS,Loneliness among adults,Health-Related Social Needs,21,33.45,33.9,29.3,37.6
+NJ,New Jersey,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,21,23.76,23.8,17.9,32.0
+NJ,New Jersey,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,21,75.21,74.7,70.3,80.6
+NJ,New Jersey,MHLTH,Frequent mental distress among adults,Health Status,21,15.97,16.1,13.5,18.4
+NJ,New Jersey,MOBILITY,Mobility disability among adults,Disability,21,9.88,9.6,7.4,14.2
+NJ,New Jersey,OBESITY,Obesity among adults,Health Outcomes,21,29.63,29.7,22.6,40.4
+NJ,New Jersey,PHLTH,Frequent physical distress among adults,Health Status,21,11.6,11.5,9.4,15.2
+NJ,New Jersey,SELFCARE,Self-care disability among adults,Disability,21,3.02,2.8,2.1,4.8
+NJ,New Jersey,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,21,7.46,7.0,4.7,12.3
+NJ,New Jersey,SLEEP,Short sleep duration among adults,Health Risk Behaviors,21,38.14,38.5,33.0,43.4
+NJ,New Jersey,STROKE,Stroke among adults,Health Outcomes,21,2.66,2.6,2.1,3.6
+NJ,New Jersey,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,21,9.82,9.2,5.4,16.2
+NJ,New Jersey,VISION,Vision disability among adults,Disability,21,4.36,4.1,2.9,7.0
+NM,New Mexico,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,33,17.41,17.2,5.9,26.6
+NM,New Mexico,ARTHRITIS,Arthritis among adults,Health Outcomes,33,22.4,22.3,18.9,25.8
+NM,New Mexico,BINGE,Binge drinking among adults,Health Risk Behaviors,33,15.27,15.1,12.7,18.3
+NM,New Mexico,BPHIGH,High blood pressure among adults,Health Outcomes,33,31.32,31.4,24.3,36.8
+NM,New Mexico,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,33,53.74,53.9,50.5,56.0
+NM,New Mexico,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,33,5.91,6.0,4.8,7.0
+NM,New Mexico,CASTHMA,Current asthma among adults,Health Outcomes,33,10.0,9.8,8.6,14.2
+NM,New Mexico,CHD,Coronary heart disease among adults,Health Outcomes,33,6.25,6.3,4.0,8.9
+NM,New Mexico,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,33,66.19,66.0,64.6,69.2
+NM,New Mexico,CHOLSCREEN,Cholesterol screening among adults,Prevention,33,80.63,80.4,75.8,86.5
+NM,New Mexico,COGNITION,Cognitive disability among adults,Disability,33,17.18,17.3,9.7,23.8
+NM,New Mexico,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,33,49.87,49.1,40.7,60.0
+NM,New Mexico,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,33,6.23,6.3,3.2,10.8
+NM,New Mexico,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,33,14.99,15.0,7.1,27.1
+NM,New Mexico,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,33,57.4,56.8,46.6,78.0
+NM,New Mexico,DEPRESSION,Depression among adults,Health Outcomes,33,23.35,23.5,19.8,25.7
+NM,New Mexico,DIABETES,Diagnosed diabetes among adults,Health Outcomes,33,12.12,12.4,6.7,17.9
+NM,New Mexico,DISABILITY,Any disability among adults,Disability,33,34.13,34.7,20.1,43.3
+NM,New Mexico,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,33,25.68,25.5,20.2,32.5
+NM,New Mexico,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,33,23.92,24.3,6.9,43.0
+NM,New Mexico,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,33,19.98,20.3,4.6,39.8
+NM,New Mexico,GHLTH,Fair or poor self-rated health status among adults,Health Status,33,24.58,25.1,11.0,35.3
+NM,New Mexico,HEARING,Hearing disability among adults,Disability,33,7.66,7.6,5.0,11.5
+NM,New Mexico,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,33,29.88,30.0,27.5,31.9
+NM,New Mexico,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,33,19.19,19.1,6.9,30.2
+NM,New Mexico,INDEPLIVE,Independent living disability among adults,Disability,33,9.78,9.7,4.6,16.8
+NM,New Mexico,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,33,12.43,12.4,4.7,24.0
+NM,New Mexico,LONELINESS,Loneliness among adults,Health-Related Social Needs,33,35.12,34.9,31.9,38.2
+NM,New Mexico,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,33,26.74,27.6,12.7,34.6
+NM,New Mexico,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,33,68.09,67.5,57.6,76.2
+NM,New Mexico,MHLTH,Frequent mental distress among adults,Health Status,33,17.58,17.5,13.0,23.7
+NM,New Mexico,MOBILITY,Mobility disability among adults,Disability,33,14.59,14.7,7.0,21.9
+NM,New Mexico,OBESITY,Obesity among adults,Health Outcomes,33,35.36,35.6,25.1,41.4
+NM,New Mexico,PHLTH,Frequent physical distress among adults,Health Status,33,15.41,15.4,9.0,21.8
+NM,New Mexico,SELFCARE,Self-care disability among adults,Disability,33,4.78,4.9,1.9,7.8
+NM,New Mexico,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,33,13.28,13.4,4.8,25.0
+NM,New Mexico,SLEEP,Short sleep duration among adults,Health Risk Behaviors,33,35.51,36.0,27.9,40.8
+NM,New Mexico,STROKE,Stroke among adults,Health Outcomes,33,3.42,3.5,2.0,5.7
+NM,New Mexico,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,33,16.23,16.0,4.4,26.9
+NM,New Mexico,VISION,Vision disability among adults,Disability,33,7.41,7.4,2.7,12.9
+NV,Nevada,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,17,13.37,13.8,9.6,16.6
+NV,Nevada,ARTHRITIS,Arthritis among adults,Health Outcomes,17,23.96,23.8,21.6,27.0
+NV,Nevada,BINGE,Binge drinking among adults,Health Risk Behaviors,17,18.17,18.1,16.0,20.1
+NV,Nevada,BPHIGH,High blood pressure among adults,Health Outcomes,17,30.79,31.1,26.9,34.6
+NV,Nevada,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,17,52.85,52.4,51.0,55.0
+NV,Nevada,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,17,7.06,7.0,6.1,7.6
+NV,Nevada,CASTHMA,Current asthma among adults,Health Outcomes,17,10.82,10.7,9.8,12.1
+NV,Nevada,CHD,Coronary heart disease among adults,Health Outcomes,17,5.95,5.8,4.9,7.5
+NV,Nevada,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,17,70.24,70.2,68.3,72.8
+NV,Nevada,CHOLSCREEN,Cholesterol screening among adults,Prevention,17,81.9,82.0,79.4,84.3
+NV,Nevada,COGNITION,Cognitive disability among adults,Disability,17,17.32,17.1,14.4,21.0
+NV,Nevada,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,17,54.69,55.1,49.3,59.5
+NV,Nevada,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,17,7.1,6.8,5.5,9.7
+NV,Nevada,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,17,16.57,16.4,12.6,22.2
+NV,Nevada,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,17,57.66,57.4,52.3,67.2
+NV,Nevada,DEPRESSION,Depression among adults,Health Outcomes,17,22.4,22.4,20.1,25.0
+NV,Nevada,DIABETES,Diagnosed diabetes among adults,Health Outcomes,17,10.28,10.2,8.1,12.8
+NV,Nevada,DISABILITY,Any disability among adults,Disability,17,34.16,34.4,28.4,41.1
+NV,Nevada,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,17,26.32,26.2,23.0,28.7
+NV,Nevada,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,17,17.86,17.5,11.6,26.4
+NV,Nevada,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,17,15.44,14.2,8.9,25.4
+NV,Nevada,GHLTH,Fair or poor self-rated health status among adults,Health Status,17,21.96,21.7,16.5,28.2
+NV,Nevada,HEARING,Hearing disability among adults,Disability,17,7.44,7.4,6.3,9.0
+NV,Nevada,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,17,33.09,32.8,31.7,34.2
+NV,Nevada,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,17,14.98,14.9,10.7,20.0
+NV,Nevada,INDEPLIVE,Independent living disability among adults,Disability,17,8.98,8.7,7.0,12.0
+NV,Nevada,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,17,10.16,9.7,7.2,14.6
+NV,Nevada,LONELINESS,Loneliness among adults,Health-Related Social Needs,17,36.38,36.2,33.5,39.2
+NV,Nevada,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,17,25.37,25.6,18.8,31.6
+NV,Nevada,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,17,70.95,71.3,67.3,74.4
+NV,Nevada,MHLTH,Frequent mental distress among adults,Health Status,17,19.64,19.4,17.7,22.4
+NV,Nevada,MOBILITY,Mobility disability among adults,Disability,17,13.83,13.6,10.6,17.9
+NV,Nevada,OBESITY,Obesity among adults,Health Outcomes,17,34.56,35.0,27.3,40.1
+NV,Nevada,PHLTH,Frequent physical distress among adults,Health Status,17,14.71,14.5,12.3,17.7
+NV,Nevada,SELFCARE,Self-care disability among adults,Disability,17,3.89,3.7,2.8,5.4
+NV,Nevada,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,17,9.89,9.2,6.7,14.5
+NV,Nevada,SLEEP,Short sleep duration among adults,Health Risk Behaviors,17,38.02,38.2,33.9,41.4
+NV,Nevada,STROKE,Stroke among adults,Health Outcomes,17,3.2,3.1,2.6,4.1
+NV,Nevada,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,17,15.73,17.3,8.7,23.2
+NV,Nevada,VISION,Vision disability among adults,Disability,17,5.58,5.4,3.8,7.9
+NY,New York,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,62,7.01,6.7,4.9,15.9
+NY,New York,ARTHRITIS,Arthritis among adults,Health Outcomes,62,23.2,23.6,17.4,26.2
+NY,New York,BINGE,Binge drinking among adults,Health Risk Behaviors,62,18.76,19.05,14.7,21.7
+NY,New York,BPHIGH,High blood pressure among adults,Health Outcomes,62,29.99,30.05,25.5,34.6
+NY,New York,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,62,57.32,57.15,54.9,60.2
+NY,New York,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,62,7.26,7.5,4.6,7.8
+NY,New York,CASTHMA,Current asthma among adults,Health Outcomes,62,10.98,11.1,8.9,12.0
+NY,New York,CHD,Coronary heart disease among adults,Health Outcomes,62,5.36,5.4,4.2,6.3
+NY,New York,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,62,78.34,78.1,76.6,81.1
+NY,New York,CHOLSCREEN,Cholesterol screening among adults,Prevention,62,87.0,86.75,85.3,89.8
+NY,New York,COGNITION,Cognitive disability among adults,Disability,62,13.48,13.7,10.0,16.6
+NY,New York,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,62,62.09,61.95,57.0,68.3
+NY,New York,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,62,6.09,6.2,3.9,7.6
+NY,New York,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,62,13.62,14.0,8.5,17.1
+NY,New York,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,62,62.16,61.65,51.1,70.7
+NY,New York,DEPRESSION,Depression among adults,Health Outcomes,62,21.05,21.75,14.0,24.5
+NY,New York,DIABETES,Diagnosed diabetes among adults,Health Outcomes,62,9.17,9.0,7.6,14.8
+NY,New York,DISABILITY,Any disability among adults,Disability,62,26.52,26.7,21.2,35.2
+NY,New York,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,62,24.62,24.1,21.6,34.8
+NY,New York,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,62,15.15,14.6,9.6,37.5
+NY,New York,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,62,13.61,13.3,8.1,32.4
+NY,New York,GHLTH,Fair or poor self-rated health status among adults,Health Status,62,16.81,16.75,12.6,29.2
+NY,New York,HEARING,Hearing disability among adults,Disability,62,5.36,5.5,4.3,6.1
+NY,New York,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,62,32.06,31.8,29.8,36.3
+NY,New York,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,62,13.5,13.15,9.7,31.4
+NY,New York,INDEPLIVE,Independent living disability among adults,Disability,62,7.85,7.95,5.7,11.3
+NY,New York,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,62,8.32,8.2,5.9,16.5
+NY,New York,LONELINESS,Loneliness among adults,Health-Related Social Needs,62,33.7,33.4,30.6,41.0
+NY,New York,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,62,24.45,24.5,18.5,37.5
+NY,New York,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,62,77.18,77.15,68.9,83.0
+NY,New York,MHLTH,Frequent mental distress among adults,Health Status,62,17.35,17.75,14.2,19.2
+NY,New York,MOBILITY,Mobility disability among adults,Disability,62,11.53,11.45,8.8,19.6
+NY,New York,OBESITY,Obesity among adults,Health Outcomes,62,33.05,32.9,19.5,42.9
+NY,New York,PHLTH,Frequent physical distress among adults,Health Status,62,12.71,12.85,10.3,16.3
+NY,New York,SELFCARE,Self-care disability among adults,Disability,62,3.39,3.35,2.5,6.5
+NY,New York,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,62,8.13,8.1,5.7,17.2
+NY,New York,SLEEP,Short sleep duration among adults,Health Risk Behaviors,62,38.62,38.45,30.7,43.7
+NY,New York,STROKE,Stroke among adults,Health Outcomes,62,2.88,2.9,2.3,4.0
+NY,New York,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,62,13.49,13.15,6.6,23.3
+NY,New York,VISION,Vision disability among adults,Disability,62,4.48,4.35,3.2,9.7
+OH,Ohio,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,88,8.69,8.75,5.3,12.6
+OH,Ohio,ARTHRITIS,Arthritis among adults,Health Outcomes,88,26.73,26.7,23.2,29.6
+OH,Ohio,BINGE,Binge drinking among adults,Health Risk Behaviors,88,18.3,18.3,15.5,21.4
+OH,Ohio,BPHIGH,High blood pressure among adults,Health Outcomes,88,33.98,33.85,28.2,39.3
+OH,Ohio,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,88,60.69,60.7,58.8,63.1
+OH,Ohio,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,88,7.48,7.5,6.5,7.8
+OH,Ohio,CASTHMA,Current asthma among adults,Health Outcomes,88,11.14,11.15,9.5,12.1
+OH,Ohio,CHD,Coronary heart disease among adults,Health Outcomes,88,6.17,6.2,4.4,7.7
+OH,Ohio,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,88,77.16,77.0,74.1,80.1
+OH,Ohio,CHOLSCREEN,Cholesterol screening among adults,Prevention,88,83.25,83.15,79.3,87.4
+OH,Ohio,COGNITION,Cognitive disability among adults,Disability,88,15.44,15.45,9.9,19.7
+OH,Ohio,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,88,58.41,58.7,51.6,67.1
+OH,Ohio,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,88,7.59,7.6,4.4,10.5
+OH,Ohio,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,88,17.5,17.6,9.9,23.3
+OH,Ohio,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,88,60.05,59.6,50.9,73.2
+OH,Ohio,DEPRESSION,Depression among adults,Health Outcomes,88,27.16,27.0,21.6,30.5
+OH,Ohio,DIABETES,Diagnosed diabetes among adults,Health Outcomes,88,11.29,11.3,8.7,13.5
+OH,Ohio,DISABILITY,Any disability among adults,Disability,88,29.31,29.45,19.0,36.2
+OH,Ohio,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,88,21.89,21.9,18.1,25.2
+OH,Ohio,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,88,14.61,14.8,7.8,20.3
+OH,Ohio,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,88,12.39,12.35,5.3,19.8
+OH,Ohio,GHLTH,Fair or poor self-rated health status among adults,Health Status,88,19.18,19.2,11.4,25.1
+OH,Ohio,HEARING,Hearing disability among adults,Disability,88,6.28,6.3,4.8,7.7
+OH,Ohio,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,88,32.01,31.95,29.0,35.3
+OH,Ohio,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,88,12.02,12.2,7.2,15.0
+OH,Ohio,INDEPLIVE,Independent living disability among adults,Disability,88,8.41,8.4,5.0,11.3
+OH,Ohio,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,88,8.11,8.2,4.8,10.8
+OH,Ohio,LONELINESS,Loneliness among adults,Health-Related Social Needs,88,35.75,35.8,30.8,39.4
+OH,Ohio,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,88,27.91,28.15,17.1,36.9
+OH,Ohio,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,88,73.92,73.7,65.8,83.5
+OH,Ohio,MHLTH,Frequent mental distress among adults,Health Status,88,19.47,19.5,14.2,22.6
+OH,Ohio,MOBILITY,Mobility disability among adults,Disability,88,12.44,12.4,7.6,16.2
+OH,Ohio,OBESITY,Obesity among adults,Health Outcomes,88,39.04,39.3,30.9,45.7
+OH,Ohio,PHLTH,Frequent physical distress among adults,Health Status,88,13.78,13.75,9.3,16.8
+OH,Ohio,SELFCARE,Self-care disability among adults,Disability,88,3.53,3.55,2.1,4.9
+OH,Ohio,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,88,8.75,8.8,5.0,11.7
+OH,Ohio,SLEEP,Short sleep duration among adults,Health Risk Behaviors,88,39.43,39.55,32.6,44.7
+OH,Ohio,STROKE,Stroke among adults,Health Outcomes,88,3.13,3.15,2.2,3.9
+OH,Ohio,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,88,17.01,16.9,7.2,31.8
+OH,Ohio,VISION,Vision disability among adults,Disability,88,4.56,4.6,2.7,6.3
+OK,Oklahoma,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,77,12.29,12.1,9.4,21.9
+OK,Oklahoma,ARTHRITIS,Arthritis among adults,Health Outcomes,77,26.26,26.4,23.0,29.0
+OK,Oklahoma,BINGE,Binge drinking among adults,Health Risk Behaviors,77,15.1,15.1,13.7,16.9
+OK,Oklahoma,BPHIGH,High blood pressure among adults,Health Outcomes,77,37.28,37.4,33.0,41.5
+OK,Oklahoma,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,77,59.31,59.4,57.3,61.3
+OK,Oklahoma,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,77,6.95,7.0,6.0,7.3
+OK,Oklahoma,CASTHMA,Current asthma among adults,Health Outcomes,77,11.76,11.7,10.2,13.6
+OK,Oklahoma,CHD,Coronary heart disease among adults,Health Outcomes,77,6.76,6.7,5.3,8.2
+OK,Oklahoma,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,77,76.32,76.2,74.6,78.1
+OK,Oklahoma,CHOLSCREEN,Cholesterol screening among adults,Prevention,77,82.15,82.1,79.4,84.9
+OK,Oklahoma,COGNITION,Cognitive disability among adults,Disability,77,18.96,18.9,14.9,23.0
+OK,Oklahoma,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,77,53.01,53.2,47.8,59.1
+OK,Oklahoma,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,77,8.03,7.9,5.7,10.4
+OK,Oklahoma,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,77,19.1,18.6,13.2,26.2
+OK,Oklahoma,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,77,53.42,53.5,45.4,65.3
+OK,Oklahoma,DEPRESSION,Depression among adults,Health Outcomes,77,26.12,26.1,22.2,29.0
+OK,Oklahoma,DIABETES,Diagnosed diabetes among adults,Health Outcomes,77,12.0,11.9,9.8,15.2
+OK,Oklahoma,DISABILITY,Any disability among adults,Disability,77,39.41,39.0,32.4,46.3
+OK,Oklahoma,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,77,25.99,26.0,22.8,30.1
+OK,Oklahoma,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,77,20.79,20.2,13.7,31.4
+OK,Oklahoma,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,77,17.67,17.0,10.0,27.4
+OK,Oklahoma,GHLTH,Fair or poor self-rated health status among adults,Health Status,77,22.32,22.1,16.5,29.6
+OK,Oklahoma,HEARING,Hearing disability among adults,Disability,77,8.88,8.8,7.3,11.1
+OK,Oklahoma,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,77,34.05,34.1,31.8,35.9
+OK,Oklahoma,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,77,15.76,15.4,11.3,22.1
+OK,Oklahoma,INDEPLIVE,Independent living disability among adults,Disability,77,10.29,10.1,7.4,13.7
+OK,Oklahoma,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,77,10.8,10.5,7.3,16.4
+OK,Oklahoma,LONELINESS,Loneliness among adults,Health-Related Social Needs,77,33.92,33.9,31.1,37.2
+OK,Oklahoma,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,77,32.72,32.5,26.6,39.7
+OK,Oklahoma,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,77,66.88,66.8,58.8,74.2
+OK,Oklahoma,MHLTH,Frequent mental distress among adults,Health Status,77,19.44,19.3,16.7,22.3
+OK,Oklahoma,MOBILITY,Mobility disability among adults,Disability,77,16.61,16.5,12.7,21.3
+OK,Oklahoma,OBESITY,Obesity among adults,Health Outcomes,77,41.06,40.4,35.8,47.1
+OK,Oklahoma,PHLTH,Frequent physical distress among adults,Health Status,77,14.81,14.7,12.0,18.2
+OK,Oklahoma,SELFCARE,Self-care disability among adults,Disability,77,4.39,4.3,3.0,5.9
+OK,Oklahoma,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,77,11.75,11.5,7.9,17.3
+OK,Oklahoma,SLEEP,Short sleep duration among adults,Health Risk Behaviors,77,38.63,38.4,34.7,44.0
+OK,Oklahoma,STROKE,Stroke among adults,Health Outcomes,77,3.56,3.5,2.7,4.6
+OK,Oklahoma,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,77,19.39,20.6,10.1,28.7
+OK,Oklahoma,VISION,Vision disability among adults,Disability,77,6.34,6.2,4.3,9.2
+OR,Oregon,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,36,9.8,9.2,6.9,18.3
+OR,Oregon,ARTHRITIS,Arthritis among adults,Health Outcomes,36,25.25,25.5,21.0,27.2
+OR,Oregon,BINGE,Binge drinking among adults,Health Risk Behaviors,36,17.35,17.4,15.1,18.9
+OR,Oregon,BPHIGH,High blood pressure among adults,Health Outcomes,36,30.25,30.3,27.3,33.9
+OR,Oregon,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,36,51.12,51.2,49.4,52.2
+OR,Oregon,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,36,7.44,7.5,6.6,7.9
+OR,Oregon,CASTHMA,Current asthma among adults,Health Outcomes,36,12.25,12.2,11.2,13.1
+OR,Oregon,CHD,Coronary heart disease among adults,Health Outcomes,36,5.76,5.8,4.6,6.7
+OR,Oregon,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,36,70.11,69.95,68.7,72.1
+OR,Oregon,CHOLSCREEN,Cholesterol screening among adults,Prevention,36,80.78,80.6,78.3,83.8
+OR,Oregon,COGNITION,Cognitive disability among adults,Disability,36,16.56,16.7,13.1,19.6
+OR,Oregon,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,36,56.52,56.5,51.0,61.6
+OR,Oregon,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,36,6.64,6.8,4.7,8.0
+OR,Oregon,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,36,14.03,14.45,9.6,17.0
+OR,Oregon,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,36,61.66,61.3,52.6,71.5
+OR,Oregon,DEPRESSION,Depression among adults,Health Outcomes,36,27.94,28.35,23.8,31.6
+OR,Oregon,DIABETES,Diagnosed diabetes among adults,Health Outcomes,36,10.13,10.05,8.2,12.7
+OR,Oregon,DISABILITY,Any disability among adults,Disability,36,30.64,31.2,25.2,36.3
+OR,Oregon,GHLTH,Fair or poor self-rated health status among adults,Health Status,36,19.8,19.85,15.0,26.7
+OR,Oregon,HEARING,Hearing disability among adults,Disability,36,6.61,6.65,5.3,7.7
+OR,Oregon,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,36,29.32,29.3,27.8,30.7
+OR,Oregon,INDEPLIVE,Independent living disability among adults,Disability,36,8.59,8.7,6.5,10.5
+OR,Oregon,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,36,21.12,20.85,15.6,27.7
+OR,Oregon,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,36,75.15,75.4,67.9,82.0
+OR,Oregon,MHLTH,Frequent mental distress among adults,Health Status,36,19.42,19.6,16.5,21.4
+OR,Oregon,MOBILITY,Mobility disability among adults,Disability,36,12.54,12.7,9.6,16.0
+OR,Oregon,OBESITY,Obesity among adults,Health Outcomes,36,35.51,35.75,26.8,43.6
+OR,Oregon,PHLTH,Frequent physical distress among adults,Health Status,36,14.07,14.2,11.7,16.7
+OR,Oregon,SELFCARE,Self-care disability among adults,Disability,36,3.54,3.6,2.6,4.9
+OR,Oregon,SLEEP,Short sleep duration among adults,Health Risk Behaviors,36,32.81,33.25,25.6,36.0
+OR,Oregon,STROKE,Stroke among adults,Health Outcomes,36,3.05,3.1,2.4,3.6
+OR,Oregon,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,36,14.67,13.6,7.9,27.9
+OR,Oregon,VISION,Vision disability among adults,Disability,36,4.84,4.75,3.6,7.2
+PA,Pennsylvania,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,67,60.3,60.0,56.2,67.0
+PA,Pennsylvania,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,67,62.19,61.8,52.4,71.1
+PA,Pennsylvania,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,67,76.54,76.6,72.5,81.0
+PA,Pennsylvania,SLEEP,Short sleep duration among adults,Health Risk Behaviors,67,39.41,39.3,32.6,46.0
+PA,Pennsylvania,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,67,15.15,15.3,6.9,24.5
+RI,Rhode Island,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,5,6.7,5.8,5.3,10.3
+RI,Rhode Island,ARTHRITIS,Arthritis among adults,Health Outcomes,5,22.02,21.7,21.6,23.3
+RI,Rhode Island,BINGE,Binge drinking among adults,Health Risk Behaviors,5,19.62,20.0,17.3,21.1
+RI,Rhode Island,BPHIGH,High blood pressure among adults,Health Outcomes,5,29.18,28.2,27.4,31.5
+RI,Rhode Island,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,5,56.54,56.0,55.1,59.3
+RI,Rhode Island,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,5,7.44,7.7,6.4,7.9
+RI,Rhode Island,CASTHMA,Current asthma among adults,Health Outcomes,5,11.34,10.9,10.8,12.4
+RI,Rhode Island,CHD,Coronary heart disease among adults,Health Outcomes,5,4.9,4.7,4.6,5.5
+RI,Rhode Island,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,5,83.12,83.2,82.2,84.0
+RI,Rhode Island,CHOLSCREEN,Cholesterol screening among adults,Prevention,5,88.26,88.4,87.8,88.7
+RI,Rhode Island,COGNITION,Cognitive disability among adults,Disability,5,13.06,12.1,11.8,15.4
+RI,Rhode Island,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,5,69.54,70.2,66.1,71.1
+RI,Rhode Island,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,5,5.3,5.1,4.8,6.0
+RI,Rhode Island,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,5,11.22,10.6,9.8,12.8
+RI,Rhode Island,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,5,73.26,74.5,67.7,76.7
+RI,Rhode Island,DEPRESSION,Depression among adults,Health Outcomes,5,24.28,24.1,23.4,25.8
+RI,Rhode Island,DIABETES,Diagnosed diabetes among adults,Health Outcomes,5,8.6,7.9,7.1,10.6
+RI,Rhode Island,DISABILITY,Any disability among adults,Disability,5,23.66,21.6,20.9,28.8
+RI,Rhode Island,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,5,20.52,20.0,18.3,24.7
+RI,Rhode Island,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,5,11.88,9.7,9.0,19.6
+RI,Rhode Island,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,5,10.46,8.6,7.8,16.9
+RI,Rhode Island,GHLTH,Fair or poor self-rated health status among adults,Health Status,5,14.4,13.1,12.2,18.6
+RI,Rhode Island,HEARING,Hearing disability among adults,Disability,5,5.38,5.4,5.1,5.7
+RI,Rhode Island,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,5,29.66,29.6,28.5,30.8
+RI,Rhode Island,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,5,10.9,9.2,8.6,17.3
+RI,Rhode Island,INDEPLIVE,Independent living disability among adults,Disability,5,6.76,6.3,6.0,8.5
+RI,Rhode Island,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,5,6.76,5.9,5.5,9.7
+RI,Rhode Island,LONELINESS,Loneliness among adults,Health-Related Social Needs,5,33.4,32.0,29.8,38.1
+RI,Rhode Island,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,5,20.7,18.4,16.8,28.2
+RI,Rhode Island,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,5,82.54,82.4,80.6,83.9
+RI,Rhode Island,MHLTH,Frequent mental distress among adults,Health Status,5,16.56,15.8,15.7,18.4
+RI,Rhode Island,MOBILITY,Mobility disability among adults,Disability,5,9.36,8.6,8.1,12.1
+RI,Rhode Island,OBESITY,Obesity among adults,Health Outcomes,5,29.66,28.0,26.0,33.7
+RI,Rhode Island,PHLTH,Frequent physical distress among adults,Health Status,5,11.28,10.4,10.4,13.5
+RI,Rhode Island,SELFCARE,Self-care disability among adults,Disability,5,2.7,2.4,2.3,3.6
+RI,Rhode Island,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,5,6.94,6.0,5.6,10.3
+RI,Rhode Island,SLEEP,Short sleep duration among adults,Health Risk Behaviors,5,33.8,33.1,29.7,38.0
+RI,Rhode Island,STROKE,Stroke among adults,Health Outcomes,5,2.52,2.4,2.3,2.9
+RI,Rhode Island,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,5,10.8,11.4,4.9,17.4
+RI,Rhode Island,VISION,Vision disability among adults,Disability,5,3.66,3.2,3.1,5.1
+SC,South Carolina,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,46,13.97,13.75,9.7,18.2
+SC,South Carolina,ARTHRITIS,Arthritis among adults,Health Outcomes,46,25.5,25.7,22.2,28.5
+SC,South Carolina,BINGE,Binge drinking among adults,Health Risk Behaviors,46,16.27,16.2,13.6,22.9
+SC,South Carolina,BPHIGH,High blood pressure among adults,Health Outcomes,46,37.27,37.05,29.4,44.8
+SC,South Carolina,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,46,63.93,63.55,59.3,67.1
+SC,South Carolina,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,46,6.62,6.65,5.3,7.6
+SC,South Carolina,CASTHMA,Current asthma among adults,Health Outcomes,46,10.23,10.2,8.8,11.5
+SC,South Carolina,CHD,Coronary heart disease among adults,Health Outcomes,46,6.03,6.05,4.7,7.4
+SC,South Carolina,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,46,79.08,78.9,76.6,81.8
+SC,South Carolina,CHOLSCREEN,Cholesterol screening among adults,Prevention,46,84.11,84.15,81.5,86.9
+SC,South Carolina,COGNITION,Cognitive disability among adults,Disability,46,16.63,16.4,12.4,20.6
+SC,South Carolina,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,46,61.09,60.75,54.9,69.0
+SC,South Carolina,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,46,7.38,7.35,5.0,10.2
+SC,South Carolina,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,46,16.01,16.0,10.5,21.5
+SC,South Carolina,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,46,57.38,57.85,41.9,70.1
+SC,South Carolina,DEPRESSION,Depression among adults,Health Outcomes,46,23.07,22.85,19.5,26.9
+SC,South Carolina,DIABETES,Diagnosed diabetes among adults,Health Outcomes,46,13.46,13.2,9.3,17.9
+SC,South Carolina,DISABILITY,Any disability among adults,Disability,46,32.92,32.75,24.1,40.8
+SC,South Carolina,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,46,26.64,26.4,20.4,33.9
+SC,South Carolina,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,46,23.35,22.6,12.8,36.2
+SC,South Carolina,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,46,15.42,14.35,7.3,27.1
+SC,South Carolina,GHLTH,Fair or poor self-rated health status among adults,Health Status,46,22.41,22.0,13.7,30.5
+SC,South Carolina,HEARING,Hearing disability among adults,Disability,46,6.24,6.25,5.2,7.2
+SC,South Carolina,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,46,33.09,33.3,29.1,34.8
+SC,South Carolina,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,46,17.93,17.2,10.8,27.0
+SC,South Carolina,INDEPLIVE,Independent living disability among adults,Disability,46,10.04,9.8,6.8,13.9
+SC,South Carolina,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,46,11.24,10.85,7.0,16.9
+SC,South Carolina,LONELINESS,Loneliness among adults,Health-Related Social Needs,46,34.34,34.5,28.2,38.9
+SC,South Carolina,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,46,28.46,28.8,18.2,37.3
+SC,South Carolina,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,46,75.99,76.5,67.3,80.5
+SC,South Carolina,MHLTH,Frequent mental distress among adults,Health Status,46,18.58,18.55,15.1,21.4
+SC,South Carolina,MOBILITY,Mobility disability among adults,Disability,46,15.34,14.9,10.1,20.6
+SC,South Carolina,OBESITY,Obesity among adults,Health Outcomes,46,39.15,38.35,29.9,46.9
+SC,South Carolina,PHLTH,Frequent physical distress among adults,Health Status,46,14.37,14.2,10.8,17.5
+SC,South Carolina,SELFCARE,Self-care disability among adults,Disability,46,4.74,4.6,3.0,7.0
+SC,South Carolina,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,46,12.33,11.6,7.3,19.5
+SC,South Carolina,SLEEP,Short sleep duration among adults,Health Risk Behaviors,46,39.11,39.1,30.6,46.1
+SC,South Carolina,STROKE,Stroke among adults,Health Outcomes,46,3.82,3.7,2.7,5.2
+SC,South Carolina,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,46,18.13,17.9,8.1,31.4
+SC,South Carolina,VISION,Vision disability among adults,Disability,46,6.37,6.2,4.1,9.4
+SD,South Dakota,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,66,10.04,9.45,6.8,18.9
+SD,South Dakota,ARTHRITIS,Arthritis among adults,Health Outcomes,66,23.28,22.65,20.5,30.2
+SD,South Dakota,BINGE,Binge drinking among adults,Health Risk Behaviors,66,19.92,20.6,14.3,22.6
+SD,South Dakota,BPHIGH,High blood pressure among adults,Health Outcomes,66,30.68,29.4,27.1,42.5
+SD,South Dakota,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,66,56.46,56.0,54.8,60.3
+SD,South Dakota,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,66,7.51,7.6,6.1,8.0
+SD,South Dakota,CASTHMA,Current asthma among adults,Health Outcomes,66,10.74,10.25,9.5,15.1
+SD,South Dakota,CHD,Coronary heart disease among adults,Health Outcomes,66,6.18,5.7,4.6,11.4
+SD,South Dakota,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,66,73.63,73.55,71.8,76.6
+SD,South Dakota,CHOLSCREEN,Cholesterol screening among adults,Prevention,66,82.02,82.65,74.6,85.1
+SD,South Dakota,COGNITION,Cognitive disability among adults,Disability,66,15.62,14.6,11.7,27.1
+SD,South Dakota,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,66,56.64,57.65,41.2,66.0
+SD,South Dakota,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,66,6.77,6.1,4.5,15.0
+SD,South Dakota,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,66,18.29,16.3,11.6,40.3
+SD,South Dakota,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,66,64.72,67.15,40.3,76.4
+SD,South Dakota,DEPRESSION,Depression among adults,Health Outcomes,66,21.92,21.9,20.0,24.3
+SD,South Dakota,DIABETES,Diagnosed diabetes among adults,Health Outcomes,66,11.07,9.9,8.1,23.8
+SD,South Dakota,DISABILITY,Any disability among adults,Disability,66,30.9,28.9,23.3,52.3
+SD,South Dakota,GHLTH,Fair or poor self-rated health status among adults,Health Status,66,18.77,16.6,12.0,41.1
+SD,South Dakota,HEARING,Hearing disability among adults,Disability,66,7.88,7.2,6.1,14.5
+SD,South Dakota,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,66,29.34,29.3,28.3,31.4
+SD,South Dakota,INDEPLIVE,Independent living disability among adults,Disability,66,8.83,7.75,5.7,20.8
+SD,South Dakota,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,66,25.35,23.65,17.3,42.3
+SD,South Dakota,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,66,75.07,76.2,58.2,80.3
+SD,South Dakota,MHLTH,Frequent mental distress among adults,Health Status,66,17.21,16.5,14.0,24.5
+SD,South Dakota,MOBILITY,Mobility disability among adults,Disability,66,12.73,11.2,8.5,28.8
+SD,South Dakota,OBESITY,Obesity among adults,Health Outcomes,66,37.23,35.9,30.9,50.2
+SD,South Dakota,PHLTH,Frequent physical distress among adults,Health Status,66,13.0,12.0,9.4,23.6
+SD,South Dakota,SELFCARE,Self-care disability among adults,Disability,66,3.87,3.25,2.3,10.8
+SD,South Dakota,SLEEP,Short sleep duration among adults,Health Risk Behaviors,66,31.88,31.15,26.9,40.5
+SD,South Dakota,STROKE,Stroke among adults,Health Outcomes,66,3.35,3.0,2.4,7.4
+SD,South Dakota,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,66,15.89,13.1,5.8,44.5
+SD,South Dakota,VISION,Vision disability among adults,Disability,66,5.45,4.3,3.1,17.5
+TN,Tennessee,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,95,13.24,13.2,7.4,20.4
+TN,Tennessee,ARTHRITIS,Arthritis among adults,Health Outcomes,95,28.75,28.9,23.5,33.1
+TN,Tennessee,BINGE,Binge drinking among adults,Health Risk Behaviors,95,15.64,15.8,12.5,17.0
+TN,Tennessee,BPHIGH,High blood pressure among adults,Health Outcomes,95,37.13,37.2,31.1,46.8
+TN,Tennessee,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,95,58.5,58.3,57.0,63.5
+TN,Tennessee,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,95,7.25,7.4,5.8,7.6
+TN,Tennessee,CASTHMA,Current asthma among adults,Health Outcomes,95,11.2,11.2,9.8,12.5
+TN,Tennessee,CHD,Coronary heart disease among adults,Health Outcomes,95,6.53,6.5,4.4,9.0
+TN,Tennessee,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,95,75.44,75.1,73.8,80.5
+TN,Tennessee,CHOLSCREEN,Cholesterol screening among adults,Prevention,95,83.55,83.4,79.1,88.4
+TN,Tennessee,COGNITION,Cognitive disability among adults,Disability,95,20.03,20.3,12.4,26.1
+TN,Tennessee,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,95,55.91,55.7,49.7,64.4
+TN,Tennessee,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,95,8.89,9.0,4.5,14.1
+TN,Tennessee,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,95,20.69,21.0,10.1,29.9
+TN,Tennessee,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,95,54.43,53.9,43.5,71.8
+TN,Tennessee,DEPRESSION,Depression among adults,Health Outcomes,95,30.8,31.2,25.2,35.1
+TN,Tennessee,DIABETES,Diagnosed diabetes among adults,Health Outcomes,95,12.33,12.3,8.5,17.8
+TN,Tennessee,DISABILITY,Any disability among adults,Disability,95,37.42,37.6,24.6,47.5
+TN,Tennessee,GHLTH,Fair or poor self-rated health status among adults,Health Status,95,23.97,23.9,13.4,35.8
+TN,Tennessee,HEARING,Hearing disability among adults,Disability,95,7.58,7.7,5.4,10.0
+TN,Tennessee,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,95,34.47,34.5,32.1,36.7
+TN,Tennessee,INDEPLIVE,Independent living disability among adults,Disability,95,10.55,10.6,5.7,15.8
+TN,Tennessee,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,95,28.38,28.8,17.3,39.0
+TN,Tennessee,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,95,71.9,71.9,64.2,80.1
+TN,Tennessee,MHLTH,Frequent mental distress among adults,Health Status,95,21.69,22.0,16.0,25.7
+TN,Tennessee,MOBILITY,Mobility disability among adults,Disability,95,15.9,16.0,9.0,23.0
+TN,Tennessee,OBESITY,Obesity among adults,Health Outcomes,95,39.85,39.8,28.7,47.3
+TN,Tennessee,PHLTH,Frequent physical distress among adults,Health Status,95,15.69,15.8,10.1,20.6
+TN,Tennessee,SELFCARE,Self-care disability among adults,Disability,95,4.24,4.2,2.1,7.5
+TN,Tennessee,SLEEP,Short sleep duration among adults,Health Risk Behaviors,95,39.96,39.7,33.7,46.6
+TN,Tennessee,STROKE,Stroke among adults,Health Outcomes,95,3.48,3.5,2.2,5.2
+TN,Tennessee,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,95,18.25,18.5,3.8,34.3
+TN,Tennessee,VISION,Vision disability among adults,Disability,95,5.77,5.8,2.9,10.0
+TX,Texas,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,253,21.03,19.0,10.3,43.7
+TX,Texas,ARTHRITIS,Arthritis among adults,Health Outcomes,253,22.36,22.5,18.3,26.6
+TX,Texas,BINGE,Binge drinking among adults,Health Risk Behaviors,253,17.97,18.0,14.2,20.9
+TX,Texas,BPHIGH,High blood pressure among adults,Health Outcomes,253,33.56,33.5,28.0,40.0
+TX,Texas,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,253,57.99,57.9,55.5,61.4
+TX,Texas,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,253,6.17,6.3,4.2,7.1
+TX,Texas,CASTHMA,Current asthma among adults,Health Outcomes,253,9.9,9.9,8.6,11.8
+TX,Texas,CHD,Coronary heart disease among adults,Health Outcomes,253,5.98,5.9,4.3,8.5
+TX,Texas,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,253,72.19,72.2,69.1,76.1
+TX,Texas,CHOLSCREEN,Cholesterol screening among adults,Prevention,253,82.81,82.8,78.1,87.2
+TX,Texas,COGNITION,Cognitive disability among adults,Disability,253,17.02,17.1,11.2,23.4
+TX,Texas,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,253,52.78,52.9,39.4,62.4
+TX,Texas,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,253,6.54,6.6,3.9,10.4
+TX,Texas,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,253,15.12,15.3,9.0,22.9
+TX,Texas,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,253,50.95,50.9,28.8,67.1
+TX,Texas,DEPRESSION,Depression among adults,Health Outcomes,253,22.95,23.3,17.6,26.8
+TX,Texas,DIABETES,Diagnosed diabetes among adults,Health Outcomes,253,12.59,12.2,8.7,21.5
+TX,Texas,DISABILITY,Any disability among adults,Disability,253,33.8,33.8,23.3,46.8
+TX,Texas,GHLTH,Fair or poor self-rated health status among adults,Health Status,253,24.12,23.2,14.6,41.9
+TX,Texas,HEARING,Hearing disability among adults,Disability,253,6.95,7.0,4.9,9.6
+TX,Texas,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,253,32.75,32.7,28.4,36.0
+TX,Texas,INDEPLIVE,Independent living disability among adults,Disability,253,9.33,9.3,5.7,14.8
+TX,Texas,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,253,30.23,29.6,19.9,48.9
+TX,Texas,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,253,70.63,70.5,61.0,79.2
+TX,Texas,MHLTH,Frequent mental distress among adults,Health Status,253,18.54,18.5,14.6,22.8
+TX,Texas,MOBILITY,Mobility disability among adults,Disability,253,15.02,14.8,9.4,25.2
+TX,Texas,OBESITY,Obesity among adults,Health Outcomes,253,37.74,37.5,29.4,48.2
+TX,Texas,PHLTH,Frequent physical distress among adults,Health Status,253,14.4,14.4,10.0,20.8
+TX,Texas,SELFCARE,Self-care disability among adults,Disability,253,4.42,4.3,2.4,9.2
+TX,Texas,SLEEP,Short sleep duration among adults,Health Risk Behaviors,253,39.38,39.5,31.8,45.2
+TX,Texas,STROKE,Stroke among adults,Health Outcomes,253,3.3,3.3,2.3,4.8
+TX,Texas,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,253,16.4,16.0,6.5,34.9
+TX,Texas,VISION,Vision disability among adults,Disability,253,6.58,6.1,3.5,15.5
+UT,Utah,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,29,10.32,10.3,6.8,14.0
+UT,Utah,ARTHRITIS,Arthritis among adults,Health Outcomes,29,23.7,24.0,20.8,26.1
+UT,Utah,BINGE,Binge drinking among adults,Health Risk Behaviors,29,12.21,12.3,8.2,15.3
+UT,Utah,BPHIGH,High blood pressure among adults,Health Outcomes,29,28.91,28.8,24.2,34.6
+UT,Utah,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,29,50.75,50.5,48.2,53.8
+UT,Utah,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,29,7.58,7.6,7.0,7.9
+UT,Utah,CASTHMA,Current asthma among adults,Health Outcomes,29,11.04,11.0,9.8,13.3
+UT,Utah,CHD,Coronary heart disease among adults,Health Outcomes,29,5.36,5.3,4.3,6.9
+UT,Utah,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,29,70.89,70.8,69.0,73.5
+UT,Utah,CHOLSCREEN,Cholesterol screening among adults,Prevention,29,79.99,80.1,76.6,83.6
+UT,Utah,COGNITION,Cognitive disability among adults,Disability,29,16.23,16.2,12.0,21.5
+UT,Utah,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,29,57.21,57.4,51.0,64.5
+UT,Utah,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,29,5.53,5.6,3.7,8.0
+UT,Utah,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,29,10.19,10.4,6.5,16.2
+UT,Utah,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,29,66.52,66.3,55.8,75.9
+UT,Utah,DEPRESSION,Depression among adults,Health Outcomes,29,26.78,26.8,22.8,29.6
+UT,Utah,DIABETES,Diagnosed diabetes among adults,Health Outcomes,29,9.37,9.3,7.2,13.7
+UT,Utah,DISABILITY,Any disability among adults,Disability,29,30.45,30.7,22.4,39.9
+UT,Utah,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,29,20.29,20.2,16.7,25.3
+UT,Utah,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,29,13.42,12.8,7.9,26.2
+UT,Utah,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,29,7.57,7.1,3.8,16.7
+UT,Utah,GHLTH,Fair or poor self-rated health status among adults,Health Status,29,17.13,16.8,11.7,25.7
+UT,Utah,HEARING,Hearing disability among adults,Disability,29,7.33,7.3,5.9,9.8
+UT,Utah,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,29,28.99,29.2,26.9,31.1
+UT,Utah,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,29,10.7,10.3,7.2,18.5
+UT,Utah,INDEPLIVE,Independent living disability among adults,Disability,29,7.75,7.7,5.3,11.7
+UT,Utah,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,29,7.47,7.2,4.9,14.1
+UT,Utah,LONELINESS,Loneliness among adults,Health-Related Social Needs,29,32.1,31.9,27.3,35.4
+UT,Utah,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,29,19.3,19.2,13.7,24.6
+UT,Utah,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,29,69.57,70.8,60.9,76.6
+UT,Utah,MHLTH,Frequent mental distress among adults,Health Status,29,17.8,18.1,14.5,21.3
+UT,Utah,MOBILITY,Mobility disability among adults,Disability,29,11.63,11.4,8.0,17.9
+UT,Utah,OBESITY,Obesity among adults,Health Outcomes,29,31.85,32.8,19.3,37.3
+UT,Utah,PHLTH,Frequent physical distress among adults,Health Status,29,13.22,13.1,9.8,17.9
+UT,Utah,SELFCARE,Self-care disability among adults,Disability,29,3.22,3.2,2.1,5.0
+UT,Utah,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,29,7.46,7.1,4.7,14.0
+UT,Utah,SLEEP,Short sleep duration among adults,Health Risk Behaviors,29,34.88,35.2,25.8,39.2
+UT,Utah,STROKE,Stroke among adults,Health Outcomes,29,2.89,2.8,2.2,4.2
+UT,Utah,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,29,13.65,13.6,7.1,21.2
+UT,Utah,VISION,Vision disability among adults,Disability,29,4.53,4.3,3.0,8.1
+VA,Virginia,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,133,9.94,9.6,5.2,18.1
+VA,Virginia,ARTHRITIS,Arthritis among adults,Health Outcomes,133,25.23,25.4,19.3,28.7
+VA,Virginia,BINGE,Binge drinking among adults,Health Risk Behaviors,133,15.82,16.0,11.8,18.2
+VA,Virginia,BPHIGH,High blood pressure among adults,Health Outcomes,133,34.34,33.6,26.5,43.4
+VA,Virginia,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,133,59.47,59.1,56.6,65.0
+VA,Virginia,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,133,6.81,6.9,4.9,7.5
+VA,Virginia,CASTHMA,Current asthma among adults,Health Outcomes,133,11.07,11.1,8.9,13.0
+VA,Virginia,CHD,Coronary heart disease among adults,Health Outcomes,133,5.82,5.8,3.8,7.5
+VA,Virginia,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,133,77.25,77.0,75.1,81.6
+VA,Virginia,CHOLSCREEN,Cholesterol screening among adults,Prevention,133,84.75,84.8,80.5,89.2
+VA,Virginia,COGNITION,Cognitive disability among adults,Disability,133,16.54,16.4,9.6,21.4
+VA,Virginia,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,133,61.19,61.0,54.1,67.5
+VA,Virginia,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,133,6.72,6.6,3.2,10.2
+VA,Virginia,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,133,15.3,15.0,6.7,22.2
+VA,Virginia,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,133,63.2,63.4,50.6,78.3
+VA,Virginia,DEPRESSION,Depression among adults,Health Outcomes,133,24.27,24.5,18.7,28.9
+VA,Virginia,DIABETES,Diagnosed diabetes among adults,Health Outcomes,133,11.75,11.5,7.8,17.0
+VA,Virginia,DISABILITY,Any disability among adults,Disability,133,32.26,32.2,20.4,40.6
+VA,Virginia,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,133,22.62,21.9,17.1,30.0
+VA,Virginia,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,133,15.98,15.0,5.9,30.3
+VA,Virginia,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,133,14.18,13.1,3.8,29.7
+VA,Virginia,GHLTH,Fair or poor self-rated health status among adults,Health Status,133,19.93,19.8,10.4,28.3
+VA,Virginia,HEARING,Hearing disability among adults,Disability,133,6.29,6.2,4.5,8.4
+VA,Virginia,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,133,33.84,33.9,31.3,35.9
+VA,Virginia,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,133,13.25,12.7,5.9,24.3
+VA,Virginia,INDEPLIVE,Independent living disability among adults,Disability,133,8.93,8.8,4.4,13.0
+VA,Virginia,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,133,8.97,8.5,4.1,15.5
+VA,Virginia,LONELINESS,Loneliness among adults,Health-Related Social Needs,133,35.13,35.0,30.4,40.0
+VA,Virginia,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,133,25.78,25.7,15.1,34.9
+VA,Virginia,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,133,76.18,76.2,68.0,82.7
+VA,Virginia,MHLTH,Frequent mental distress among adults,Health Status,133,18.53,18.6,12.7,22.0
+VA,Virginia,MOBILITY,Mobility disability among adults,Disability,133,13.82,13.6,7.4,19.7
+VA,Virginia,OBESITY,Obesity among adults,Health Outcomes,133,37.9,38.3,23.8,46.6
+VA,Virginia,PHLTH,Frequent physical distress among adults,Health Status,133,13.73,13.6,8.7,17.5
+VA,Virginia,SELFCARE,Self-care disability among adults,Disability,133,3.8,3.7,1.7,6.2
+VA,Virginia,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,133,8.93,8.4,3.7,17.5
+VA,Virginia,SLEEP,Short sleep duration among adults,Health Risk Behaviors,133,38.09,37.9,28.1,48.6
+VA,Virginia,STROKE,Stroke among adults,Health Outcomes,133,3.27,3.2,1.9,4.7
+VA,Virginia,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,133,14.43,14.0,4.0,27.4
+VA,Virginia,VISION,Vision disability among adults,Disability,133,5.12,4.9,2.5,8.3
+VT,Vermont,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,14,6.74,6.6,5.4,8.9
+VT,Vermont,ARTHRITIS,Arthritis among adults,Health Outcomes,14,23.46,23.65,21.1,24.9
+VT,Vermont,BINGE,Binge drinking among adults,Health Risk Behaviors,14,18.94,18.7,18.3,20.2
+VT,Vermont,BPHIGH,High blood pressure among adults,Health Outcomes,14,27.4,27.7,24.3,30.1
+VT,Vermont,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,14,54.39,54.25,52.6,56.5
+VT,Vermont,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,14,7.6,7.6,7.4,7.9
+VT,Vermont,CASTHMA,Current asthma among adults,Health Outcomes,14,11.34,11.35,10.8,12.0
+VT,Vermont,CHD,Coronary heart disease among adults,Health Outcomes,14,4.99,4.9,4.4,6.0
+VT,Vermont,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,14,72.68,72.9,69.3,75.3
+VT,Vermont,CHOLSCREEN,Cholesterol screening among adults,Prevention,14,83.04,83.15,80.4,84.8
+VT,Vermont,COGNITION,Cognitive disability among adults,Disability,14,13.83,13.5,12.1,17.0
+VT,Vermont,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,14,61.74,61.1,57.5,66.5
+VT,Vermont,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,14,5.64,5.55,4.6,7.5
+VT,Vermont,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,14,12.59,12.5,9.2,17.0
+VT,Vermont,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,14,66.99,67.9,61.0,72.6
+VT,Vermont,DEPRESSION,Depression among adults,Health Outcomes,14,27.99,28.1,26.2,31.5
+VT,Vermont,DIABETES,Diagnosed diabetes among adults,Health Outcomes,14,7.29,7.2,6.2,8.6
+VT,Vermont,DISABILITY,Any disability among adults,Disability,14,25.39,26.05,21.5,30.6
+VT,Vermont,GHLTH,Fair or poor self-rated health status among adults,Health Status,14,14.37,14.4,11.3,19.0
+VT,Vermont,HEARING,Hearing disability among adults,Disability,14,6.41,6.25,5.6,7.6
+VT,Vermont,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,14,26.99,27.0,25.0,28.6
+VT,Vermont,INDEPLIVE,Independent living disability among adults,Disability,14,6.99,6.9,5.8,9.2
+VT,Vermont,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,14,19.08,18.3,14.1,24.2
+VT,Vermont,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,14,75.81,75.55,72.7,79.8
+VT,Vermont,MHLTH,Frequent mental distress among adults,Health Status,14,17.8,17.7,16.1,19.9
+VT,Vermont,MOBILITY,Mobility disability among adults,Disability,14,9.44,9.35,7.8,12.2
+VT,Vermont,OBESITY,Obesity among adults,Health Outcomes,14,30.39,30.35,23.6,36.4
+VT,Vermont,PHLTH,Frequent physical distress among adults,Health Status,14,11.96,11.9,10.6,14.5
+VT,Vermont,SELFCARE,Self-care disability among adults,Disability,14,2.9,2.85,2.5,3.9
+VT,Vermont,SLEEP,Short sleep duration among adults,Health Risk Behaviors,14,31.19,31.15,26.4,36.0
+VT,Vermont,STROKE,Stroke among adults,Health Outcomes,14,2.71,2.7,2.4,3.3
+VT,Vermont,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,14,11.54,11.9,6.7,20.2
+VT,Vermont,VISION,Vision disability among adults,Disability,14,3.78,3.65,3.2,5.1
+WA,Washington,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,39,10.11,8.7,6.6,24.2
+WA,Washington,ARTHRITIS,Arthritis among adults,Health Outcomes,39,23.78,23.8,18.9,27.8
+WA,Washington,BINGE,Binge drinking among adults,Health Risk Behaviors,39,18.12,18.3,15.8,20.5
+WA,Washington,BPHIGH,High blood pressure among adults,Health Outcomes,39,29.06,29.0,25.6,32.4
+WA,Washington,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,39,51.44,51.4,49.4,55.4
+WA,Washington,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,39,7.23,7.3,6.0,7.7
+WA,Washington,CASTHMA,Current asthma among adults,Health Outcomes,39,11.29,11.3,9.7,12.7
+WA,Washington,CHD,Coronary heart disease among adults,Health Outcomes,39,5.31,5.3,4.0,6.6
+WA,Washington,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,39,68.08,67.9,64.6,71.3
+WA,Washington,CHOLSCREEN,Cholesterol screening among adults,Prevention,39,80.76,80.7,77.5,85.4
+WA,Washington,COGNITION,Cognitive disability among adults,Disability,39,15.8,15.8,11.1,20.1
+WA,Washington,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,39,59.12,59.3,51.4,64.7
+WA,Washington,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,39,5.46,5.4,3.3,6.9
+WA,Washington,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,39,12.41,12.2,7.1,16.7
+WA,Washington,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,39,62.46,62.1,52.9,71.9
+WA,Washington,DEPRESSION,Depression among adults,Health Outcomes,39,26.23,26.8,20.9,30.1
+WA,Washington,DIABETES,Diagnosed diabetes among adults,Health Outcomes,39,9.21,9.1,7.0,13.1
+WA,Washington,DISABILITY,Any disability among adults,Disability,39,29.59,29.3,20.8,36.5
+WA,Washington,GHLTH,Fair or poor self-rated health status among adults,Health Status,39,18.1,17.4,12.4,27.9
+WA,Washington,HEARING,Hearing disability among adults,Disability,39,6.61,6.5,4.6,8.0
+WA,Washington,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,39,30.28,30.3,27.9,32.5
+WA,Washington,INDEPLIVE,Independent living disability among adults,Disability,39,7.94,7.7,5.2,10.8
+WA,Washington,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,39,19.57,19.0,13.6,30.1
+WA,Washington,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,39,70.61,71.3,61.6,76.4
+WA,Washington,MHLTH,Frequent mental distress among adults,Health Status,39,18.28,18.3,14.7,20.8
+WA,Washington,MOBILITY,Mobility disability among adults,Disability,39,11.5,11.2,7.2,16.3
+WA,Washington,OBESITY,Obesity among adults,Health Outcomes,39,34.21,35.0,22.4,40.3
+WA,Washington,PHLTH,Frequent physical distress among adults,Health Status,39,13.41,13.3,9.6,16.8
+WA,Washington,SELFCARE,Self-care disability among adults,Disability,39,3.46,3.3,2.3,5.7
+WA,Washington,SLEEP,Short sleep duration among adults,Health Risk Behaviors,39,32.85,32.3,28.9,40.2
+WA,Washington,STROKE,Stroke among adults,Health Outcomes,39,2.92,2.9,2.3,3.7
+WA,Washington,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,39,11.76,11.6,4.5,18.0
+WA,Washington,VISION,Vision disability among adults,Disability,39,4.63,4.4,3.2,8.8
+WI,Wisconsin,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,72,8.46,8.5,5.9,11.9
+WI,Wisconsin,ARTHRITIS,Arthritis among adults,Health Outcomes,72,23.31,23.4,19.3,26.1
+WI,Wisconsin,BINGE,Binge drinking among adults,Health Risk Behaviors,72,21.43,21.5,17.2,23.6
+WI,Wisconsin,BPHIGH,High blood pressure among adults,Health Outcomes,72,29.47,29.45,24.6,34.4
+WI,Wisconsin,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,72,57.56,57.55,55.8,61.7
+WI,Wisconsin,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,72,7.12,7.1,6.1,7.4
+WI,Wisconsin,CASTHMA,Current asthma among adults,Health Outcomes,72,11.03,11.05,9.9,14.1
+WI,Wisconsin,CHD,Coronary heart disease among adults,Health Outcomes,72,5.6,5.5,4.5,7.0
+WI,Wisconsin,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,72,74.7,74.5,71.5,77.9
+WI,Wisconsin,CHOLSCREEN,Cholesterol screening among adults,Prevention,72,83.17,83.1,80.3,86.2
+WI,Wisconsin,COGNITION,Cognitive disability among adults,Disability,72,14.22,14.2,11.0,18.2
+WI,Wisconsin,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,72,61.53,61.45,55.9,66.5
+WI,Wisconsin,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,72,5.97,5.9,4.1,7.6
+WI,Wisconsin,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,72,15.48,15.2,10.4,23.9
+WI,Wisconsin,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,72,64.74,64.8,53.2,74.0
+WI,Wisconsin,DEPRESSION,Depression among adults,Health Outcomes,72,24.64,24.65,21.4,27.6
+WI,Wisconsin,DIABETES,Diagnosed diabetes among adults,Health Outcomes,72,9.66,9.5,7.8,15.3
+WI,Wisconsin,DISABILITY,Any disability among adults,Disability,72,29.12,29.1,23.0,39.1
+WI,Wisconsin,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,72,20.82,20.8,17.1,27.5
+WI,Wisconsin,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,72,12.95,12.6,8.0,28.9
+WI,Wisconsin,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,72,13.67,13.15,7.5,28.3
+WI,Wisconsin,GHLTH,Fair or poor self-rated health status among adults,Health Status,72,17.38,17.15,12.7,26.1
+WI,Wisconsin,HEARING,Hearing disability among adults,Disability,72,6.33,6.3,5.2,8.7
+WI,Wisconsin,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,72,29.61,29.5,27.4,32.8
+WI,Wisconsin,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,72,10.69,10.45,7.2,21.4
+WI,Wisconsin,INDEPLIVE,Independent living disability among adults,Disability,72,8.13,8.0,5.9,12.1
+WI,Wisconsin,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,72,7.32,7.1,5.0,15.7
+WI,Wisconsin,LONELINESS,Loneliness among adults,Health-Related Social Needs,72,31.68,31.55,27.8,36.2
+WI,Wisconsin,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,72,27.02,27.3,19.6,35.8
+WI,Wisconsin,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,72,78.25,77.85,73.6,83.6
+WI,Wisconsin,MHLTH,Frequent mental distress among adults,Health Status,72,17.29,17.25,14.2,20.7
+WI,Wisconsin,MOBILITY,Mobility disability among adults,Disability,72,11.81,11.7,8.8,17.9
+WI,Wisconsin,OBESITY,Obesity among adults,Health Outcomes,72,38.86,39.15,30.4,45.8
+WI,Wisconsin,PHLTH,Frequent physical distress among adults,Health Status,72,12.7,12.7,10.1,17.2
+WI,Wisconsin,SELFCARE,Self-care disability among adults,Disability,72,3.28,3.2,2.3,4.9
+WI,Wisconsin,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,72,6.18,5.9,4.1,13.4
+WI,Wisconsin,SLEEP,Short sleep duration among adults,Health Risk Behaviors,72,34.06,33.9,29.2,39.5
+WI,Wisconsin,STROKE,Stroke among adults,Health Outcomes,72,2.9,2.85,2.3,4.2
+WI,Wisconsin,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,72,11.55,11.35,4.4,19.3
+WI,Wisconsin,VISION,Vision disability among adults,Disability,72,4.27,4.1,3.0,8.1
+WV,West Virginia,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,55,9.55,9.4,7.2,14.3
+WV,West Virginia,ARTHRITIS,Arthritis among adults,Health Outcomes,55,32.39,32.4,28.6,35.1
+WV,West Virginia,BINGE,Binge drinking among adults,Health Risk Behaviors,55,15.99,16.0,14.3,17.6
+WV,West Virginia,BPHIGH,High blood pressure among adults,Health Outcomes,55,38.97,38.7,35.1,44.6
+WV,West Virginia,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,55,60.97,61.0,57.9,63.4
+WV,West Virginia,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,55,7.4,7.4,6.9,7.6
+WV,West Virginia,CASTHMA,Current asthma among adults,Health Outcomes,55,12.44,12.4,11.5,13.4
+WV,West Virginia,CHD,Coronary heart disease among adults,Health Outcomes,55,6.95,6.9,5.6,8.9
+WV,West Virginia,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,55,77.95,78.0,76.6,79.7
+WV,West Virginia,CHOLSCREEN,Cholesterol screening among adults,Prevention,55,83.57,83.6,79.6,86.4
+WV,West Virginia,COGNITION,Cognitive disability among adults,Disability,55,20.52,20.3,16.1,25.7
+WV,West Virginia,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,55,59.38,59.2,51.5,66.4
+WV,West Virginia,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,55,9.41,9.3,6.5,13.6
+WV,West Virginia,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,55,21.44,21.4,15.1,29.3
+WV,West Virginia,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,55,52.12,52.0,40.7,61.8
+WV,West Virginia,DEPRESSION,Depression among adults,Health Outcomes,55,32.37,32.3,28.6,36.2
+WV,West Virginia,DIABETES,Diagnosed diabetes among adults,Health Outcomes,55,13.2,13.1,11.2,17.4
+WV,West Virginia,DISABILITY,Any disability among adults,Disability,55,38.13,38.1,29.7,46.9
+WV,West Virginia,EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,55,24.27,24.5,20.7,27.8
+WV,West Virginia,FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,55,18.27,17.9,12.6,30.2
+WV,West Virginia,FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,55,20.52,19.7,12.7,36.2
+WV,West Virginia,GHLTH,Fair or poor self-rated health status among adults,Health Status,55,25.13,24.7,18.9,34.8
+WV,West Virginia,HEARING,Hearing disability among adults,Disability,55,7.57,7.6,6.1,9.2
+WV,West Virginia,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,55,36.39,36.5,33.9,37.9
+WV,West Virginia,HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,55,14.43,14.1,10.9,21.6
+WV,West Virginia,INDEPLIVE,Independent living disability among adults,Disability,55,11.15,10.9,8.1,15.6
+WV,West Virginia,LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,55,10.08,9.9,7.5,15.7
+WV,West Virginia,LONELINESS,Loneliness among adults,Health-Related Social Needs,55,35.51,35.5,32.0,39.0
+WV,West Virginia,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,55,32.65,32.6,24.3,42.6
+WV,West Virginia,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,55,74.43,74.2,68.1,82.2
+WV,West Virginia,MHLTH,Frequent mental distress among adults,Health Status,55,23.43,23.4,19.9,26.6
+WV,West Virginia,MOBILITY,Mobility disability among adults,Disability,55,16.12,15.9,12.4,22.0
+WV,West Virginia,OBESITY,Obesity among adults,Health Outcomes,55,41.33,41.3,34.2,46.2
+WV,West Virginia,PHLTH,Frequent physical distress among adults,Health Status,55,16.61,16.5,13.3,20.4
+WV,West Virginia,SELFCARE,Self-care disability among adults,Disability,55,4.24,4.1,3.1,6.7
+WV,West Virginia,SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,55,12.77,12.5,9.6,19.7
+WV,West Virginia,SLEEP,Short sleep duration among adults,Health Risk Behaviors,55,43.02,43.4,36.4,48.7
+WV,West Virginia,STROKE,Stroke among adults,Health Outcomes,55,3.46,3.4,2.8,4.7
+WV,West Virginia,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,55,21.97,21.5,11.3,34.2
+WV,West Virginia,VISION,Vision disability among adults,Disability,55,5.53,5.4,4.1,8.8
+WY,Wyoming,ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,23,12.06,12.2,9.3,15.2
+WY,Wyoming,ARTHRITIS,Arthritis among adults,Health Outcomes,23,22.14,22.1,19.5,23.8
+WY,Wyoming,BINGE,Binge drinking among adults,Health Risk Behaviors,23,17.19,17.0,15.4,19.2
+WY,Wyoming,BPHIGH,High blood pressure among adults,Health Outcomes,23,28.4,28.7,24.3,30.3
+WY,Wyoming,BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,23,51.92,52.1,50.4,53.3
+WY,Wyoming,CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,23,7.37,7.4,7.1,7.6
+WY,Wyoming,CASTHMA,Current asthma among adults,Health Outcomes,23,10.29,10.3,9.0,11.3
+WY,Wyoming,CHD,Coronary heart disease among adults,Health Outcomes,23,5.48,5.6,4.3,6.0
+WY,Wyoming,CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,23,66.56,66.9,63.1,70.0
+WY,Wyoming,CHOLSCREEN,Cholesterol screening among adults,Prevention,23,79.82,79.5,78.4,83.5
+WY,Wyoming,COGNITION,Cognitive disability among adults,Disability,23,15.09,15.4,10.8,16.9
+WY,Wyoming,COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,23,52.02,51.9,47.5,59.4
+WY,Wyoming,COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,23,6.23,6.4,4.0,7.3
+WY,Wyoming,CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,23,14.68,15.0,9.0,16.9
+WY,Wyoming,DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,23,60.85,60.3,54.9,70.2
+WY,Wyoming,DEPRESSION,Depression among adults,Health Outcomes,23,22.23,22.0,18.4,24.6
+WY,Wyoming,DIABETES,Diagnosed diabetes among adults,Health Outcomes,23,9.34,9.3,7.3,10.7
+WY,Wyoming,DISABILITY,Any disability among adults,Disability,23,29.4,29.8,20.9,33.6
+WY,Wyoming,GHLTH,Fair or poor self-rated health status among adults,Health Status,23,17.65,18.0,11.8,19.8
+WY,Wyoming,HEARING,Hearing disability among adults,Disability,23,6.97,7.1,5.6,7.6
+WY,Wyoming,HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,23,28.92,28.8,26.5,30.4
+WY,Wyoming,INDEPLIVE,Independent living disability among adults,Disability,23,7.85,8.0,5.2,9.3
+WY,Wyoming,LPA,No leisure-time physical activity among adults,Health Risk Behaviors,23,24.79,25.5,17.7,29.2
+WY,Wyoming,MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,23,65.76,66.3,60.1,71.5
+WY,Wyoming,MHLTH,Frequent mental distress among adults,Health Status,23,16.96,17.2,13.3,18.8
+WY,Wyoming,MOBILITY,Mobility disability among adults,Disability,23,11.6,11.8,7.9,13.1
+WY,Wyoming,OBESITY,Obesity among adults,Health Outcomes,23,34.14,34.8,23.5,38.3
+WY,Wyoming,PHLTH,Frequent physical distress among adults,Health Status,23,12.73,12.9,9.6,13.9
+WY,Wyoming,SELFCARE,Self-care disability among adults,Disability,23,3.25,3.3,2.1,3.7
+WY,Wyoming,SLEEP,Short sleep duration among adults,Health Risk Behaviors,23,32.87,32.5,27.2,39.0
+WY,Wyoming,STROKE,Stroke among adults,Health Outcomes,23,2.86,2.9,2.2,3.2
+WY,Wyoming,TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,23,13.4,12.9,5.2,18.8
+WY,Wyoming,VISION,Vision disability among adults,Disability,23,4.38,4.5,3.0,5.2

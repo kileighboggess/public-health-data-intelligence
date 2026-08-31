@@ -1,0 +1,81 @@
+measure_id,measure,category,data_value_type,data_value_unit
+DISABILITY,Any disability among adults,Disability,CrdPrv,%
+DISABILITY,Any disability among adults,Disability,AgeAdjPrv,%
+COGNITION,Cognitive disability among adults,Disability,AgeAdjPrv,%
+COGNITION,Cognitive disability among adults,Disability,CrdPrv,%
+HEARING,Hearing disability among adults,Disability,CrdPrv,%
+HEARING,Hearing disability among adults,Disability,AgeAdjPrv,%
+INDEPLIVE,Independent living disability among adults,Disability,CrdPrv,%
+INDEPLIVE,Independent living disability among adults,Disability,AgeAdjPrv,%
+MOBILITY,Mobility disability among adults,Disability,CrdPrv,%
+MOBILITY,Mobility disability among adults,Disability,AgeAdjPrv,%
+SELFCARE,Self-care disability among adults,Disability,CrdPrv,%
+SELFCARE,Self-care disability among adults,Disability,AgeAdjPrv,%
+VISION,Vision disability among adults,Disability,CrdPrv,%
+VISION,Vision disability among adults,Disability,AgeAdjPrv,%
+TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,AgeAdjPrv,%
+TEETHLOST,All teeth lost among adults aged >=65 years,Health Outcomes,CrdPrv,%
+ARTHRITIS,Arthritis among adults,Health Outcomes,CrdPrv,%
+ARTHRITIS,Arthritis among adults,Health Outcomes,AgeAdjPrv,%
+CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,AgeAdjPrv,%
+CANCER,Cancer (non-skin) or melanoma among adults,Health Outcomes,CrdPrv,%
+COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,AgeAdjPrv,%
+COPD,Chronic obstructive pulmonary disease among adults,Health Outcomes,CrdPrv,%
+CHD,Coronary heart disease among adults,Health Outcomes,AgeAdjPrv,%
+CHD,Coronary heart disease among adults,Health Outcomes,CrdPrv,%
+CASTHMA,Current asthma among adults,Health Outcomes,CrdPrv,%
+CASTHMA,Current asthma among adults,Health Outcomes,AgeAdjPrv,%
+DEPRESSION,Depression among adults,Health Outcomes,CrdPrv,%
+DEPRESSION,Depression among adults,Health Outcomes,AgeAdjPrv,%
+DIABETES,Diagnosed diabetes among adults,Health Outcomes,CrdPrv,%
+DIABETES,Diagnosed diabetes among adults,Health Outcomes,AgeAdjPrv,%
+BPHIGH,High blood pressure among adults,Health Outcomes,CrdPrv,%
+BPHIGH,High blood pressure among adults,Health Outcomes,AgeAdjPrv,%
+HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,AgeAdjPrv,%
+HIGHCHOL,High cholesterol among adults who have ever been screened,Health Outcomes,CrdPrv,%
+OBESITY,Obesity among adults,Health Outcomes,CrdPrv,%
+OBESITY,Obesity among adults,Health Outcomes,AgeAdjPrv,%
+STROKE,Stroke among adults,Health Outcomes,CrdPrv,%
+STROKE,Stroke among adults,Health Outcomes,AgeAdjPrv,%
+BINGE,Binge drinking among adults,Health Risk Behaviors,CrdPrv,%
+BINGE,Binge drinking among adults,Health Risk Behaviors,AgeAdjPrv,%
+CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,CrdPrv,%
+CSMOKING,Current cigarette smoking among adults,Health Risk Behaviors,AgeAdjPrv,%
+LPA,No leisure-time physical activity among adults,Health Risk Behaviors,CrdPrv,%
+LPA,No leisure-time physical activity among adults,Health Risk Behaviors,AgeAdjPrv,%
+SLEEP,Short sleep duration among adults,Health Risk Behaviors,CrdPrv,%
+SLEEP,Short sleep duration among adults,Health Risk Behaviors,AgeAdjPrv,%
+GHLTH,Fair or poor self-rated health status among adults,Health Status,CrdPrv,%
+GHLTH,Fair or poor self-rated health status among adults,Health Status,AgeAdjPrv,%
+MHLTH,Frequent mental distress among adults,Health Status,AgeAdjPrv,%
+MHLTH,Frequent mental distress among adults,Health Status,CrdPrv,%
+PHLTH,Frequent physical distress among adults,Health Status,CrdPrv,%
+PHLTH,Frequent physical distress among adults,Health Status,AgeAdjPrv,%
+FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,AgeAdjPrv,%
+FOODINSECU,Food insecurity in the past 12 months among adults,Health-Related Social Needs,CrdPrv,%
+HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,CrdPrv,%
+HOUSINSECU,Housing insecurity in the past 12 months among adults,Health-Related Social Needs,AgeAdjPrv,%
+LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,CrdPrv,%
+LACKTRPT,Lack of reliable transportation in the past 12 months among adults,Health-Related Social Needs,AgeAdjPrv,%
+EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,AgeAdjPrv,%
+EMOTIONSPT,Lack of social and emotional support among adults,Health-Related Social Needs,CrdPrv,%
+LONELINESS,Loneliness among adults,Health-Related Social Needs,CrdPrv,%
+LONELINESS,Loneliness among adults,Health-Related Social Needs,AgeAdjPrv,%
+FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,AgeAdjPrv,%
+FOODSTAMP,Received food stamps in the past 12 months among adults,Health-Related Social Needs,CrdPrv,%
+SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,AgeAdjPrv,%
+SHUTUTILITY,Utility services shut-off threat in the past 12 months among adults,Health-Related Social Needs,CrdPrv,%
+CHOLSCREEN,Cholesterol screening among adults,Prevention,CrdPrv,%
+CHOLSCREEN,Cholesterol screening among adults,Prevention,AgeAdjPrv,%
+COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,CrdPrv,%
+COLON_SCREEN,Colorectal cancer screening among adults aged 45–75 years,Prevention,AgeAdjPrv,%
+ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,CrdPrv,%
+ACCESS2,Current lack of health insurance among adults aged 18-64 years,Prevention,AgeAdjPrv,%
+MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,AgeAdjPrv,%
+MAMMOUSE,Mammography use among women aged 50-74 years,Prevention,CrdPrv,%
+BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,AgeAdjPrv,%
+BPMED,Taking medicine to control high blood pressure among adults with high blood pressure,Prevention,CrdPrv,%
+DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,CrdPrv,%
+DENTAL,Visited dentist or dental clinic in the past year among adults,Prevention,AgeAdjPrv,%
+CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,AgeAdjPrv,%
+CHECKUP,Visits to doctor for routine checkup within the past year among adults,Prevention,CrdPrv,%

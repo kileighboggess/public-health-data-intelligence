@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary / test outputs
+*_test.html
+map_test.html
+
+# Local environment files
+.env
+.env.*
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
