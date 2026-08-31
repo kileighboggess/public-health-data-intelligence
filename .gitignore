@@ -30,3 +30,7 @@ map_test.html
 build/
 dist/
 *.egg-info/
+
+# Large generated data / standalone map output
+data/processed/places_county_clean.csv
+data/visualizations/county_health_burden_map.html
