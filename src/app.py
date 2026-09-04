@@ -257,6 +257,7 @@ app = Dash(
     title="County Health Burden Intelligence"
 )
 
+server = app.server
 
 # ============================================================
 # STYLES
@@ -1363,15 +1364,21 @@ def update_priority_profile(selected_id):
 
 if __name__ == "__main__":
 
+    import os
+
+    port = int(os.environ.get("PORT", 8050))
+
     print(
         "\nStarting County Health Burden Dashboard..."
     )
 
     print(
-        "Open http://127.0.0.1:8050/ "
+        f"Open http://127.0.0.1:{port}/ "
         "in your browser."
     )
 
     app.run(
-        debug=True
+        host="0.0.0.0",
+        port=port,
+        debug=False
     )
