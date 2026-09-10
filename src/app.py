@@ -284,10 +284,11 @@ CARD_STYLE = {
 
 SECTION_STYLE = {
     "backgroundColor": "white",
-    "borderRadius": "12px",
-    "padding": "20px",
-    "margin": "20px 30px",
-    "boxShadow": "0 2px 10px rgba(0,0,0,0.06)",
+    "borderRadius": "14px",
+    "padding": "24px 26px",
+    "margin": "22px 30px",
+    "boxShadow": "0 2px 12px rgba(0,0,0,0.06)",
+    "border": "1px solid #e9ecef",
 }
 
 
@@ -337,47 +338,21 @@ app.layout = html.Div(
         html.Div(
             [
                 html.P(
-    (
-        "Explore county-level burden patterns using the filters below. "
-        "Colored counties have valid burden scores; gray counties "
-        "represent geographic areas without valid analytical data "
-        "in the source dataset."
-    ),
-    style={
-        "color": "#666",
-        "lineHeight": "1.5",
-    },
-),
-
-                html.P(
-    (
-        "U.S. County-Level Public Health "
-        f"Analysis | {DATA_YEAR}"
-    ),
-    style={
-        "fontSize": "18px",
-        "color": "#555",
-    },
-),
-
-html.P(
-    (
-        f"{county_df['stateabbr'].nunique()} jurisdictions "
-        "represented | "
-        f"{TOTAL_COUNTIES:,} counties with valid burden scores"
-    ),
-    style={
-        "fontSize": "14px",
-        "color": "#777",
-    },
-),
-
-                html.P(
                     (
-                        "A composite index integrating "
-                        f"{INDICATOR_COUNT} health, behavioral, "
-                        "access, and social-needs indicators."
+                        f"{county_df['stateabbr'].nunique()} jurisdictions "
+                        "represented | "
+                        f"{TOTAL_COUNTIES:,} counties with valid burden scores"
                     ),
+                    style={
+                        "fontSize": "14px",
+                        "color": "#777",
+                    },
+                ),
+
+                html.P(
+                    "A composite index integrating "
+                    f"{INDICATOR_COUNT} health, behavioral, "
+                    "access, and social-needs indicators.",
                     style={
                         "fontSize": "15px",
                         "color": "#777",
@@ -402,10 +377,15 @@ html.P(
                     [
                         html.H4("Counties Analyzed"),
                         html.H2(
-                            f"{TOTAL_COUNTIES:,}"
+                            f"{TOTAL_COUNTIES:,}",
+                            style={
+                                "fontSize": "32px",
+                                "fontWeight": "700",
+                                "margin": "8px 0",
+                            },
                         ),
                         html.P(
-                            "Counties with valid burden scores"
+                            "Counties with valid analytical scores"
                         ),
                     ],
                     style=CARD_STYLE,
@@ -415,13 +395,23 @@ html.P(
                     [
                         html.H4("High / Very High"),
                         html.H2(
-                            f"{HIGH_OR_VERY_HIGH_COUNTIES:,}"
+                            f"{HIGH_OR_VERY_HIGH_COUNTIES:,}",
+                            style={
+                                "fontSize": "14px",
+                                "fontWeight": "600",
+                                 "color": "#555",
+                                "marginBottom": "4px",
+}
                         ),
                         html.P(
                             "Counties in upper burden categories"
                         ),
                     ],
-                    style=CARD_STYLE,
+                    style={
+                        "fontSize": "12px",
+                        "color": "#777",
+                        "margin": "0",
+                    },
                 ),
 
                 html.Div(
@@ -431,7 +421,7 @@ html.P(
                             f"{PRIORITY_COUNTIES:,}"
                         ),
                         html.P(
-                            "Flagged for priority analysis"
+                            "Counties selected for priority analysis"
                         ),
                     ],
                     style=CARD_STYLE,
@@ -444,7 +434,7 @@ html.P(
                             f"{INDICATOR_COUNT}"
                         ),
                         html.P(
-                            "Health and social indicators"
+                            "Standardized public health indicators"
                         ),
                     ],
                     style=CARD_STYLE,
@@ -457,7 +447,7 @@ html.P(
                             str(DATA_YEAR)
                         ),
                         html.P(
-                            "Latest available year analyzed"
+                            "CDC PLACES data year"
                         ),
                     ],
                     style=CARD_STYLE,
@@ -465,10 +455,11 @@ html.P(
 
             ],
             style={
-                "display": "flex",
-                "gap": "18px",
-                "padding": "0 30px",
-                "flexWrap": "wrap",
+            "display": "flex",
+            "gap": "16px",
+            "padding": "0 30px",
+            "flexWrap": "wrap",
+            "alignItems": "stretch",
             },
         ),
 
@@ -480,9 +471,13 @@ html.P(
         html.Div(
             [
 
-                html.H3(
-                    "Explore County Burden"
-                ),
+                html.H2(
+    "Explore County Burden",
+    style={
+        "marginTop": "0",
+        "marginBottom": "8px",
+    },
+),
 
                 html.Div(
                     [
@@ -595,6 +590,13 @@ html.P(
                         "minWidth": "400px",
                     },
                 ),
+            html.P(
+    "Distribution of relative health burden scores across analyzed counties.",
+    style={
+        "color": "#666",
+        "marginTop": "0",
+    },
+),
 
                 html.Div(
                     [
@@ -611,7 +613,13 @@ html.P(
                         "minWidth": "400px",
                     },
                 ),
-
+            html.P(
+    "States ranked by the share of analyzed counties in high or very high burden categories.",
+    style={
+        "color": "#666",
+        "marginTop": "0",
+    },
+),
             ],
             style={
                 "display": "flex",
@@ -665,8 +673,7 @@ html.P(
 
                 html.P(
                     (
-                        "Counties identified for priority analysis "
-                        "based on burden and analytical criteria."
+                        "Explore counties selected for priority analysis and review their burden profile across all 11 indicators."
                     ),
                     style={
                         "color": "#666"
