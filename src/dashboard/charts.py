@@ -1,25 +1,16 @@
-import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
 
-# --------------------------------------------------
-# BURDEN DISTRIBUTION
-# --------------------------------------------------
-
 def create_burden_distribution(county_df):
-    """
-    Create a histogram showing the distribution
-    of county health burden scores.
-    """
-
     fig = px.histogram(
         county_df,
         x="health_burden_score",
         nbins=40,
-        title="Distribution of County Health Burden Scores",
+        color="burden_category",
+        title="Distribution of County Health Burden",
         labels={
-            "health_burden_score": "Health Burden Score",
+            "health_burden_score": "Relative Health Burden Score",
             "count": "Number of Counties",
         },
     )
@@ -27,20 +18,14 @@ def create_burden_distribution(county_df):
     fig.update_layout(
         template="plotly_white",
         height=450,
+        margin=dict(l=60, r=30, t=90, b=60),
+        hovermode="x unified",
     )
 
     return fig
 
 
-# --------------------------------------------------
-# STATE BURDEN RANKING
-# --------------------------------------------------
-
 def create_state_ranking(state_df):
-    """
-    Rank states by mean health burden.
-    """
-
     plot_df = state_df.sort_values(
         "mean_burden",
         ascending=True
@@ -51,9 +36,9 @@ def create_state_ranking(state_df):
         x="mean_burden",
         y="statedesc",
         orientation="h",
-        title="State Health Burden Ranking",
+        title="State Health Burden",
         labels={
-            "mean_burden": "Mean Health Burden",
+            "mean_burden": "Mean Relative Health Burden",
             "statedesc": "State",
         },
         hover_data=[
@@ -65,21 +50,14 @@ def create_state_ranking(state_df):
     fig.update_layout(
         template="plotly_white",
         height=900,
+        margin=dict(l=90, r=30, t=90, b=60),
+        hovermode="y unified",
     )
 
     return fig
 
 
-# --------------------------------------------------
-# INDICATOR-BURDEN RELATIONSHIP
-# --------------------------------------------------
-
 def create_indicator_relationship(indicator_df):
-    """
-    Show correlation between each indicator
-    and the overall health burden score.
-    """
-
     plot_df = indicator_df.sort_values(
         "correlation_with_burden",
         ascending=True
@@ -92,7 +70,7 @@ def create_indicator_relationship(indicator_df):
         orientation="h",
         title="Indicator Relationships with Overall Health Burden",
         labels={
-            "correlation_with_burden": "Correlation",
+            "correlation_with_burden": "Correlation with Burden Score",
             "indicator": "Indicator",
         },
         text_auto=".3f",
@@ -101,22 +79,21 @@ def create_indicator_relationship(indicator_df):
     fig.update_layout(
         template="plotly_white",
         height=550,
-        xaxis_range=[0, 1],
+        margin=dict(l=80, r=30, t=90, b=60),
+        xaxis_range=[-1, 1],
+        hovermode="y unified",
+    )
+
+    fig.add_vline(
+        x=0,
+        line_width=1,
+        line_dash="dash",
     )
 
     return fig
 
 
-# --------------------------------------------------
-# PRIORITY INDICATOR COMPARISON
-# --------------------------------------------------
-
 def create_priority_indicator_comparison(priority_df):
-    """
-    Compare indicator prevalence between priority
-    counties and the overall county population.
-    """
-
     plot_df = priority_df.sort_values(
         "percent_difference",
         ascending=True
@@ -129,7 +106,7 @@ def create_priority_indicator_comparison(priority_df):
         orientation="h",
         title="Priority Counties vs. Overall County Average",
         labels={
-            "percent_difference": "Difference (%)",
+            "percent_difference": "Difference from Overall Average (%)",
             "indicator": "Indicator",
         },
         text_auto=".1f",
@@ -138,21 +115,20 @@ def create_priority_indicator_comparison(priority_df):
     fig.update_layout(
         template="plotly_white",
         height=550,
+        margin=dict(l=80, r=30, t=90, b=60),
+        hovermode="y unified",
+    )
+
+    fig.add_vline(
+        x=0,
+        line_width=1,
+        line_dash="dash",
     )
 
     return fig
 
 
-# --------------------------------------------------
-# COUNTY INDICATOR PROFILE
-# --------------------------------------------------
-
 def create_county_profile(county_row):
-    """
-    Create a radar chart showing the selected
-    county's standardized indicator profile.
-    """
-
     indicators = [
         "OBESITY_z",
         "DIABETES_z",
@@ -197,6 +173,8 @@ def create_county_profile(county_row):
         title="County Indicator Profile",
         template="plotly_white",
         height=550,
+        margin=dict(l=60, r=60, t=90, b=60),
+        showlegend=False,
     )
 
     return fig
