@@ -167,7 +167,21 @@ These differences describe observed relationships within the dataset and should 
 **Deployment**
 - Gunicorn
 - Render
+
 ---
+
+---
+
+# 11. 📚 Data source
+
+```markdown
+## Data Source
+
+This project uses county-level public health data from the CDC PLACES dataset.
+
+The analytical workflow uses the 2023 data release represented in the project's processed datasets.
+
+The project does not modify or redistribute the underlying CDC methodology. Data preparation, standardization, scoring, classification, and visualization steps were developed specifically for this analytical project. 
 
 ## Repository Structure
 
@@ -192,3 +206,13 @@ public-health-data-intelligence/
 ├── README.md
 ├── requirements.txt
 └── ...
+
+## Author
+
+**Kileigh Boggess**
+
+M.S. Health Informatics | B.S. Biology
+
+Interested in health informatics, public health analytics, data management, and applied data science.
+
+[LinkedIn](https://www.linkedin.com/in/kileighboggess) • [GitHub](https://github.com/kileighboggess)
